@@ -33,6 +33,18 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w448266125_b1992000.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Colors Rishtey Europe
+http://lemon.catchmeifyo.com:8000/554465585/595566403/38179?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",RD-COLOR VISION
+http://shashe.dianshiwang.vip:27000/live/1G6TqszHmbSK/44rbL95yUhPE/68046.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="Undefined",Set Max
+http://gooserace.xyz:80/play/8RKaarZp2hb82YDzh8OYR3SySHsCHAHjmKpUJZViDMs?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Star Gold
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2848?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",B4U Kadak
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2851?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",B4U Movies
+http://190.115.29.22:8080/carter/GUV1bMq2VK/2850?checkedby:iptvcat.com
 #EXTINF:-1 group-title="HINDI",B4U MOVIES
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 ,Sony Max HD
