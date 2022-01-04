@@ -33,9 +33,9 @@ https://iptv.sohailtv.com/sohail/playlist2/index.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 , ZEE TV HD 
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/919843853120577536/-zc_BK2V_400x400.jpg" group-title="HINDI" , ZEE ANMOL HD 
+#EXTINF:-1 , ZEE ANMOL HD 
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Manoranjan_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20191221191532" group-title="HINDI",MANORANJAN MOVIES 
+#EXTINF:-1 ,MANORANJAN MOVIES 
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/469387440990347264/9TRqEbUo_400x400.jpeg" group-title="HINDI",MAHA MOVIE 
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
