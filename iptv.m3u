@@ -27,17 +27,13 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1,Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B4U MOVIES
-http://bestiptv.smartv.me:8000/bestlivetv/dz9GjtPaYw/88678?checkedby:iptvcat.com
-#EXTINF:-1,Sony Max
+#EXTINF: 1,Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 #EXTINF:-1,Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
@@ -45,34 +41,24 @@ http://208.86.19.21:80/735.stream/index.m3u8
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COMEDY
 https://pull-2747.5centscdn.com/abrout/tvacomedy/liveout/tvacomedy_720p/chunks.m3u8
-#EXTINF:-1 group-title="HINDI",ABCZY MOVIES
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE ACTION HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SET IN
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6575/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 http://208.86.19.21:80/721.stream/index.m3u8
 #EXTINF:-1 ,ZEE ANMOL HD
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony SAB
-https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
-#EXTINF:-1,Sony Entertainment HD
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF: 1 group-title="HINDI",ABCZY MOVIES
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:-1,MANORANJAN
 https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 #EXTINF:-1,WOW
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
 #EXTINF:-1,BFLIX
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1,Brit Asia
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
-#EXTINF:-1,SHOW
-https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:-1 group-title="ENGLISH",INTERLINK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
 #EXTINF:-1,History Channel
