@@ -25,53 +25,57 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1804208521.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
-#EXTINF:-1 group-title="MUSIC",KAYHAN
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w150846706.m3u8
-#EXTINF:-1 group-title="IRAN",SOHAIL
-https://iptv.sohailtv.com/sohail/playlist2/index.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 , ZEE CINEMA 
+#EXTINF:-1,Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 ,MBC BOLLYWOOD
+http://telearabica.teledunet.com:8080/live/tdn/10094.4464866/10094.m3u8
+#EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , ZEE ANMOL HD 
-http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,MANORANJAN MOVIES 
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 ,MAHA MOVIE 
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 , ZEE BOLLYWOOD HD
+#EXTINF:-1 ,ZEE CINEMA HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="HINDI" , ZEE ACTION HD 
+#EXTINF:-1,Sony Max
+https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:-1,Sony Max HD
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors Cineplex HD
+http://208.86.19.21:80/735.stream/index.m3u8
+#EXTINF:-1,Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",ZEE ACTION HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="HINDI", ZEE ACTION 
-http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , ZEE TV HD 
+#EXTINF:-1,Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
+http://208.86.19.21:80/721.stream/index.m3u8
+#EXTINF:-1 ,ZEE ANMOL HD
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRpnVwUp6AO4R9wNI4woFZUjt_RHOKC9IuJcA&usqp=CAU" group-title="HINDI" ,BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 group-title="IRAN",MY MOVIE
-http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",PERSIAN MOVIE
-http://51.210.227.135/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",VOX 1
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",VOX2
-http://51.210.199.9/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",SL 1
-http://51.210.199.3/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",SL 2
-http://51.210.199.2/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",ICNET
-https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/chunklist_w243850812_b1828000.m3u8
-#EXTINF:-1 group-title="IRAN",AVA
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 group-title="RUSSIA",A
-https://okkotv-live.cdnvideo.ru/channel/Fox_HD/1080p.m3u8
-#EXTINF:-1 group-title="Entertainment",.black Russia (480p)
-https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 group-title="Entertainment",.red Russia (480p)
-https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
-#EXTINF:-1 group-title="Science",.sci-fi Russia (480p)
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1,Sony SAB
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
+#EXTINF:-1,Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Brit Asia
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
 #EXTINF:-1 group-title="ENGLISH",INTERLINK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,History Channel
+http://58.65.171.202:8000/play/10503/index.m3u8
+#EXTINF:-1,National Geographic HD Hindi
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+#EXTINF:-1,BeIN Sports-2 [English]
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
+#EXTINF:-1,Sony Ten 1 HD
+http://208.86.19.21:80/726.stream/index.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://208.86.19.21:80/736.stream/index.m3u8
+#EXTINF:-1,Sony ten 2
+http://208.86.19.21:80/712.stream/index.m3u8
+#EXTINF:-1,PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1,UTV Action
+http://103.131.212.138:8000/play/a00k/index.m3u8
