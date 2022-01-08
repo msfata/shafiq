@@ -15,69 +15,97 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 ,ZEE CINEMA
+#EXTINF:-1 group-title="IRAN",Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE BOLLYWOOD HD
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="HINDI", Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
-#EXTINF:-1,Colors Cineplex HD
+#EXTINF:-1 group-title="INDIA",Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
-#EXTINF:-1,Colors HD
+#EXTINF:-1 group-title="INDIA",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COMEDY
+#EXTINF:-1 group-title="INDIA",COMEDY
 https://pull-2747.5centscdn.com/abrout/tvacomedy/liveout/tvacomedy_720p/chunks.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE ACTION HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 http://208.86.19.21:80/721.stream/index.m3u8
-#EXTINF:-1 ,ZEE ANMOL HD
+#EXTINF:-1 group-title="INDIA",ZEE ANMOL HD
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE TV HD
+#EXTINF:-1 group-title="INDIA",ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1,KADAK
+#EXTINF:-1 group-title="INDIA",KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 #EXTINF: 1 group-title="HINDI",ABCZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF:-1,MANORANJAN
+#EXTINF:-1 group-title="INDIA",MANORANJAN
 https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
-#EXTINF:-1,WOW
+#EXTINF:-1 group-title="INDIA",WOW
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
-#EXTINF:-1,BFLIX
+#EXTINF:-1 group-title="INDIA",Zee Bioskop (360p)
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF:-1 group-title="INDIA",BFLIX
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",INTERLINK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1,History Channel
+#EXTINF:-1 group-title="INDIA",History Channel
 http://58.65.171.202:8000/play/10503/index.m3u8
-#EXTINF:-1,LOVE NATURE
+#EXTINF:-1 group-title="INDIA",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,National Geographic HD Hindi
+#EXTINF:-1 group-title="INDIA",National Geographic HD Hindi
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-#EXTINF:-1,BeIN Sports-2 [English]
+#EXTINF:-1 group-title="INDIA",BeIN Sports-2 [English]
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
-#EXTINF:-1,Sony Ten 1 HD
+#EXTINF:-1 group-title="INDIA",Sony Ten 1 HD
 http://208.86.19.21:80/726.stream/index.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
+#EXTINF:-1 group-title="INDIA",Star Sports Select 1 HD
 http://208.86.19.21:80/736.stream/index.m3u8
-#EXTINF:-1,Sony ten 2
+#EXTINF:-1 group-title="INDIA",Sony ten 2
 http://208.86.19.21:80/712.stream/index.m3u8
-#EXTINF:-1,PTV Sports
+#EXTINF:-1 group-title="INDIA",PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1,UTV Action
+#EXTINF:-1 group-title="INDIA",Ind TV USA
+https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
+#EXTINF:-1 group-title="INDIA",UTV Action
 http://103.131.212.138:8000/play/a00k/index.m3u8
-#EXTINF:-1,AXN
+#EXTINF:-1 group-title="ENGLISH",AXN
 https://sport.livedoomovie.com//02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1,Filmbox Arthouse
+#EXTINF:-1 group-title="ENGLISH",Filmbox Arthouse
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1071/index.m3u8
-#EXTINF:-1,TV 4 FILM SE
+#EXTINF:-1 group-title="ENGLISH",TV 4 FILM SE
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12069/index.m3u8
-#EXTINF:-1,VIASAT FILM HITS HD SE
+#EXTINF:-1 group-title="ENGLISH",VIASAT FILM HITS HD SE
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12072/index.m3u8
-#EXTINF:-1,VIASAT FILM ACTION HD SE
+#EXTINF:-1 group-title="ENGLISH",VIASAT FILM ACTION HD SE
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12081/index.m3u8
-#EXTINF:-1,VIASAT FILM PREMIER HD SE
+#EXTINF:-1 group-title="ENGLISH",VIASAT FILM PREMIER HD SE
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12082/index.m3u8
-#EXTINF:-1,Canal+ Film HD PL
+#EXTINF:-1 group-title="ENGLISH",Canal+ Film HD PL
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6101/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 group-title="ENGLISH",30A Darcizzle Offshore
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="MUSIC",30A Music
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="ENGLISH",30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="ENGLISH",AFV (STIRR)
+https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
+#EXTINF:-1 group-title="ENGLISH",GRAVITAS MOVIES (STIRR)
+https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
+#EXTINF:-1 group-title="ENGLISH",MOVIE SPHERE
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 group-title="ENGLISH",Movie Kingdom
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="ENGLISH",Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH",Zerouno TV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH",Wonder
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
