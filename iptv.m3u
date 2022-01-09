@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
-https://live.hastitv.com/hls/livetv_480p.m3u8
+https://live.hastitv.com/hls/livetv_240p.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1677394021.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL TV
@@ -35,8 +35,6 @@ https://pull-2747.5centscdn.com/abrout/tvacomedy/liveout/tvacomedy_720p/chunks.m
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 http://208.86.19.21:80/721.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE ANMOL HD
-http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE TV HD
 http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",KADAK
@@ -75,37 +73,4 @@ https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
 http://103.131.212.138:8000/play/a00k/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",AXN
 https://sport.livedoomovie.com//02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="ENGLISH",Filmbox Arthouse
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/1071/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",TV 4 FILM SE
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12069/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",VIASAT FILM HITS HD SE
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12072/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",VIASAT FILM ACTION HD SE
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12081/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",VIASAT FILM PREMIER HD SE
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/12082/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",Canal+ Film HD PL
-http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6101/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",The Southeastern Channel
-http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1 group-title="ENGLISH",30A Darcizzle Offshore
-https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="MUSIC",30A Music
-https://30a-tv.com/music.m3u8
-#EXTINF:-1 group-title="ENGLISH",30A The Beach Show
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 group-title="ENGLISH",AFV (STIRR)
-https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 group-title="ENGLISH",GRAVITAS MOVIES (STIRR)
-https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8
-#EXTINF:-1 group-title="ENGLISH",MOVIE SPHERE
-https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="ENGLISH",Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 group-title="ENGLISH",Play TV (480p)
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH",Zerouno TV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH",Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+
