@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN", HASTI
+#EXTINF:-1 group-title="AFGHAN", HASTI TV
 https://live.hastitv.com/hls/livetv_240p.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1677394021.m3u8
