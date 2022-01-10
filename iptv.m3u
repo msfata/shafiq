@@ -35,6 +35,8 @@ https://pull-2747.5centscdn.com/abrout/tvacomedy/liveout/tvacomedy_720p/chunks.m
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF: 1 group-title="HINDI", Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="HINDI",STAR GOLD
+http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/22205?checkedby:iptvcat.com
 #EXTINF: 1 group-title="HINDI",ABCZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
 #EXTINF:-1 group-title="INDIA",WOW
@@ -51,21 +53,27 @@ http://58.65.171.202:8000/play/10503/index.m3u8
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="INDIA",National Geographic HD Hindi
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-#EXTINF:-1 group-title="INDIA",BeIN Sports-2 [English]
+#EXTINF:-1 group-title="INDIA",BeIN 
 http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="Undefined",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="INDIA",Sony Ten 1 HD
 http://208.86.19.21:80/726.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",Sony ten 2
 http://208.86.19.21:80/712.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",Ind TV USA
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
-#EXTINF: 1 group-title="INDIA",UTV Action
+#EXTINF: 0 group-title="INDIA",UTV Action
 http://103.131.212.138:8000/play/a00k/index.m3u8
-#EXTINF: 1 group-title="ENGLISH",AXN
+#EXTINF: 0 group-title="ENGLISH",AXN
 https://sport.livedoomovie.com//02_AXNHD_720p/chunklist.m3u8
-#EXTINF: 1 group-title="ENGLISH",Movies
+#EXTINF: 0 group-title="ENGLISH",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH",The Asylum
+#EXTINF: 0 group-title="ENGLISH",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX
+http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/23452?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX 2
+http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/22198?checkedby:iptvcat.com
 
 
