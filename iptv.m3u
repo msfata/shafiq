@@ -13,6 +13,8 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
+#EXTINF:-1,AVT Khyber 
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 group-title="IRAN",Persiana Cinema
@@ -23,6 +25,12 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4U movies
+http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1,Rasi Hindi
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
+#EXTINF:-1,Mitra Channel
+http://livestream.webtvindia.in/mitra/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",Colors HD
