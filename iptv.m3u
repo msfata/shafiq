@@ -83,5 +83,15 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280
 http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/23452?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX 2
 http://dragoniptv.iptf.me:8080/nrwin/a4DWkrhWKzYU/22198?checkedby:iptvcat.com
+#EXTINF:-1,GEM Drama 
+http://65.21.196.79/gem_drama/master.m3u8
+#EXTINF:-1,GEM Food 
+http://65.21.196.79/gem_food/master.m3u8
+#EXTINF:-1,GEM Nature 
+http://65.21.196.79/gem_nature/master.m3u8
+#EXTINF:-1,GEM River 
+http://65.21.196.79/gem_river/master.m3u8
+#EXTINF:-1,Xumo Free Movies 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
 
 
