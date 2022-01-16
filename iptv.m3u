@@ -17,45 +17,19 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE PLEX
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U movies
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:-1 ,Mitra Channel
-http://livestream.webtvindia.in/mitra/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="INDIA",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE ACTION HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE TV HD
-http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH",INTERLINK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF:-1 group-title="INDIA",History Channel
-http://58.65.171.202:8000/play/10503/index.m3u8
-#EXTINF:-1 group-title="INDIA",National Geographic HD Hindi
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-#EXTINF:-1 group-title="INDIA",BeIN
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/68.m3u8
-#EXTINF:-1 group-title="INDIA",Ind TV USA
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/index_1500000_av-p.m3u8
 #EXTINF:-1 group-title="ENGLISH",AXN
 https://sport.livedoomovie.com//02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",The Asylum
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF:-1 ,GEM Drama
-http://65.21.196.79/gem_drama/master.m3u8
-#EXTINF:-1 ,GEM Food
-http://65.21.196.79/gem_food/master.m3u8
-#EXTINF:-1 ,GEM Nature
-http://65.21.196.79/gem_nature/master.m3u8
-#EXTINF:-1 ,GEM River
-http://65.21.196.79/gem_river/master.m3u8
 #EXTINF:-1 ,Xumo Free Movies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-#EXTINF:-1 ,STAR GOLD
-https://list.iptvcat.com/my_list/s/2b2a73db68c442127a5e2740304a3379.m3u8
