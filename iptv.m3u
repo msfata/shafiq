@@ -23,8 +23,6 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,56.Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,B4U movies
-http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 ,B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 #EXTINF:-1 group-title="HINDI",SONY MAX
