@@ -17,12 +17,8 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
 #EXTINF: 0 ,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",USTAV GOLD
+#EXTINF: -1 group-title="INDIA",USTAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE CINEMA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE CINEMA HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="INDIA",ZEE CINEMA HD1
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="INDIA",ZEE BOLLYWOOD HD
@@ -71,9 +67,9 @@ http://93.152.174.144:4000/play/skysports2/index.m3u8
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF: 0 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF: 0 ,STAR GOLD HD
-https://list.iptvcat.com/my_list/s/d45c3ac89028cb78d64e9df22b5a32fb.m3u8
-#EXTINF: 0 ,STAR GOLD
-https://list.iptvcat.com/my_list/s/e2b21fbe02a546890929fc230819fcea.m3u8
-#EXTINF: 0 ,STAR GOLD 2
-https://list.iptvcat.com/my_list/s/30d88a303d941966c72fbb3789697088.m3u8
+#EXTINF: 0 group-title="INDIA",ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF: 0 group-title="INDIA",ZEE CINEMA HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+
+
