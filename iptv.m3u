@@ -1,75 +1,73 @@
 #EXTM3U
-#EXTINF: 0 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
+#EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF: 0 group-title="AFGHAN",HASTI TV
+#EXTINF:-1 group-title="AFGHAN",HASTI TV
 https://live.hastitv.com/hls/livetv_240p.m3u8
-#EXTINF: 0 group-title="AFGHAN",NOBEL CINEMA
+#EXTINF:-1 group-title="AFGHAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1677394021.m3u8
-#EXTINF: 0 group-title="AFGHAN",NOBEL TV
+#EXTINF:-1 group-title="AFGHAN",NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
-#EXTINF: 0 group-title="AFGHAN",ARIANA
+#EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
-#EXTINF: 0 group-title="MUSIC",PAMIR
+#EXTINF:-1 group-title="MUSIC",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF: 0 group-title="MUSIC",BAHAR
+#EXTINF:-1 group-title="MUSIC",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
-#EXTINF: 0 group-title="IRAN",MANOTO HD
+#EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF: 0 ,Sony Max HD
+#EXTINF:-1 ,Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="INDIA",USTAV GOLD
+#EXTINF:-1 group-title="INDIA",USTAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE CINEMA HD1
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD1
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE BOLLYWOOD HD
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 ,56.Zee Action
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 ,Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF: 0 ,ZEE ANMOLE
-http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 ,STAR PLUS HD
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF: 0 ,B4U KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
-#EXTINF: 0 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF: 0 group-title="HINDI",ABCY
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF: 0 ,BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF: 0 ,WOW CINEMA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF: 0 ,MANORANJAN MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF: 0 ,USTAV GOLD
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF: 0 ,MAHA MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF: 0 ,ABZY
-https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
-#EXTINF: 0 ,ABZY MOVIES
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF: 0 group-title="ENGLISH",INTERLINK
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-#EXTINF: 0 group-title="ENGLISH",Movies
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF: 0 group-title="ENGLISH",The Asylum
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
-#EXTINF: 0 ,Xumo Free Movies
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
-#EXTINF: 0 ,65.National Geographic HD Hindi
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-#EXTINF: 0 ,91.Sky Sports Cricket
-http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF: 0 ,92.Sky Sports Football
-http://93.152.174.144:4000/play/skysports5/index.m3u8
-#EXTINF: 0 ,LOVE NATURE
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE CINEMA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF: 0 group-title="INDIA",ZEE CINEMA HD
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD HD
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,56.Zee Action
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE ANMOLE
+http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR PLUS HD
+http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
+#EXTINF:-1 ,B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:-1 ,B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="HINDI",ABCY
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+#EXTINF:-1 ,BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+#EXTINF:-1 ,WOW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+#EXTINF:-1 ,MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+#EXTINF:-1 ,USTAV GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 ,MAHA MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+#EXTINF:-1 ,ABZY
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
+#EXTINF:-1 ,ABZY MOVIES
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",INTERLINK
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1 group-title="ENGLISH",Movies
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH",The Asylum
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-theasylum/CDN/1280x720_2500000/index.m3u8
+#EXTINF:-1 ,Xumo Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumofreemovies/CDN/playlist.m3u8
+#EXTINF:-1 ,91.Sky Sports Cricket
+http://93.152.174.144:4000/play/skysports2/index.m3u8
+#EXTINF:-1 ,92.Sky Sports Football
+http://93.152.174.144:4000/play/skysports5/index.m3u8
+#EXTINF:-1 ,LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
