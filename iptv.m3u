@@ -3,7 +3,6 @@
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",1 TV
 http://51.210.227.142/hls/stream.m3u8
-
 #EXTINF:-1 group-title="AFGHAN",HASTI TV
 https://live.hastitv.com/hls/livetv_240p.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL CINEMA
@@ -18,7 +17,7 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:iptvcat.com
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
@@ -28,28 +27,15 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 group-title="HINDI",ABCY
-https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF:-1 ,BFLIX MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 ,WOW CINEMA
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
-#EXTINF:-1 ,MANORANJAN MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 ,USTAV GOLD
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 ,MAHA MOVIES
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1 ,ABZY
-https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
 #EXTINF:-1 ,ABZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
+#EXTINF:-1 ,ABZY
+https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
+#EXTINF:-1 ,USTAV GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 group-title="INDIA",USTAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema HD
-http://stariptv.org:8080/wael2021/123456/99332?checkedby:iptvcat.com
+
 
