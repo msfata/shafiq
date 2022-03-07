@@ -25,53 +25,57 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-#EXTINF:-1 , BOLLYWOOD HD
+
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",BOLLYWOOD HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7160.ts?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",MBC BOLLYWOOD HD  ™
-http://red.ipfox.org:8080/1234/12345678/32852?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR.MBC Bollywood
-http://stariptv.org:8080/wael2021/123456/15136?checkedby:iptvcat.com
-#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:iptvcat.com
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
-http://stariptv.org:8080/wael2021/123456/99332?checkedby:iptvcat.com
-#EXTINF:-1 ,ZEE CINEMA HD
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE CIN HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE BOLLYWOOD HD
+#EXTINF:-1 group-title="HINDI",ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE CINEMA
+http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:iptvcat.com
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE ACTION HD
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE TV HD
-http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,KADAK
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE ACTION
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",UTSAV GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE TV HD
+http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",USTAV GOLD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",BOX CINEMA
+http://14.199.164.20:4001/play/a0su/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",MANORANJAN
+https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",DHANGAL
+https://idvd.multitvsolution.com/idvo/dangal_360p/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",COLOR
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",WOW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",BFLIX MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ISHARA
+https://epiconvh.s.llnwi.net/ishaara/master_1080.m3u8
 #EXTINF:-1 group-title="HINDI",ABCZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD HD
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
-#EXTINF:-1 ,ABZY MOVIES
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ABZY MOVIES
 https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in_480p/index.m3u8
-#EXTINF:-1 ,ABZY
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ABZY
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
-#EXTINF:-1 ,USTAV GOLD
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 group-title="INDIA",USTAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,LOVE NATURE
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="ENGLISH",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",STARZ CINEMA
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ENGLISH",STARZ CINEMA
 http://orbyt.xyz:8080/LydiaClaiborne01/4t8tJ93c7MYM/59994?checkedby:iptvcat.com
-#EXTINF:-1 ,MANORANJAN
-https://idvd.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
-#EXTINF:-1 ,WOW
-https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in_480p/index.m3u8
-#EXTINF:-1 ,BFLIX
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",INTERLINK
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="ENGLISH",INTERLINK
 https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+
 
 
