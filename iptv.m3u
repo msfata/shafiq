@@ -25,7 +25,8 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
-
+#EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE CINEMA HD
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",BOLLYWOOD HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7160.ts?checkedby:iptvcat.com
 #EXTINF:-1 tvg-country="IN" tvg-logo="" group-title="HINDI",ZEE CIN HD
