@@ -21,6 +21,9 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF: 0 group-title="MUSIC",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
+
+
+
 #EXTINF: 0 group-title="Hindi",BFLIX 
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1,Utsav Gold
@@ -31,6 +34,8 @@ http://live.flixhub.net/hls/stargold2hd.m3u8
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7160.ts?checkedby:iptvcat.com
 #EXTINF: 0 group-title="Hindi",52.Sony Max HD
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE CINEMA HD (IN)
+http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTINF: 0 group-title="HINDI",ZEE CINEMA HD
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="HINDI",ZEE CIN HD
@@ -41,8 +46,12 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:iptvcat.com
 #EXTINF: 0 group-title="HINDI",ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,E24
+http://14.199.164.20:4001/play/a0pc/index.m3u8
 #EXTINF: 0 group-title="INDIA",USTAV GOLD
 http://208.115.215.42:80/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UTSAV PLUS HD
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dhinchaak
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1,Dhinchaak 2
@@ -51,10 +60,15 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 #EXTINF: 0 group-title="HINDI",SONY MAX
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY MAX HD (IN)
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:-1,SONY MAX BACKUP
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="HINDI",MANORANJAN
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 #EXTINF: 0 group-title="HINDI",BOX CINEMA
 http://14.199.164.20:4001/play/a0su/index.m3u8
+
 #EXTINF: 0 group-title="HINDI",ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF: 0 group-title="HINDI",ZEE TV HD
@@ -67,39 +81,37 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Color HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Bollywood
-http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF: 0 group-title="ENGLISH",LOVE NATURE
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+
 #EXTINF:-1,AMC Presents
 https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1,TVN Movies
 http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+
 #EXTINF:-1,Wow Cinema One
 http://14.199.164.20:4001/play/a0n3/index.m3u8
+
 #EXTINF:-1,MOVIE PLUS
 http://14.199.164.20:4001/play/a0os/index.m3u8
+
 #EXTINF:-1,FIMACHI
 https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
+
 #EXTINF:-1,SHOWBOX MOVIES IN
 https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
-#EXTINF:-1 group-title="Undefined",1+1 Спорт 
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",1-2-3 TV (270p)
-http://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 group-title="Undefined",1HD Music Television (404p) [Not 24/7]
-https://sc.id-tv.kz/1hd.m3u8
-#EXTINF:-1,SONY MAX HD (IN)
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1,SONY MAX BACKUP
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+
+
 #EXTINF:-1,CINEMA TV IN
 http://14.199.164.20:4001/play/a0n4/index.m3u8
 #EXTINF:-1,MOVIE PLUS IN
 http://14.199.164.20:4001/play/a0os/index.m3u8
-#EXTINF:-1,UTSAV PLUS HD
-http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE CINEMA HD (IN)
-http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
+
+
 #EXTINF:-1,STAR MOVIES HD (IN)
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+
+#EXTINF: 0 group-title="ENGLISH",LOVE NATURE
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
