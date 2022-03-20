@@ -1,142 +1,87 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="AFGHANISTAN",1 TV
 http://51.210.227.142/hls/stream.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",MISKENYAR
 https://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",PAYAME AFGHANISTAN
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/chunks.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",HASTI TV
 https://live.hastitv.com/hls/livetv_240p.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w95862338.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w825651370.m3u8
-
-#EXTINF:-1,Filmy 
+#EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-
-#EXTINF:-1,COLORS CINEPLEX
+#EXTINF:-1 ,COLORS CINEPLEX
 http://live.flixhub.net/hls/colorscineplex.m3u8
-
 #EXTINF:-1 group-title="HINDI",MAX
 http://live.flixhub.net/hls/sonymax.m3u8
-
-#EXTINF:-1,SONY MAX HD
+#EXTINF:-1 ,SONY MAX HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-
-#EXTINF:-1,STAR GOLD 
+#EXTINF:-1 ,STAR GOLD
 http://live.flixhub.net/hls/stargold.m3u8
-
-#EXTINF:-1,STAR GOLD 2 HD
+#EXTINF:-1 ,STAR GOLD 2 HD
 http://live.flixhub.net/hls/stargold2hd.m3u8
-
-#EXTINF:-1,ZEE CINEMA HD
+#EXTINF:-1 ,ZEE CINEMA HD
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD HD
 http://stream.super-iptv.tv:80/live/tvip4k@rest/CxLy0erYNG/7160.ts?checkedby:iptvcat.com
-
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="HINDI",ZEE CINEMA INDIA
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-
 #EXTINF:-1 group-title="HINDI",ZEE CINEMA INDIA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ZEE CINEMA IN BACKUP
+#EXTINF:-1 ,ZEE CINEMA IN BACKUP
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF: -1 group-title="HINDI",ZEE ACTION
+#EXTINF:-1 group-title="HINDI",ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="HINDI",SONY MAX
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="HINDI",UTSAV PLUS HD
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 group-title="HINDI",Utsav Gold
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-
-#EXTINF:-1,BFLIX MOVIES IN
+#EXTINF:-1 ,BFLIX MOVIES IN
 http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-
-#EXTINF:-1 group-title="HINDI",FIMACHI
-https://epiconvh.s.llnwi.net/filamchi/master_1024.m3u8
-
-#EXTINF:-1 group-title="HINDI",SHOWBOX MOVIES IN
-https://epiconvh.s.llnwi.net/showbox/master_1024.m3u8
-
-#EXTINF:-1,UTV ACTION
+#EXTINF:-1 ,UTV ACTION
 http://live.flixhub.net/hls/utvaction.m3u8
-
-#EXTINF:-1,RASI HIND
+#EXTINF:-1 ,RASI HIND
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
-
-#EXTINF:-1,MTV HD+
+#EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1 group-title="ENGLISH",LOVE NATURE
+#EXTINF:-1 group-title="ENGLISH",LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1,BINDASS
+#EXTINF:-1 ,BINDASS
 http://live.flixhub.net/hls/bindass.m3u8
-
-#EXTINF:-1,SONY GOLD HD BACKUP
+#EXTINF:-1 ,SONY GOLD HD BACKUP
 http://103.132.16.98:8080/stargoldhd/mpegts
-
-#EXTINF:-1,SKY CINEMA ACTION  HD
+#EXTINF:-1 ,SKY CINEMA ACTION  HD
 http://stariptv.org:8080/wael2021/123456/9267?checkedby:iptvcat.com
-
-#EXTINF:-1,Sky Cinema Greats
+#EXTINF:-1 ,Sky Cinema Greats
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199545?checkedby:iptvcat.com
-
-#EXTINF:-1,Sky Cinema Premiere
+#EXTINF:-1 ,Sky Cinema Premiere
 http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199542?checkedby:iptvcat.com
-
-#EXTINF:-1,Sky Cinema Select
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199551?checkedby:iptvcat.com
-
-#EXTINF:-1,Sky Cinema Thriller
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199549?checkedby:iptvcat.com
-
-#EXTINF:-1,Cinemax
+#EXTINF:-1 ,Cinemax
 http://myhosting.one:8080/arsenal1/arsenal1/261321?checkedby:iptvcat.com
-
-#EXTINF:-1,Cinemax
+#EXTINF:-1 ,Cinemax
 http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
-
-#EXTINF:-1,Cinemax
+#EXTINF:-1 ,Cinemax
 http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
-
-#EXTINF:-1,Cinemax Latino
+#EXTINF:-1 ,Cinemax Latino
 http://myhosting.one:8080/arsenal1/arsenal1/261320?checkedby:iptvcat.com
-
-#EXTINF:-1,Cinemax West
+#EXTINF:-1 ,Cinemax West
 http://myhosting.one:8080/arsenal1/arsenal1/261322?checkedby:iptvcat.com
-
-#EXTINF:-1,STARZ Cinema
+#EXTINF:-1 ,STARZ Cinema
 http://myhosting.one:8080/arsenal1/arsenal1/261264?checkedby:iptvcat.com
