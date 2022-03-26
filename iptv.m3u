@@ -19,8 +19,30 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w95862338.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w825651370.m3u8
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",AR.MBC Bollywood
+http://stariptv.org:8080/wael2021/123456/15136?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Wayyak- Bollywood Love HD
+http://stariptv.org:8080/wael2021/123456/129685?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="Undefined",Wayyak- Bollywood Comedy HD2
+http://stariptv.org:8080/wael2021/123456/129684?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX
+http://smartsw.xyz:8080/tom/tom123/99784?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",SONY MAX 2
+http://smartsw.xyz:8080/tom/tom123/99783?checkedby:iptvcat.com
+#EXTINF:-1 ,ZEE CINEMA (https://dailytv56.blogspot.com/2021/05/iptv-pak-and-india)
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
+#EXTINF:-1 group-title="HINDI",B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="HINDI",UTSAV PLUS HD
+http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",Utsav Gold
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1 ,BFLIX MOVIES IN
+http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 ,UTV ACTION
+http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 ,COLORS CINEPLEX
 http://live.flixhub.net/hls/colorscineplex.m3u8
 #EXTINF:-1 group-title="HINDI",MAX
@@ -43,20 +65,10 @@ http://live.flixhub.net/hls/zeecinemahd.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA IN BACKUP
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="HINDI",B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE ACTION
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",SONY MAX
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",UTSAV PLUS HD
-http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",Utsav Gold
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 ,BFLIX MOVIES IN
-http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 ,UTV ACTION
-http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 ,RASI HIND
 http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8
 #EXTINF:-1 ,MTV HD+
@@ -67,21 +79,3 @@ https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 http://live.flixhub.net/hls/bindass.m3u8
 #EXTINF:-1 ,SONY GOLD HD BACKUP
 http://103.132.16.98:8080/stargoldhd/mpegts
-#EXTINF:-1 ,SKY CINEMA ACTION  HD
-http://stariptv.org:8080/wael2021/123456/9267?checkedby:iptvcat.com
-#EXTINF:-1 ,Sky Cinema Greats
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199545?checkedby:iptvcat.com
-#EXTINF:-1 ,Sky Cinema Premiere
-http://trabzontv.xyz:8080/CIFTCI/CIFTCI/199542?checkedby:iptvcat.com
-#EXTINF:-1 ,Cinemax
-http://myhosting.one:8080/arsenal1/arsenal1/261321?checkedby:iptvcat.com
-#EXTINF:-1 ,Cinemax
-http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
-#EXTINF:-1 ,Cinemax
-http://stariptv.org:8080/wael2021/123456/148473?checkedby:iptvcat.com
-#EXTINF:-1 ,Cinemax Latino
-http://myhosting.one:8080/arsenal1/arsenal1/261320?checkedby:iptvcat.com
-#EXTINF:-1 ,Cinemax West
-http://myhosting.one:8080/arsenal1/arsenal1/261322?checkedby:iptvcat.com
-#EXTINF:-1 ,STARZ Cinema
-http://myhosting.one:8080/arsenal1/arsenal1/261264?checkedby:iptvcat.com
