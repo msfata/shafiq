@@ -18,8 +18,16 @@ https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w95862338.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w825651370.m3u8
 
-#EXTINF:-1 ,ZEE CINEMA (https://dailytv56.blogspot.com/2021/05/iptv-pak-and-india)
+#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",ZEE CINEMA INDIA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",ZEE ACTION
+http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="HINDI",SONY MAX
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",B4U KADAK
@@ -29,16 +37,10 @@ http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BFLIX MOVIES IN
 http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CINEMA INDIA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,ZEE CINEMA IN BACKUP
 http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE ACTION
-http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="HINDI",SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ENGLISH",LOVE NATURE
