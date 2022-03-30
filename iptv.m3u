@@ -17,6 +17,8 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w95862338.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL CINEMA
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w825651370.m3u8
+#EXTINF:-1,STAR GOLD HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX HD
 http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1,SONY MAX 2
@@ -37,8 +39,8 @@ http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLOR CINEPLIX
 http://103.55.144.46/hls/colorscineplex.m3u8
-#EXTINF:-1,STAR GOLD HD
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UTV
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR USTAV HD 
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 ,SAHARA 
@@ -47,8 +49,6 @@ http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1 ,UTV
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BFLIX MOVIES IN
 http://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA IN BACKUP
