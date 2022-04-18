@@ -69,12 +69,22 @@ https://fflivetolomusic.b-cdn.net/media_0.m3u8
 https://yahoo-plex.amagi.tv/playlist404pl.m3u8
 #EXTINF:-1, DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1,ARIARANGE
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1256000_sleng.m3u8
 #EXTINF:-1, ALJAZERA 
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
 #EXTINF:-1,EURO NEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 #EXTINF:-1,MIR TV
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
+#EXTINF:-1,MANOTO
+https://d2rwmwucnr0d10.cloudfront.net/live_750.m3u8
+#EXTINF:-1,ROYAL TV
+https://iptv.rtimetv.com/rtimetv/playlist1/index.m3u8
+#EXTINF:-1, GEM BOLLYWOOD
+https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
+#EXTINF:-1,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1,GEM FILM
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1,GEM TV
+https://stream-live.gemonline.tv/live/gem/index.m3u8
 #index of: https://yamcode.com%pakistan%.m3u8 after:2022-03-20
