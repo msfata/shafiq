@@ -31,8 +31,16 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
 #EXTINF:-1,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE CINEMA 
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE CINEMA 1
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY MAX
+http://208.115.215.42/SonY_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,SONY MAX L
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX 2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",Sony Max 2
@@ -47,8 +55,7 @@ http://new-pro.tv:8080/Fernando/123321/72072?checkedby:iptvcat.com
 https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400x300/201909/jby7kv1wjoonygtffhu5.png.jpg" group-title="HINDI" , ZEE ACTION HD
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLOR CINEPLIX
-http://103.55.144.46/hls/colorscineplex.m3u8
+
 #EXTINF:-1 ,UTV
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SAHARA 
@@ -78,19 +85,19 @@ https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
 #EXTINF:-1,PMC
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1,GEM FILM
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8+
 #EXTINF:-1,GEM TV
 https://stream-live.gemonline.tv/live/gem/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema
-http://flussonicusa.bdcabletv.com:80/PCPSCEDAQt/ou0mthW/867?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinema HD
-http://new-pro.tv:8080/Fernando/123321/72060?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Zee Cinemalu
-http://new-pro.tv:8080/Fernando/123321/178120?checkedby:iptvcat.com
-#EXTINF:-1,IEMAN TV
-https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",VENUS TV
-http://new-pro.tv:8080/Fernando/123321/221325?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",VENUS TV
-https://list.iptvcat.com/my_list/s/3f1860a40f360965177ba9701263f783.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EDPdahO.png" group-title="English",Star Movies Select HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ENGLISH
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+
+
+
+
+
 #index of: https://yamcode.com%pakistan%.m3u8 after:2022-03-20
