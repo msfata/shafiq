@@ -27,20 +27,34 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
+#EXTINF:-1,B4U Music
+http://144.217.70.181:9587/hin2/MUSICINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR GOLD 
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star gold HD
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1,Star gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR GOLD SELECT
+http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Bolywood
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Classic&q=800&e=.m3u8
+#EXTINF:-1,Sony max
+http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:-1,SONY MAX L
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX 2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Colors Cineplex
+http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1,STAR BHARAT HD (NEW)
+http://208.86.19.13:81/721.stream/index.m3u8
+#EXTINF:-1,Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1,KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
 #EXTINF:-1 ,Filmy
@@ -61,6 +75,8 @@ http://208.115.215.42/ZEE_Tv_HD_02/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:-1,Star Movies
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR WORLD 
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 ,MTV HD+
@@ -75,5 +91,14 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a4429755
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1, AFG MUSIC
-https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sony MAX  (pk)
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
+#EXTINF:-1,HUM TV HD
+http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
+#EXTINF:-1,GEO HD
+http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+
