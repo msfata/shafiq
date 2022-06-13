@@ -29,16 +29,22 @@ https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 http://144.217.70.181:9587/hin2/MUSICINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star gold HD
+#EXTINF:-1 ,Star gold 
 http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 ,Star gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Bolywood
-http://103.139.171.5:5001/jiotvplus/live.php?c=Zee_Classic&q=800&e=.m3u8
+#EXTINF:-1 ,ZEE CINEMA
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-bollywood.png" group-title="HINDI", ZEE BOLLYWOOD HD 
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
+
 #EXTINF:-1 ,Sony max
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX L
@@ -59,14 +65,18 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,E24
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony MAX  
+http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 ,STAR MOVIES
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 ,Star Movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR WORLD
 http://221.120.204.4/star-world-LOCKLE/index.m3u8
+#EXTINF:-1 ,SAHARA
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DW
@@ -77,10 +87,6 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a4429755
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony MAX  (pk)
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 #EXTINF:-1 ,HUM TV HD
 http://221.120.204.4/HUM-TV-LOCKLE/playlist.m3u8
 #EXTINF:-1 ,GEO HD
