@@ -27,11 +27,13 @@ https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
 https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star gold 
+#EXTINF:0 ,Star gold 
 http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 ,Star gold HD
+#EXTINF:0 ,Star gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star gold 2
+#EXTINF:0 ,Star gold HD
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
@@ -55,8 +57,10 @@ http://208.86.19.13:81/721.stream/index.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SAHARA
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1 ,KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse_540p/index.m3u8
+#EXTINF:-1 ,Star Baharat
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 ,Star PLUS
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_360p.m3u8
 #EXTINF:-1 ,Filmy
@@ -91,7 +95,7 @@ https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/in
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,DUBAI SPORTS 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,Dubai Racing
-http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,UTV ACTION
+http://cdn12.henico.net:8080/live/jbani/index.m3u8
+#EXTINF:-1,ZOOM
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
