@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFGHAN",TOLO
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",1 TV
 http://51.210.227.142/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
-#EXTINF:-1 group-title="AFGHAN",MISKENYAR
-https://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
-#EXTINF:-1 group-title="AFGHAN",DUNYAI NOW
-http://51.210.199.45/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN",PAYAME AFGHAN
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1142056943.m3u8
 #EXTINF:-1 group-title="MUSIC",PAMIR
@@ -29,20 +21,20 @@ https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
 https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Star gold 
+#EXTINF:-1 ,Star gold
 http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:0 ,Star gold HD
+#EXTINF:-1 ,Star gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:0 ,Star gold HD
+#EXTINF:-1 ,Star gold HD
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:0 ,Star gold 2
+#EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-bollywood.png" group-title="HINDI", ZEE BOLLYWOOD HD 
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8 
+#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
+http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,Colors Cineplex
@@ -53,7 +45,7 @@ http://208.86.19.13:81/706.stream/index.m3u8
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY MAX 2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,STAR BHARAT HD 
+#EXTINF:-1 ,STAR BHARAT HD
 http://208.86.19.13:81/721.stream/index.m3u8
 #EXTINF:-1 ,Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
@@ -69,41 +61,29 @@ https://idvd.multitvsolution.com/idvo/moviehouse_360p.m3u8
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 ,ZEE CLASSIC
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Sony MAX  
-http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
-#EXTINF:-1 ,STAR WORLD
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="English",Star Movies Select HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UTV ACTION
+#EXTINF:-1 ,UTV ACTION
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1,ZOOM
+#EXTINF:-1 ,ZOOM
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,PTV Sports
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
-#EXTINF:-1,Arena 1 Premium
+#EXTINF:-1 ,Arena 1 Premium
 http://46.29.169.15:4001/play/a00g/index.m3u8
-#EXTINF:-1,CANAL 11
+#EXTINF:-1 ,CANAL 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1,DUBAI SPORTS 1
+#EXTINF:-1 ,DUBAI SPORTS 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,DUBAI SPORTS 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,ASIA
 http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1 ,EURO NEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
-#EXTINF:-1,ALJAZEERA 
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1,RT
+#EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
