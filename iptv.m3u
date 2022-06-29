@@ -19,6 +19,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
 #EXTINF:-1 group-title="IRAN",MANOTO HD
 https://dh4wkqcyy8768.cloudfront.net/live_500.m3u8
+#EXTINF:-1,AVA Series
+http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star gold
@@ -31,13 +33,18 @@ http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Utv MOVIES HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1,& Picture
+http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 ,Sony max
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX 2
@@ -68,6 +75,12 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,National Geographic WILD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1,Crime Time
+https://crimetimebamca-roku.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 ,Arena 1 Premium
 http://46.29.169.15:4001/play/a00g/index.m3u8
 #EXTINF:-1 ,CANAL 11
@@ -80,4 +93,14 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,Brat TV
+https://brat-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1,CCM
+http://210.210.155.35/session/de1ca6b2-3736-11ec-bdaf-8038bb6f5132/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1,CINE LIFE HD
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,Smithsonian Channel Asia
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Sofy TV
+https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 ###
