@@ -9,8 +9,6 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1142056943.m3u8
 #EXTINF:-1 group-title="MUSIC",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 group-title="MUSIC",BAHAR
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w82459033.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv_480p.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL CINEMA
@@ -31,8 +29,6 @@ http://208.86.19.13:81/717.stream/index.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star gold 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,& Picture
-http://103.55.144.46/hls/andpictures.m3u8
 #EXTINF:-1 ,Sony max
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX 2
@@ -43,21 +39,21 @@ http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Pardesi TV
+#EXTINF:-1 ,Pardesi TV
 http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE ANMOL
+#EXTINF:-1 ,ZEE ANMOL
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Utv MOVIES HD
+#EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD SELECT
 http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 ,Colors Cineplex
 http://208.86.19.13:81/735.stream/index.m3u8
-#EXTINF:-1,Colors HD
+#EXTINF:-1 ,Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SAHARA
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1,SONY SAB HD
+#EXTINF:-1 ,SONY SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR BHARAT HD
 http://208.86.19.13:81/721.stream/index.m3u8
@@ -69,50 +65,39 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_360p.m3u8
 #EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1,Sony TV HD (BDC)
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 #EXTINF:-1 ,MATV
 https://a.jsrdn.com/broadcast/b8d66d4726/-0100/hi/c.m3u8
-#EXTINF:-1 ,DENCHAK
-http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 ,DENCHAK 2
-http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,LOVE NATURE
 https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Love Nature
+#EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,National Geographic WILD
+#EXTINF:-1 ,National Geographic WILD
 http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1,Crime Time
+#EXTINF:-1 ,Crime Time
 https://crimetimebamca-roku.amagi.tv/playlist404-p.m3u8
 #EXTINF:-1 ,Arena 1 Premium
 http://46.29.169.15:4001/play/a00g/index.m3u8
 #EXTINF:-1 ,CANAL 11
 https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8
-#EXTINF:-1 ,DUBAI SPORTS 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1 ,EURO NEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1,Brat TV
+#EXTINF:-1 ,Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1,CCM
+#EXTINF:-1 ,CCM
 http://210.210.155.35/session/de1ca6b2-3736-11ec-bdaf-8038bb6f5132/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1,CINE LIFE HD
+#EXTINF:-1 ,CINE LIFE HD
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Smithsonian Channel Asia
+#EXTINF:-1 ,Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sofy TV
+#EXTINF:-1 ,Sofy TV
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Sofy TV
-https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1,Lotus Macau
+#EXTINF:-1 ,Lotus Macau
 http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1,UTV Action
+#EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-###
