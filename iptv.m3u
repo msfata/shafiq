@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 ,TOLO 
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",1 TV
@@ -49,8 +47,6 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CLASSIC
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,DREAMZ
-http://14.199.164.20:4001/play/a0nh/index.m3u8
 #EXTINF:-1 ,SAHARA
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1 ,UTV Action
