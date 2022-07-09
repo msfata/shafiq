@@ -23,11 +23,11 @@ http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,B4U KADAK 
+#EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,COLOR COMPLEX 
+#EXTINF:-1 ,COLOR COMPLEX
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
@@ -61,14 +61,8 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,STAR BHARAT HD
-http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1 ,Star Baharat
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 ,Star PLUS
 http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse_360p.m3u8
 #EXTINF:-1 ,MATV
 https://a.jsrdn.com/broadcast/b8d66d4726/-0100/hi/c.m3u8
 #EXTINF:-1 ,MTV HD+
@@ -93,3 +87,11 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,National Geographic WILD
 http://iptv.prosto.tv:7000/ch83/video.m3u8
+#EXTINF:-1 ,GO DAR GO 1
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 ,GO DAR GO 2
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 ,GO DAR GO 3
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 ,GO DAR GO 4
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
