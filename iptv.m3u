@@ -17,18 +17,18 @@ https://live.hastitv.com/hls/livetv_480p.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1677394021.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
+#EXTINF:-1 ,ZEE Cinema HD
+http://221.120.204.4:8080/zee-cinema-LOCKLE/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,COLOR COMPLEX
-http://208.86.19.13:81/735.stream/index.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD HD
@@ -37,18 +37,14 @@ http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 ,STAR GOLD 2
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,STAR GOLD SELECT
-http://208.86.19.13:81/709.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX
-http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF:-1 ,SONY MAX 2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee Action
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE Action
+http://208.86.19.13:81/728.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SAHARA
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmy
@@ -57,6 +53,8 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 ,Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY SAB HD
@@ -67,6 +65,8 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 https://a.jsrdn.com/broadcast/b8d66d4726/-0100/hi/c.m3u8
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,AXN
+http://210.210.155.35:80/dr9445/h/h141/02.m3u8
 #EXTINF:-1 ,Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,CCM
@@ -81,17 +81,17 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/strea
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 ,National Geographic WILD
+http://iptv.prosto.tv:7000/ch83/video.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Smithsonian Channel Asia
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,National Geographic WILD
-http://iptv.prosto.tv:7000/ch83/video.m3u8
-#EXTINF:-1 ,GO DAR GO 1
-https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 ,GO DAR GO 2
-https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
-#EXTINF:-1 ,GO DAR GO 3
-https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
-#EXTINF:-1 ,GO DAR GO 4
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 ,IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 ,AMC Cinema
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 tvg-logo=""group-title="TATA SKY",Show-Time HD 4K
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
