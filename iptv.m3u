@@ -17,12 +17,10 @@ https://live.hastitv.com/hls/livetv_480p.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1677394021.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
-#EXTINF:-1 ,ZEE Cinema HD
-http://221.120.204.4:8080/zee-cinema-LOCKLE/index.m3u8
+#EXTINF:-1 ,Star gold
+http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://103.55.144.46:80/hls/zeecinemahd.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U KADAK
@@ -45,18 +43,22 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE Action
 http://208.86.19.13:81/728.stream/index.m3u8
+#EXTINF:-1 ,Zee Action HD
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CLASSIC
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,ZEE CLASSIC HD
+http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,UTV HD 4K
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 ,ZEE ANMOL
 http://208.115.215.42/ZEE_Anm0l_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
 #EXTINF:-1 ,Colors HD
 http://144.217.70.181:9587/hin2/COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY SAB HD
@@ -103,7 +105,7 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/300117?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/205657?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",PRIMA MOVIES
 http://51.210.199.40/hls/stream.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",American Horrors Movies EN
-http://170.178.189.70:1935/live/Stream1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Undefined",GRAVITAS MOVIES
-https://gravitas-movies.sinclair.wurl.com/manifest/512.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:-1 ,AMC Cinema
+https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
