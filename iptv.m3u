@@ -29,6 +29,8 @@ http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CINEMA
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE BOLLYWOOD
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
 http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,B4U KADAK
@@ -37,6 +39,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Zee Action HD
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ZEE ACTION
+http://208.86.19.13:81/728.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1, GEM BOLLYWOOD
@@ -49,6 +53,23 @@ http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Goldmins
+http://103.55.144.46:80/hls/dhin.m3u8
+#EXTINF:-1,PERSIANA2
+http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,MTV HD+
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,AXN
