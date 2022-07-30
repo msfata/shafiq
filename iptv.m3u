@@ -4,15 +4,17 @@ https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
 #EXTINF:-1 ,BAHAR
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w706768563.m3u8
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1142056943.m3u8
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="MUSIC",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv_480p.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
+#EXTINF:-1 ,NOBEL MOVIES
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY MAX 2
@@ -57,8 +59,6 @@ http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR USTAV (IN)
-http://144.217.70.181:9587/hin2/STARUTSAV/index.m3u8
 #EXTINF:-1 ,ZEE TV
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
@@ -77,3 +77,23 @@ http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1, TOLO
+https://fflivetolomusic.b-cdn.net/media_3.m3u8
+#EXTINF:-1,IFILM
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1,IFILM 2
+https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
+#EXTINF:-1,IFILM ENGLISH
+https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
+#EXTINF:-1,HUSA
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1,MANOTO
+https://edge-cdn1.manoto.click/live_500.m3u8
+#EXTINF:-1,GEM TV
+https://stream-live.gemonline.tv/live/gem/index.m3u8
+#EXTINF:-1,RT Documentary 
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 ,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
