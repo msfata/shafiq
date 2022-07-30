@@ -11,89 +11,60 @@ https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv_480p.m3u8
-#EXTINF:-1 group-title="AFGHAN",NOBEL TV
-https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w683259946.m3u8
 #EXTINF:-1 ,NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
-#EXTINF:-1 ,STAR GOLD HD
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SONY MAX 2
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE BOLLYWOOD
-http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD HD
-http://208.115.215.42/ZEE_Bollywood_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,B4U MOVIES
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Zee Action HD
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE ACTION
-http://208.86.19.13:81/728.stream/index.m3u8
-#EXTINF:-1 ,ZEE CLASSIC HD
-http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 group-title="LOCKLE",SONY MAX HD (IN)
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",SONY MAX 2 (IN)
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",E24 (IN)
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",UTV HD (IN)
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR GOLD HD (IN)
+
+#EXTINF:-1,STAR GOLD HD
+http://208.115.215.42/Utsav_Gold_HD/index.m3u8
+#EXTINF:-1,STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CINEMA HD (IN)
+
+#EXTINF:-1,SONY MAX HD
+http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
+#EXTINF:-1,SONY MAX 2
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,B4U MOVIES
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1,B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1,ZEE BOLLYWOOD
+http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+#EXTINF:-1,ZEE CINEMA
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",ZEE ACTION (IN)
+#EXTINF:-1,Zee Action HD
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",STAR PLUS HD (IN)
-http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE TV
+#EXTINF:-1,ZEE CLASSIC HD
+http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1,ZEE TV
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",COLORS HD (IN)
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1 group-title="DIRECT-TV",SAHARA ONE (IN)
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1 ,Filmy
+
+#EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1 ,UTV Action
+#EXTINF:-1,SAHARA ONE 
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1,Utv MOVIES HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,UTV HD 4K
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Utv MOVIES HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PERSIANA2
+#EXTINF:-1,COLORS HD 
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1,STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",Toonami Aftermath Movies (540p)
+#EXTINF:-1,Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1, TOLO
-https://fflivetolomusic.b-cdn.net/media_3.m3u8
-#EXTINF:-1,IFILM
-https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
-#EXTINF:-1,IFILM 2
-https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
-#EXTINF:-1,IFILM ENGLISH
-https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
-#EXTINF:-1,HUSA
-https://live1.presstv.ir/live/hausatvha/index.m3u8
-#EXTINF:-1,MANOTO
-https://edge-cdn1.manoto.click/live_500.m3u8
-#EXTINF:-1,GEM TV
-https://stream-live.gemonline.tv/live/gem/index.m3u8
-#EXTINF:-1,RT Documentary 
+
+#EXTINF:-1,RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 ,RT
+#EXTINF:-1,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,Love Nature
+
+#EXTINF:-1,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+
+
