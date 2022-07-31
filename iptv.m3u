@@ -13,58 +13,43 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://live.hastitv.com/hls/livetv_480p.m3u8
 #EXTINF:-1 ,NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
-
-#EXTINF:-1,STAR GOLD HD
+#EXTINF:-1,Star gold HD
+http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 ,STAR GOLD AR
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1,STAR GOLD HD 
+#EXTINF:-1 ,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,SONY MAX HD
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1,SONY MAX 2
+#EXTINF:-1 ,SONY MAX 2
 http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,B4U MOVIES
+#EXTINF:-1 ,B4U MOVIES
 http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
-#EXTINF:-1,B4U KADAK
+#EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1,ZEE BOLLYWOOD
+#EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
-#EXTINF:-1,ZEE CINEMA
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Action HD
+#EXTINF:-1 ,Zee Action HD
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,ZEE CLASSIC HD
+#EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1,ZEE TV
+#EXTINF:-1 ,ZEE TV
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
-
-#EXTINF:-1,Filmy
+#EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1,SAHARA ONE 
+#EXTINF:-1 ,SAHARA ONE
 http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
-#EXTINF:-1,Utv MOVIES HD
+#EXTINF:-1 ,Utv MOVIES HD
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UTV Action
+#EXTINF:-1 ,UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS HD 
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-#EXTINF:-1,STAR PLUS HD (IN)
+#EXTINF:-1 ,STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,PERSIANA2
+#EXTINF:-1 ,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
-#EXTINF:-1,Toonami Aftermath Movies (540p)
+#EXTINF:-1 ,Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-
-#EXTINF:-1,RT Documentary
+#EXTINF:-1 ,RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1,RT
+#EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1,Love Nature
+#EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-
-
