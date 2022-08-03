@@ -15,14 +15,16 @@ https://live.hastitv.com/hls/livetv_480p.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ZEE CINEMA
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee cinema
+http://208.115.215.42/ZEE_CInema_HD/index.m3u8
 #EXTINF:-1,Star gold HD
 http://208.86.19.13:81/717.stream/index.m3u8
 #EXTINF:-1 ,STAR GOLD AR
 http://208.115.215.42/Utsav_Gold_HD/index.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR GOLD TWO
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 #EXTINF:-1 ,SONY MAX 2
@@ -33,6 +35,8 @@ http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.115.215.42/ZEE_Bollywood_HD/index.m3u8
+#EXTINF:-1 ,ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,Zee Action HD
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
@@ -55,12 +59,16 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS HD (IN)
 http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
-
-
+#EXTINF:-1,SONY AATH
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1,Star TVE HD
+http://190.83.119.67:8000/play/a0qf/index.m3u8
 #EXTINF:-1 ,PERSIANA2
 http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 #EXTINF:-1 ,Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1,Cinema World
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
 #EXTINF:-1 ,RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 ,RT
