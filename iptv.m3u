@@ -9,10 +9,12 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="MUSIC",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 group-title="AFGHAN",HASTI
-https://live.hastitv.com/hls/livetv_480p.m3u8
+#EXTINF:-1 ,NOBEL
+https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w847508692.m3u8
 #EXTINF:-1 ,NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
+#EXTINF:-1 group-title="AFGHAN",HASTI
+https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1,ZEE CINEMA HD
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zee cinema
