@@ -71,13 +71,39 @@ http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
 #EXTINF:-1,Cinema World
 http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 ,RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 ,RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 #EXTINF:-1 ,EURO NEWS
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/4f2a3e6c8a44297559693a56768bcf04.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 ,MANOTO
+https://edge-uk1.manoto.click/live_500.m3u8
+#EXTINF:-1 ,PMC
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1 ,TAPISH
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 ,GEM TV
+https://stream-live.gemonline.tv/live/gem/index.m3u8
+#EXTINF:-1 ,GEM DRAMA
+https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
+#EXTINF:-1 ,GEM FOOD
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
+#EXTINF:-1 ,GEM MAX
+https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
+#EXTINF:-1 ,GEM FILM
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1 ,GEM RIVER
+https://stream-live.gemonline.tv/live/river/index.m3u8
+#EXTINF:-1 ,GEM RUBIX
+https://stream-live.gemonline.tv/live/rubix/index.m3u8
+#EXTINF:-1 ,GEM SERIES
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+#EXTINF:-1 ,GEM CLASSIC
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
+#EXTINF:-1 ,GEM BOLLYWOOD
+https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
+#EXTINF:-1 ,GEM TRAVEL
+https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
+#EXTINF:-1 ,GEM JUNIOR
+https://stream-live.gemonline.tv/live/gemjunior/index.m3u8
