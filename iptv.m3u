@@ -3,6 +3,8 @@
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
+#EXTINF:-1 group-title="AFGHAN",YAK TV
+http://51.210.227.142/hls/stream.m3u8
 #EXTINF:-1 ,BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
