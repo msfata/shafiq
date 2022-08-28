@@ -11,182 +11,30 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="MUSIC",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 ,NOBEL
-https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w847508692.m3u8
-#EXTINF:-1 ,NOBEL MOVIES
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w628012878.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 ,Star gold HD
-http://208.86.19.13:81/717.stream/index.m3u8
+#EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
+
+
 #EXTINF:-1 ,Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
-#EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1,ZEE CINEMA 
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 ,Filmy
-http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1 ,SONY AATH
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 ,Star TVE HD
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:-1 ,PERSIANA2
-http://cds.h3t2e8k9.hwcdn.net:80/hls/persiana2/chunks.m3u8
-#EXTINF:-1 ,Toonami Aftermath Movies (540p)
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 ,Cinema World
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 ,DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 ,RUSSIAN SPORT
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 ,T SPORT
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 ,DIDAR TV
-http://51.210.227.132/hls/stream.m3u8
-#EXTINF:-1 ,PMC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 ,TAPISH
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
-#EXTINF:-1 ,GEM TV
-https://stream-live.gemonline.tv/live/gem/index.m3u8
-#EXTINF:-1 ,GEM DRAMA
-https://stream-live.gemonline.tv/live/gemdrama/index.m3u8
-#EXTINF:-1 ,OXIR
-http://51.254.225.26/hls/stream.m3u8
-#EXTINF:-1 ,AVA SERIES
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 ,VOX 1
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 ,ICC
-http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 ,GEM FOOD
-https://stream-live.gemonline.tv/live/gemfood/index.m3u8
-#EXTINF:-1 ,GEM MAX
-https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
-#EXTINF:-1 ,GEM FILM
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
-#EXTINF:-1 ,GEM RIVER
-https://stream-live.gemonline.tv/live/river/index.m3u8
-#EXTINF:-1 ,MBC PERSIA
-https://e1.taghtia.com/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_9.m3u8
-#EXTINF:-1 ,GEM RUBIX
-https://stream-live.gemonline.tv/live/rubix/index.m3u8
-#EXTINF:-1 ,GEM SERIES
-https://stream-live.gemonline.tv/live/gemseries/index.m3u8
-#EXTINF:-1 ,GEM CLASSIC
-https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
-#EXTINF:-1 ,GEM BOLLYWOOD
-https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
-#EXTINF:-1 ,GEM TRAVEL
-https://stream-live.gemonline.tv/live/gemtravel/index.m3u8
-#EXTINF:-1 ,ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
-#EXTINF:-1 ,ZEE CLASSIC HD
-http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star gold
-http://208.86.19.13:81/717.stream/index.m3u8
-#EXTINF:-1 ,B4U Kadak
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 ,ZEE ACTION
 http://208.86.19.13:81/728.stream/index.m3u8
-#EXTINF:-1 ,Filmy
-http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1 ,UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
-#EXTINF:-1 ,Star Bharat SD
-http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1 ,COLORS AIRTEL
-http://208.86.19.13:81/605.stream/index.m3u8
-#EXTINF:-1 ,Sony TV HD (BDC)
-http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
-#EXTINF:-1 ,SONY SAB HD
-http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Movies Select HD
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,PMC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 ,MIR TV
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
-#EXTINF:-1 ,MQC TV
-http://208.86.19.13:81/517.stream/index.m3u8
-#EXTINF:-1 ,Sony Movies HD
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-#EXTINF:-1 ,Cinema World
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 ,DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 ,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,RUSSIAN SPORT
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 ,T SPORT
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 ,RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 ,RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,Sony Movies HD
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-#EXTINF:-1 ,Cinema World
-http://210.210.155.35:80/dr9445/h/h04/01.m3u8
-#EXTINF:-1 ,DW
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1 ,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,RUSSIAN SPORT
-https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 ,T SPORT
-https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
-#EXTINF:-1 ,ESPN  +
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 ,RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1 ,RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,TNT
-http://190.83.119.67:8000/play/a0pq/index.m3u8
-#EXTINF:-1 ,AMC
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1 ,Studio Universal HD
-http://190.83.119.67:8000/play/a0q2/index.m3u8
-#EXTINF:-1 ,Paramount
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-#EXTINF:-1,ZEE CINEMA 1
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
-
-#EXTINF:-1,ZEE CLASSIC HD
-http://208.86.19.13:81/730.stream/index.m3u8
-
-#EXTINF:-1,SONY MAX 
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Star gold
+#EXTINF:-1 ,Star gold HD
 http://208.86.19.13:81/717.stream/index.m3u8
-
-#EXTINF:-1,B4U Kadak
+#EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1,ZEE ACTION
-http://208.86.19.13:81/728.stream/index.m3u8
-
+#EXTINF:-1 ,GEM BOLLYWOOD
+https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
 #EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-
-#EXTINF:-1,UTV HD
-http://208.86.19.13:81/723.stream/index.m3u8
 
 #EXTINF:-1,Star Bharat SD
 http://208.86.19.13:81/721.stream/index.m3u8
@@ -197,13 +45,35 @@ http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
 #EXTINF:-1,SONY SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,COLORS AIRTEL
+http://208.86.19.13:81/605.stream/index.m3u8
+
 #EXTINF:-1,Star Movies Select HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,PMC
-https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:-1,UTV HD
+http://208.86.19.13:81/723.stream/index.m3u8
 
-#EXTINF:-1,MIR TV
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8?hls_proxy_host=pub1.rtmp.s01.l.mirtv
+#EXTINF:-1 ,GEM FOOD
+https://stream-live.gemonline.tv/live/gemfood/index.m3u8
+#EXTINF:-1 ,GEM MAX
+https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
+#EXTINF:-1 ,GEM FILM
+https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
+#EXTINF:-1 ,GEM RIVER
+https://stream-live.gemonline.tv/live/river/index.m3u8
+#EXTINF:-1 ,GEM RUBIX
+https://stream-live.gemonline.tv/live/rubix/index.m3u8
+#EXTINF:-1 ,GEM SERIES
+https://stream-live.gemonline.tv/live/gemseries/index.m3u8
+#EXTINF:-1 ,GEM CLASSIC
+https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 
+#EXTINF:-1 ,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
+#EXTINF:-1 ,DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
