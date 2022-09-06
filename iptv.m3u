@@ -73,11 +73,13 @@ https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+
 
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
 
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1,Film & Arts
+http://190.83.119.67:8000/play/a0oj/index.m3u8
