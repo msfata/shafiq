@@ -1,10 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1,Solh TV (576p) [Not 24/7]
+http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
+#EXTINF:-1,Ariana Afghanistan International TV (720p) [Not 24/7]
+http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",YAK TV
 http://51.210.227.142/hls/stream.m3u8
+#EXTINF:-1,WATAN-E-MAA
+https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 ,BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
@@ -35,7 +41,8 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 https://stream-live.gemonline.tv/live/gembollywood/index.m3u8
 #EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-
+#EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked]
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,Star Bharat SD
 http://208.86.19.13:81/721.stream/index.m3u8
 
@@ -73,13 +80,57 @@ https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-
-
+#EXTINF:-1,Newsmax (1080p)
+https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
+#EXTINF:-1,EuronewsEng
+http://95.154.197.48/tsstreamer/EuronewsEngLDAI_SD.ts
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-
+#EXTINF:-1,Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
+#EXTINF:-1,My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1,MyTime movie network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1,My Cinema Asia (1080p) [Geo-blocked]
+http://210.210.155.35/uq2663/h/h193/index.m3u8
+#EXTINF:-1,Sofy TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
+#EXTINF:-1,Movie Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1,Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+#EXTINF:-1,Galxy TV (720p)
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
+#EXTINF:-1,MovieSphere (1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,Film & Arts
 http://190.83.119.67:8000/play/a0oj/index.m3u8
+#EXTINF:-1,Toonami Aftermath Movies (540p)
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1,Netmax TV (720p) [Not 24/7]
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+#EXTINF:-1,STIRR FilmRise Free Movies (720p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+#EXTINF:-1,STIRR Electric Now (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
+#EXTINF:-1,AMC+ (720p)
+https://bcovlive-a.akamaihd.net/bdbdca51c15243fbaca92fd54c42d45a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1,STIRR Docurama (1080p) [Not 24/7]
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+#EXTINF:-1,Rouge TV (720p)
+https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+#EXTINF:-1,FAILS
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+#EXTINF:-1,The Carol Burnett Show (1080p)
+https://carolburnett-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,Pardesi TV (720p) [Not 24/7]
+http://stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1,BollywoodClassic
+http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1,BollywoodClassic
+http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1,BollywoodHD
+http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
