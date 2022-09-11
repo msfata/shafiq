@@ -22,7 +22,6 @@ https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
 
-
 #EXTINF:-1,BollywoodClassic
 http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
 #EXTINF:-1,BollywoodHD
@@ -30,7 +29,7 @@ http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
 #EXTINF:-1 ,Sony Max
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
 #EXTINF:-1,ZEE CINEMA 
-https://list.iptvcat.com/my_list/s/ef70168ebf7ff681ffa79c5a744f5daa.m3u8
+http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
