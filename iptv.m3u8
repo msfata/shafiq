@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1,Solh TV (576p) [Not 24/7]
+#EXTINF:-1 ,Solh TV (576p) [Not 24/7]
 http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",ARIANA
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
-#EXTINF:-1,Ariana Afghanistan International TV (720p) [Not 24/7]
+#EXTINF:-1 ,Ariana Afghanistan International TV (720p) [Not 24/7]
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",YAK TV
 http://51.210.227.142/hls/stream.m3u8
-#EXTINF:-1,WATAN-E-MAA
+#EXTINF:-1 ,WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 ,BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
@@ -19,146 +19,99 @@ https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
+#EXTINF:-1 group-title="MOVIES",NOBEL MOVIES
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
-
-#EXTINF:-1,SONY MAX
+#EXTINF:-1 ,SONY MAX
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
-#EXTINF:-1,BollywoodClassic
+#EXTINF:-1 ,BollywoodClassic
 http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
-
-
-#EXTINF:-1,BollywoodHD
+#EXTINF:-1 ,BollywoodHD
 http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
-#EXTINF:-1 ,Sony Max
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=tipslab
-#EXTINF:-1,ZEE CINEMA 
+#EXTINF:-1 ,ZEE CINEMA
 http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 ,ZEE ACTION
-http://208.86.19.13:81/728.stream/index.m3u8
-
 #EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-#EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked]
+#EXTINF:-1 ,MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1,Filmy
+#EXTINF:-1 ,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-#EXTINF:-1,Star Bharat SD
+#EXTINF:-1 ,Star Bharat SD
 http://208.86.19.13:81/721.stream/index.m3u8
-#EXTINF:-1,Sony TV HD (BDC)
+#EXTINF:-1 ,Sony TV HD (BDC)
 http://jupiter.bdcabletv.com/SonyTV_ENC/video.m3u8
-
-#EXTINF:-1 ,COLORS AIRTEL
-http://208.86.19.13:81/605.stream/index.m3u8
-
-
-
-
-#EXTINF:-1,MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 ,IRAN CINEMA
 http://51.210.199.57/hls/stream.m3u8
-#EXTINF:-1,JAHANBIN (240p)
+#EXTINF:-1 ,JAHANBIN (240p)
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
-#EXTINF:-1,Persian Film (720p) [Not 24/7]
+#EXTINF:-1 ,Persian Film (720p) [Not 24/7]
 http://51.210.227.135/hls/stream.m3u8
-#EXTINF:-1,Persiana Cinema (720p)
+#EXTINF:-1 ,Persiana Cinema (720p)
 http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1,Persiana Family (720p)
+#EXTINF:-1 ,Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1,Persiana Comedy (720p)
+#EXTINF:-1 ,Persiana Comedy (720p)
 http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1,Persiana Korea (720p)
+#EXTINF:-1 ,Persiana Korea (720p)
 http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1,Persiana Documentary (720p) [Not 24/7]
+#EXTINF:-1 ,Persiana Documentary (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
-
-#EXTINF:-1,Русский Экстрим
+#EXTINF:-1 ,Русский Экстрим
 http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
-#EXTINF:-1,ABC News 
+#EXTINF:-1 ,ABC News
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-#EXTINF:-1,Новороссия ТВ (720p)
+#EXTINF:-1 ,Новороссия ТВ (720p)
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1,Думская ТВ (1080p) [Not 24/7]
+#EXTINF:-1 ,Думская ТВ (1080p) [Not 24/7]
 https://cdn1.live-tv.od.ua:8083/dumska/dumska-abr/playlist.m3u8
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 ,Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1,Newsmax (1080p)
+#EXTINF:-1 ,Newsmax (1080p)
 https://newsmax-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-newsmax-plex/CDN/playlist.m3u8
-#EXTINF:-1,EuronewsEng
+#EXTINF:-1 ,EuronewsEng
 http://95.154.197.48/tsstreamer/EuronewsEngLDAI_SD.ts
 #EXTINF:-1 ,DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
-#EXTINF:-1,Love Nature 4K
+#EXTINF:-1 ,Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-
-#EXTINF:-1,Sofy TV
+#EXTINF:-1 ,Sofy TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00535-largofilmsltdli-sofytvnl-samsungnl/playlist.m3u8
-
-#EXTINF:-1,Movie box
+#EXTINF:-1 ,Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-#EXTINF:-1,Galxy TV (720p)
+#EXTINF:-1 ,Galxy TV (720p)
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1,MovieSphere (1080p)
+#EXTINF:-1 ,MovieSphere (1080p)
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Toonami Aftermath Movies (540p)
+#EXTINF:-1 ,Toonami Aftermath Movies (540p)
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1,Netmax TV (720p) [Not 24/7]
+#EXTINF:-1 ,Netmax TV (720p) [Not 24/7]
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1,STIRR FilmRise Free Movies (720p) [Not 24/7]
+#EXTINF:-1 ,STIRR FilmRise Free Movies (720p) [Not 24/7]
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1,STIRR Electric Now (1080p) [Not 24/7]
+#EXTINF:-1 ,STIRR Electric Now (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
-
-#EXTINF:-1,STIRR Docurama (1080p) [Not 24/7]
+#EXTINF:-1 ,STIRR Docurama (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
-#EXTINF:-1,Rouge TV (720p)
+#EXTINF:-1 ,Rouge TV (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
-#EXTINF:-1,The Carol Burnett Show (1080p)
+#EXTINF:-1 ,The Carol Burnett Show (1080p)
 https://carolburnett-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1,NollyAfrica
+#EXTINF:-1 ,NollyAfrica
 http://82.145.63.157/tsstreamer/NollyAfricaLDAI_SD.ts
-#EXTINF:-1,Parsiland (540p) [Not 24/7]
+#EXTINF:-1 ,Parsiland (540p) [Not 24/7]
 http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:-1,One TV (720p)
+#EXTINF:-1 ,One TV (720p)
 https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
-#EXTINF:-1,Oneworld TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01847-dutchessmediabv-oneworldtv-samsungnl/playlist.m3u8
-#EXTINF:-1,Первый Музыкальный Канал Россия HD (1080p)
+#EXTINF:-1 ,Первый Музыкальный Канал Россия HD (1080p)
 http://rtmp.one.by:2300
-#EXTINF:-1,Pardesi TV (720p) [Not 24/7]
+#EXTINF:-1 ,Pardesi TV (720p) [Not 24/7]
 http://stream.pardesitv.online/pardesi/index.m3u8
-#EXTINF:-1,Nexxo TV
+#EXTINF:-1 ,Nexxo TV
 https://streaming.ath.cx:1936/nexxotv/nexxotv/playlist.m3u8
-#EXTINF:-1,AZM TV
-https://live.canalnueve.tv/canal.m3u8
-
-
-
-
-
-#EXTINF:-1 ,GEM FOOD
-https://stream-live.gemonline.tv/live/gemfood/index.m3u8
-#EXTINF:-1 ,GEM MAX
-https://stream-live.gemonline.tv/live/gemmaxx/index.m3u8
-#EXTINF:-1 ,GEM FILM
-https://stream-live.gemonline.tv/live/gemfilm/index.m3u8
-#EXTINF:-1 ,GEM RIVER
-https://stream-live.gemonline.tv/live/river/index.m3u8
-#EXTINF:-1 ,GEM RUBIX
-https://stream-live.gemonline.tv/live/rubix/index.m3u8
-#EXTINF:-1 ,GEM SERIES
-https://stream-live.gemonline.tv/live/gemseries/index.m3u8
-#EXTINF:-1 ,GEM CLASSIC
-https://stream-live.gemonline.tv/live/gemclassic/index.m3u8
