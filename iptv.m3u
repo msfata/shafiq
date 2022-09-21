@@ -74,9 +74,30 @@ http://51.210.199.23/hls/stream.m3u8
 
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
+#EXTINF:-1,#EXTGRP:Новостные
+http://myott.top/stream/X254G9W4WC/384.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1,Don't Tell the Bride
+https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Movie Kingdom (720p)
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1,Dove Channel (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
+#EXTINF:-1 ,THT HD
+http://myott.top/stream/DT6QU63K5VX/135.m3u8
+#EXTINF:-1,#EXTGRP:Новостные
+http://myott.top/stream/X254G9W4WC/383.m3u8
+#EXTINF:-1 ,KANAL 7
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1,#EXTGRP:Кино
+http://myott.top/stream/X254G9W4WC/160.m3u8
+#EXTINF:-1,СТС Love
+http://myott.top/stream/DT6QU63K5VX/183.m3u8
+#EXTINF:-1,Домашний
+http://myott.top/stream/DT6QU63K5VX/227.m3u8
+#EXTINF:-1,Star Cinema HD
+http://myott.top/stream/DT6QU63K5VX/310.m3u8
 
 
