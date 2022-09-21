@@ -21,7 +21,6 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
-
 #EXTINF:-1,SONY MAX
 http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
@@ -30,8 +29,6 @@ http://208.86.19.13:81/701.stream/index.m3u8
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1,BollywoodClassic
 http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
-
-
 #EXTINF:-1,BollywoodHD
 http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
 #EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked]
@@ -42,20 +39,8 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
 #EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-
-
 #EXTINF:-1 ,B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 ,IRAN CINEMA
-http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1,JAHANBIN (240p)
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 #EXTINF:-1,Persian Film (720p) [Not 24/7]
@@ -70,15 +55,12 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1,Persiana Documentary (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
-
-
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,#EXTGRP:Новостные
 http://myott.top/stream/X254G9W4WC/384.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
 #EXTINF:-1,Don't Tell the Bride
 https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,Movie Kingdom (720p)
@@ -99,5 +81,10 @@ http://myott.top/stream/DT6QU63K5VX/183.m3u8
 http://myott.top/stream/DT6QU63K5VX/227.m3u8
 #EXTINF:-1,Star Cinema HD
 http://myott.top/stream/DT6QU63K5VX/310.m3u8
+#EXTINF:-1 ,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 
 
