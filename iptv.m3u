@@ -29,18 +29,31 @@ http://208.86.19.13:81/701.stream/index.m3u8
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1,BollywoodClassic
 http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/2249b471-a199-450c-b72d-468fff8d1e8e/0.m3u8
 #EXTINF:-1,BollywoodHD
 http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
 #EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked]
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1,MBC Persia (1080p)
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1,ZEE CINEMA 
-http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
+#EXTINF:-1,BOX SHOW
+https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 ,ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 ,MANORANJAN
+https://idvd.multitvsolution.com/idvo/manoranjantv_540p.m3u8
+#EXTINF:-1 ,WOW
+https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
+#EXTINF:-1 ,M
+https://idvd.multitvsolution.com/idvo/mahamovie_540p.m3u8
+#EXTINF:-1 ,EPIC
+https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+#EXTINF:-1 ,ARRE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
 #EXTINF:-1,JAHANBIN (240p)
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 #EXTINF:-1,Persian Film (720p) [Not 24/7]
