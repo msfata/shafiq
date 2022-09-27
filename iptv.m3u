@@ -21,12 +21,17 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
+#EXTINF:-1,BollywoodClassic
+http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1,BollywoodHD
+http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+#EXTINF:-1 ,BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/5df4558c-97d0-4c54-bf2f-6b16956c7a2f/0.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1,BollywoodClassic
-http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/2249b471-a199-450c-b72d-468fff8d1e8e/0.m3u8
 #EXTINF:-1,BOLLYWOOD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
@@ -36,14 +41,6 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1,DD Retro
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 ,MANORANJAN
-https://idvd.multitvsolution.com/idvo/manoranjantv_540p.m3u8
-#EXTINF:-1 ,WOW
-https://idvd.multitvsolution.com/idvo/wowcinema_540p.m3u8
-#EXTINF:-1 ,M
-https://idvd.multitvsolution.com/idvo/mahamovie_540p.m3u8
-#EXTINF:-1 ,ANJAN
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 ,E24
 http://208.86.19.13:81/719.stream/index.m3u8
 #EXTINF:-1 ,MUSIC INDIA
@@ -54,7 +51,6 @@ http://208.86.19.13:81/730.stream/index.m3u8
 http://208.86.19.13:81/702.stream/index.m3u8
 #EXTINF:-1 ,ARRE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-
 #EXTINF:-1,JAHANBIN (240p)
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 #EXTINF:-1,Persian Film (720p) [Not 24/7]
@@ -69,18 +65,21 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1,Persiana Documentary (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1,Reuters Now
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1,#EXTGRP:Новостные
 http://myott.top/stream/X254G9W4WC/384.m3u8
 #EXTINF:-1 ,Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1,Don't Tell the Bride
-https://lds-donttellbride-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,Movie Kingdom (720p)
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1,Dove Channel (1080p)
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1,Blue Ant Extreme
 http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
-
+#EXTINF:-1,Film Hub
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
+#EXTINF:-1,FilmRise Family 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8
+#EXTINF:-1,Filmstream
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Galxy TV (720p)
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
