@@ -9,6 +9,10 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",YAK TV
 http://51.210.227.142/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHAN",DONYAI NOW
+http://51.210.199.45/hls/stream.m3u8
+#EXTINF:-1,Barya TV 
+http://51.210.199.56/hls/stream.m3u8
 #EXTINF:-1,WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 ,BAHAR
@@ -19,36 +23,69 @@ https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 group-title="AFGHAN",NOOR TV
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 group-title="MOVIES",NOBEL MUSIC 
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1377450559.m3u8
 #EXTINF:-1 group-title="MOVIES",NOBEL MOVIES 
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w499983209.m3u8
-#EXTINF:-1,SONY MAX
-http://jupiter.bdcabletv.com/SonyMax_HD/video.m3u8
+
+#EXTINF:-1,BollywoodClassic
+http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1,BollywoodHD
+http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+#EXTINF:-1 ,BOLLYWOOD HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/5df4558c-97d0-4c54-bf2f-6b16956c7a2f/0.m3u8
 #EXTINF:-1 ,ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 ,ZEE CLASSIC HD
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1,BollywoodClassic
-http://31.3.227.66/tsstreamer/BollywoodClassicLDAI_SD.ts
-#EXTINF:-1,BollywoodHD
-http://109.169.55.98/tsstreamer/BollywoodHDLDAI_SD.ts
-#EXTINF:-1,MBC Bollywood (1080p) [Geo-blocked]
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/2249b471-a199-450c-b72d-468fff8d1e8e/0.m3u8
+#EXTINF:-1,BOLLYWOOD
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1,MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
-#EXTINF:-1,ZEE CINEMA 
-http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
 #EXTINF:-1,Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 ,B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 ,IRAN CINEMA
-http://51.210.199.57/hls/stream.m3u8
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1,TAG TV 
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+#EXTINF:-1,DD Retro
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddretro/ddretro.isml/ddretro-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 ,E24
+http://208.86.19.13:81/719.stream/index.m3u8
+#EXTINF:-1,9XM 
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 ,MUSIC INDIA
+http://208.86.19.13:81/733.stream/index.m3u8
+#EXTINF:-1 ,ZEE CLASSIC
+http://208.86.19.13:81/730.stream/index.m3u8
+#EXTINF:-1 ,SONY SAB
+http://208.86.19.13:81/702.stream/index.m3u8
+#EXTINF:-1 ,D-MAX
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,RTL
+https://s6.hopslan.com/rtlu111/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,Reuters Now
+https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,#EXTGRP:Новостные
+http://myott.top/stream/X254G9W4WC/384.m3u8
+#EXTINF:-1 ,Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
 #EXTINF:-1,JAHANBIN (240p)
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 #EXTINF:-1,Persian Film (720p) [Not 24/7]
 http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1,Persiana Cinema (720p)
 http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1,Persian Film 
+http://51.210.227.135/hls/stream.m3u8
 #EXTINF:-1,Persiana Family (720p)
 http://51.210.199.19/hls/stream.m3u8
 #EXTINF:-1,Persiana Comedy (720p)
@@ -57,10 +94,27 @@ http://51.210.199.27/hls/stream.m3u8
 http://51.210.199.14/hls/stream.m3u8
 #EXTINF:-1,Persiana Documentary (720p) [Not 24/7]
 http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 ,RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
+#EXTINF:-1,AVA Family (720p) [Not 24/7]
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1,AVA Series (720p)
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1,Persiana Iranian 
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1,BRAVO 
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1,UN Web TV 
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1,VOX1 
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1,VOX2 
+http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1,FX
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1,DIDAR
+http://51.210.227.132/hls/stream.m3u8
+#EXTINF:-1,MANOTO
+https://edge-uk1.manoto.click/live_500.m3u8
+#EXTINF:-1,POPSTAR 
+https://linear-10.frequency.stream/10/hls/master/playlist_1024x576.m3u8
 
 
