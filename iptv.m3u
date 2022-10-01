@@ -29,6 +29,12 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHAN",NOBEL MOVIES 
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w1660884488.m3u8
 
+#EXTINF:0 tvg-country="PT" tvg-logo="" group-title="HINDI",Zee Cinema
+http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="HINDI",ZEE CINEMA
+https://list.iptvcat.com/my_list/s/ef70168ebf7ff681ffa79c5a744f5daa.m3u8
+
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
