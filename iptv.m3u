@@ -11,6 +11,9 @@ https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u
 #EXTINF:-1,Ariana Afghanistan International TV
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
 
+#EXTINF:-1,Ariana Afghanistan International TV
+http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
+
 #EXTINF:-1 group-title="AFGHAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 
@@ -39,7 +42,7 @@ http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
 #EXTINF:-1 group-title="HINDI",BollywoodClassic
 http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
@@ -62,6 +65,18 @@ https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",ION Plus
 https://ion-plus.samsung.wurl.com/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH",CINEMA WORLD
+http://210.210.155.35/session/96aed21e-442d-11ed-8177-a2a3aabafe21/dr9445/h/h04/02.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIE
+http://asp6.toonamiaftermath.com:1934/livehttporigin/movies/sdspe6-6OfIzV-chunklist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",RATUKEN
+https://rakuten-actionmovies-6-it.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",CINEMAX
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 group-title="ENGLISH",Reuters Now
 https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
 
@@ -71,7 +86,14 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
+#EXTINF:-1 group-title="ENGLISH",IN WILD 
+https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
+#EXTINF:-1 group-title="ENGLISH",INBITES
+https://inshort-samsungindia.amagi.tv/playlist720-p.m3u8
 
+#EXTINF:-1,Tolo News (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolonews.m3u8
 
-
+#EXTINF:-1,Tolo TV
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
