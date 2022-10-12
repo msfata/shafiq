@@ -57,19 +57,6 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Aflam 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
-#EXTINF:-1 group-title="IRAN",Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-
-#EXTINF:-1 group-title="ENGLISH",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH",ION Plus
-https://ion-plus.samsung.wurl.com/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ENGLISH",Reuters Now
-https://reuters-reutersnow-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="RUSSIAN",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
@@ -81,40 +68,20 @@ https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 group-title="IRANI",ONYX
 http://51.254.225.26/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",MANOTO
-https://edge-uk2.manoto.click/live_500.m3u8
 #EXTINF:-1 group-title="IRANI",PMC
 https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",HIGH VISSION
-https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IRANI",EBC
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w1300319491.m3u8
-#EXTINF:-1 group-title="IRANI",TIN TV
-https://bozztv.com/1gbw5/tintv/tintv/chunklist.m3u8
-#EXTINF:-1 group-title="IRANI",NEGAH
-https://iptv.negahtv.com/negahtv/playlist2/index.m3u8
 #EXTINF:-1 group-title="IRANI",AVA
 http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",FARSI
-https://live.farsitv.de/live/stream_480p/index.m3u8
-#EXTINF:-1 group-title="IRANI",AMG
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
 #EXTINF:-1 group-title="IRANI",OXR
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",VOX
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",BRAVO
 http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",JAVANAN
-https://nl2.livekadeh.com/hls2/javanantv_high.m3u8
-#EXTINF:-1 group-title="IRANI",ROYAL TIME
-https://iptv.rtimetv.com/rtimetv/playlist2/index.m3u8
 #EXTINF:-1 group-title="IRANI",NAVAHANG
 http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",ITN
 http://51.210.199.31/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",MBC PERSIA
-https://e1.taghtia.com/https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_9.m3u8
 #EXTINF:-1 group-title="IRANI",PARSILAND
 http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="IRANI",PAYAME JAVAN
@@ -131,9 +98,25 @@ http://51.210.199.52/hls/stream.m3u8
 https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
 #EXTINF:-1 group-title="IRANI",IFILM ENGLISH
 https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
-#EXTINF:-1 group-title="IRANI",KISH
-https://cdnw.telewebion.com/kish/live/576p/index.m3u8
 
+
+#EXTINF:-1 group-title="ENGLISH",ION
+https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",ION Plus
+https://ion-plus.samsung.wurl.com/playlist.m3u8
+
+#EXTINF:-1,Comet 
+http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
+
+#EXTINF:-1,Crackle 
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Demand Africa 
+https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Galxy TV 
+https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
 
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
