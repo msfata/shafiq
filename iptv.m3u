@@ -30,8 +30,12 @@ https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL MUSIC 
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1377450559.m3u8
 
+
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
+#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -39,17 +43,11 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="HINDI",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
 
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",ZEE CLASSIC HD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-#EXTINF:-1 group-title="HINDI",BollywoodClassic
-http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
-
-#EXTINF:-1 group-title="HINDI",ZEE CLASSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 
 #EXTINF:-1 group-title="HINDI",Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
@@ -57,14 +55,7 @@ http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Aflam 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
-#EXTINF:-1 group-title="RUSSIAN",RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 group-title="ENGLISH",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="ENGLISH",IN WILD 
-https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 group-title="IRANI",ONYX
 http://51.254.225.26/hls/stream.m3u8
@@ -118,8 +109,37 @@ https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1,Galxy TV 
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 
+#EXTINF:-1,STIRR FilmRise Free Movies 
+https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
+
+#EXTINF:-1,Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1,Victor Valley Movies 
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+
+#EXTINF:-1,Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1,My Cinema 
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1,Rotana Cinema 
+https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="RUSSIAN",RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",Love Nature
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",IN WILD 
+https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #http://208.86.19.13:81/730.stream/index.m3u8
+
+#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
 
 
