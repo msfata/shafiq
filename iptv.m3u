@@ -138,10 +138,15 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 group-title="ENGLISH",MOVIES
-https://rebroadcast.mytvtogo.net/mytvtogo/movee4u/chunks.m3u8
-
-#EXTINF:-1,Andisheh TV (360p)
-https://2nbyjjx7y53k-hls-live.5centscdn.com/atvweb/d23299de099088e7444868cd0814f1c7.sdp/playlist.m3u8
+https://5a1178b42cc03.streamlock.net/8068/8068/chunklist_w787659373.m3u8
+#EXTINF:-1 group-title="ENGLISH",RUSH
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_webvtt_m.m3u8
+#EXTINF:-1 group-title="ENGLISH",WEATHER
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist_webvtt_m.m3u8
+#EXTINF:-1 group-title="ENGLISH",PAKI
+https://streamone.simpaisa.com:8443/pitvlive1/sindhtv.smil/chunklist_w394780096_b748000_slENG.m3u8
+#EXTINF:-1 group-title="ENGLISH",SPORT
+https://s3.gocast123.me:8201/hd/hls/Wlw6_olnudGQnmygUoz8Tg/1665872234/tenspk.m3u8
 
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #http://208.86.19.13:81/730.stream/index.m3u8
