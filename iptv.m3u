@@ -137,16 +137,12 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",IN WILD 
 https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
-#EXTINF:-1 group-title="ENGLISH",MOVIES
-https://5a1178b42cc03.streamlock.net/8068/8068/chunklist_w787659373.m3u8
-#EXTINF:-1 group-title="ENGLISH",RUSH
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_webvtt_m.m3u8
-#EXTINF:-1 group-title="ENGLISH",WEATHER
-https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist_webvtt_m.m3u8
-#EXTINF:-1 group-title="ENGLISH",PAKI
-https://streamone.simpaisa.com:8443/pitvlive1/sindhtv.smil/chunklist_w394780096_b748000_slENG.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPORT
-https://s3.gocast123.me:8201/hd/hls/Wlw6_olnudGQnmygUoz8Tg/1665872234/tenspk.m3u8
+#EXTINF:-1,WWE SONY LIV
+https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
+
+#EXTINF:-1,67.National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
 
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #http://208.86.19.13:81/730.stream/index.m3u8
