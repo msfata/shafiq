@@ -1,72 +1,50 @@
+
+
+#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+#http://208.86.19.13:81/730.stream/index.m3u8
+#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+
+
 #EXTM3U
-
-#EXTINF:-1,BBC Persian 
+#EXTINF:-1 ,BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-
-#EXTINF:-1,Tolo TV
-https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:-1,ATN News
+#EXTINF:-1 ,ATN News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-
-#EXTINF:-1 group-title="AFGHAN",ARI
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w313903260.m3u8
-
-#EXTINF:-1,Ariana Afghanistan International TV
+#EXTINF:-1 ,Ariana Afghanistan International TV
 http://iptv.arianaafgtv.com/ariana/playlist.m3u8
-
-#EXTINF:-1,Ariana Afghanistan International TV
+#EXTINF:-1 ,Ariana Afghanistan International TV
 http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
-
 #EXTINF:-1 group-title="AFGHAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
-
 #EXTINF:-1 group-title="AFGHAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
-
 #EXTINF:-1 group-title="AFGHAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-
-#EXTINF:-1 group-title="AFGHAN",NOBEL MUSIC 
+#EXTINF:-1 group-title="AFGHAN",NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1377450559.m3u8
-
-
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
-
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
 #EXTINF:-1 group-title="HINDI",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
-
 #EXTINF:-1 group-title="HINDI",ZEE CLASSIC HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
-
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
 #EXTINF:-1 group-title="HINDI",Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
-
-#EXTINF:-1 group-title="HINDI",Zee Aflam 
+#EXTINF:-1 group-title="HINDI",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-
 #EXTINF:-1 group-title="HINDI",9X
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-
-
-
 #EXTINF:-1 group-title="IRANI",ONYX
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",PMC
@@ -95,134 +73,67 @@ http://51.210.199.32/hls/stream.m3u8
 http://51.210.227.138/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",FX
 http://51.210.199.52/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",IFILM DARI
-https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
-#EXTINF:-1 group-title="IRANI",IFILM ENGLISH
-https://live1.presstv.ir/live/ifilmen_360p/index.m3u8
-
-
-#EXTINF:-1 group-title="ENGLISH",ION
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH",ION Plus
-https://ion-plus.samsung.wurl.com/playlist.m3u8
-
-#EXTINF:-1,Comet 
+#EXTINF:-1 ,Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-
-#EXTINF:-1,Crackle 
+#EXTINF:-1 ,Crackle
 http://crackle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Demand Africa 
+#EXTINF:-1 ,Demand Africa
 https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Galxy TV 
+#EXTINF:-1 ,Galxy TV
 https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-
-#EXTINF:-1,STIRR FilmRise Free Movies 
+#EXTINF:-1 ,STIRR FilmRise Free Movies
 https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-
-#EXTINF:-1,Toonami Aftermath Movies
+#EXTINF:-1 ,Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-
-#EXTINF:-1,Victor Valley Movies 
+#EXTINF:-1 ,Victor Valley Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
-
-#EXTINF:-1,Action Hollywood Movies
+#EXTINF:-1 ,Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1,My Cinema 
+#EXTINF:-1 ,My Cinema
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1,Rotana Cinema 
-https://rotanastudios-rotanacinema-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-
 #EXTINF:-1 group-title="RUSSIAN",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-
-#EXTINF:-1,BBC News HD 
+#EXTINF:-1 ,BBC News HD
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-
 #EXTINF:-1 group-title="ENGLISH",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="ENGLISH",IN WILD 
+#EXTINF:-1 group-title="ENGLISH",IN WILD
 https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
-
-#EXTINF:-1,WWE SONY LIV
+#EXTINF:-1 ,WWE SONY LIV
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
-
-#EXTINF:-1,67.National Geographic Wild
+#EXTINF:-1 ,67.National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-#EXTINF:-1,Life TV 
+#EXTINF:-1 ,Life TV
 https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
-
-#EXTINF:-1,360 TV 
+#EXTINF:-1 ,360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:-1,Alanya Posta
+#EXTINF:-1 ,Alanya Posta
 http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
-
-#EXTINF:-1,ARAS TV 
+#EXTINF:-1 ,ARAS TV
 http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
-
-#EXTINF:-1,ATV Alanya 
+#EXTINF:-1 ,ATV Alanya
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
-
-#EXTINF:-1,Cay TV 
+#EXTINF:-1 ,Cay TV
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-
-#EXTINF:-1,CNA International 
+#EXTINF:-1 ,CNA International
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
-#EXTINF:-1,Deha TV 
+#EXTINF:-1 ,Deha TV
 https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
-
-#EXTINF:-1,Deniz Postası TV 
+#EXTINF:-1 ,Deniz Postası TV
 http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
-
-#EXTINF:-1,ERT World 
+#EXTINF:-1 ,ERT World
 http://wpso.com:1936/hls/wzra.m3u8
-
-#EXTINF:-1,Power Turk 
+#EXTINF:-1 ,Power Turk
 https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-
-#EXTINF:-1,Show TV 
+#EXTINF:-1 ,Show TV
 https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-
-#EXTINF:-1,Star TV 
+#EXTINF:-1 ,Star TV
 https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-
-#EXTINF:-1,TRT
-https://tv-trt1.medya.trt.com.tr/master_480.m3u8
-
-#EXTINF:-1,Sat 7
-https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/sat7turkpublish/sat7turk_720p/chunks.m3u8
-
-#EXTINF:-1,AZAD TV
+#EXTINF:-1 ,AZAD TV
 http://85.132.81.184:8080/atv/index.m3u8
-
-#EXTINF:-1,AZ TV1
+#EXTINF:-1 ,AZ TV1
 http://85.132.81.184:8080/atv/index.m3u8
-
-#EXTINF:-1,USAN
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-
-#EXTINF:-1,TGRT
+#EXTINF:-1 ,TGRT
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-
-#EXTINF:-1,BURSA
+#EXTINF:-1 ,BURSA
 https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/chunklist_w389724297.m3u8
-
-#EXTINF:-1,MILLION TV
-https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
-
-
-#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
-#http://208.86.19.13:81/730.stream/index.m3u8
-#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
-#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
-
-
