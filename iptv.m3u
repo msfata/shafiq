@@ -9,9 +9,18 @@
 #EXTM3U
 #EXTINF:-1 ,BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-
+#EXTINF:-1 ,VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunklist.m3u8
+#EXTINF:-1 ,TOLO
+https://fflivetolotv.b-cdn.net/media_3.m3u8
 #EXTINF:-1 group-title="AFGHAN",1TV
 http://51.210.227.142/hls/stream.m3u8
+#EXTINF:-1 ,Ariana Afghanistan International TV
+http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
+#EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 ,ATN News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",MARIF
 http://51.210.199.51/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",SOHAIL
@@ -19,20 +28,15 @@ https://iptv.sohailtv.com/sohailtv/playlist2/index.m3u8
 #EXTINF:-1 group-title="AFGHAN",DUNYAI NOW
 http://51.210.199.45/hls/stream.m3u8
 
-#EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
-https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 ,ATN News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 ,Ariana Afghanistan International TV
-http://iptv.arianaafgtv.com/ariana/playlist.m3u8
-#EXTINF:-1 ,Ariana Afghanistan International TV
-http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
+
 #EXTINF:-1 group-title="AFGHAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="AFGHAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="AFGHAN",BARBUD MUSIC
+https://fflivetolomusic.b-cdn.net/media_3.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="AFGHAN",NOBEL TV
@@ -52,7 +56,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
 
 #EXTINF:-1 group-title="HINDI",Filmy
 http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
@@ -187,5 +190,7 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1,Alfa Sport
-https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
+#EXTINF:-1,GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
+#EXTINF:-1,MANOTO
+https://edge-uk1.manoto.click/live_500.m3u8
