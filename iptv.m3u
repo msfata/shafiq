@@ -11,8 +11,8 @@
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 ,VOA
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunklist.m3u8
-#EXTINF:-1 ,TOLO
-https://fflivetolotv.b-cdn.net/media_3.m3u8
+#EXTINF:-1 tvg-id="ToloTV.af" status="online",Tolo TV (720p)
+https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="AFGHAN",1TV
 http://51.210.227.142/hls/stream.m3u8
 #EXTINF:-1 ,Ariana Afghanistan International TV
