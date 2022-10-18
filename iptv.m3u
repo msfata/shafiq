@@ -15,8 +15,7 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunkli
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",1TV
 http://51.210.227.142/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN",TOLO
-https://fflivetolotv.b-cdn.net/media_3.m3u8
+
 #EXTINF:-1 ,Ariana Afghanistan International TV
 http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
 #EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
@@ -25,8 +24,7 @@ https://hls.afintl.com/hls/stream.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="AFGHAN",MARIF
 http://51.210.199.51/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN",FAZA
-https://fflivefaza.b-cdn.net/media_3.m3u8
+
 #EXTINF:-1 group-title="AFGHAN",SOHAIL
 https://iptv.sohailtv.com/sohailtv/playlist2/index.m3u8
 #EXTINF:-1 group-title="AFGHAN",DUNYAI NOW
@@ -39,13 +37,13 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="AFGHAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1 group-title="AFGHAN",BARBUD MUSIC
-https://fflivetolomusic.b-cdn.net/media_3.m3u8
+#EXTINF:-1,ASIA MUSIC
+http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 group-title="AFGHAN",NOBEL TV
+#EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1828585374.m3u8
-#EXTINF:-1 group-title="AFGHAN",NOBEL TV 1
+#EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
 #EXTINF:-1 group-title="HINDI",B4U KADAK
@@ -61,8 +59,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
-#EXTINF:-1 group-title="HINDI",Filmy
-http://longstream-03.ajaah.com/PlayBoxTV/SaharaFilmy/playlist.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="HINDI",9X
@@ -192,5 +188,4 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1,Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1,ASIA MUSIC
-http://51.210.227.161/hls/stream.m3u8
+
