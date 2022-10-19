@@ -53,22 +53,22 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #EXTINF:-1,BollywoodClassic
 http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1,ZEE Classic
+http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1,MH1 Prim
-http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 #EXTINF:-1,SONY SUB HD
 http://208.86.19.13:81/702.stream/index.m3u8
-
-
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1,DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+
+#IRAN
 #EXTINF:-1 group-title="HINDI",9X
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="IRANI",ONYX
@@ -81,12 +81,10 @@ http://51.210.199.5/hls/stream.m3u8
 http://51.254.225.26/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",VOX
 http://51.210.199.8/hls/stream.m3u8
-
 #EXTINF:-1 group-title="IRANI",BRAVO
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",NAVAHANG
 http://51.210.227.130/hls/stream.m3u8
-
 #EXTINF:-1,VOX1
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",PARSILAND
@@ -101,6 +99,8 @@ http://51.210.199.32/hls/stream.m3u8
 http://51.210.227.138/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",FX
 http://51.210.199.52/hls/stream.m3u8
+
+#ENGLISH
 #EXTINF:-1 ,Comet
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 ,Crackle
@@ -127,17 +127,10 @@ https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",IN WILD
 https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
-
-
-#EXTINF:-1,Kabillion
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-
 #EXTINF:-1,CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-
 #EXTINF:-1,CPEtv
 https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-
 #EXTINF:-1,DirecTV Sports 
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 
