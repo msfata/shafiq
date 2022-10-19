@@ -4,8 +4,9 @@
 #http://208.86.19.13:81/730.stream/index.m3u8
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
-
-
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
+#bollywood classic https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/77da62b2-e694-4d4a-82d2-d435b22e3196/0.m3u8
 #EXTM3U
 #EXTINF:-1 ,BBC Persian
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
@@ -46,19 +47,26 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
-#EXTINF:-1 group-title="HINDI",B4U KADAK
-https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 group-title="HINDI",BollywoodHD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE CLASSIC HD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
+#EXTINF:-1,BollywoodHD
+http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+#EXTINF:-1,BollywoodClassic
+http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
+#EXTINF:-1 group-title="HINDI",B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1,MH1 Prim
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+#EXTINF:-1,SONY SUB HD
+http://208.86.19.13:81/702.stream/index.m3u8
+
+
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
+#EXTINF:-1,DD National
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 group-title="HINDI",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="HINDI",9X
@@ -79,6 +87,8 @@ http://51.210.199.16/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",NAVAHANG
 http://51.210.227.130/hls/stream.m3u8
 
+#EXTINF:-1,VOX1
+http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 group-title="IRANI",PARSILAND
 http://vps.parsiland.net/hls/ParsiLand.m3u8
 #EXTINF:-1 group-title="IRANI",PAYAME JAVAN
@@ -118,6 +128,10 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",IN WILD
 https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
 
+
+#EXTINF:-1,Kabillion
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
+
 #EXTINF:-1,CNA International 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
@@ -130,8 +144,17 @@ http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1,Victor Valley Movies 
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 
+#EXTINF:-1,Local Now Drama 
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
+
+#EXTINF:-1,WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+
 #EXTINF:-1,24 Hour Free Movies 
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
+
+#EXTINF:-1,1Music
+http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 ,WWE SONY LIV
 https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
@@ -187,5 +210,11 @@ https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+
+#EXTINF:-1,EUROSPORT 2 HD
+http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,MAQ TV CRICKET
+http://str24.l9574.com/517.stream/index.m3u8
 
 
