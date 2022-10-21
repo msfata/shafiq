@@ -41,7 +41,38 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
+
+#IRANI
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",MANOTO
+https://edge-cdn1.manoto.click/live_500.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",FARAR AZ ZINDAN
+http://51.210.199.3/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",FARSI
+https://live.farsitv.de/live/stream_480p/index.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIAN FILM
+http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH", 24/7
+https://hls.247box.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",OXR
+http://51.254.225.26/hls/stream.m3u8
+
+
 #HINDI STARTS HERE
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA
+https://list.iptvcat.com/my_list/s/ef70168ebf7ff681ffa79c5a744f5daa.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA
+http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD
+http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -55,20 +86,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE Classic
 http://208.86.19.13:81/730.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Zee 
-http://208.86.19.13:81/708.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Sony Sab
-http://208.86.19.13:81/702.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Colors HD
-http://208.86.19.13:81/904.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
 http://208.86.19.13:81/719.stream/index.m3u8
@@ -94,6 +113,9 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
+#EXTINF:-1 group-title="ARABIC" LANGUAGE="ARABIC",SAMA DUBAI
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",PLAY
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1442749503_b748000_slENG.m3u8
 
@@ -102,6 +124,33 @@ https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w170799037_b
 
 #EXTINF:-1 group-title="PAKISTAN" LANGUAGE="PASHTO",KHAIBER
 https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/chunklist_w1715516742_b748000_slENG.m3u8
+
+
+#ENGLISH
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FAMILY FLIX
+https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist_webvtt_m.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",RUSH
+https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist_webvtt_m.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOCAL
+https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist_webvtt_m.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOCAL 1
+https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist_webvtt_m.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOCAL 2
+https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist_1280x720_m.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOCAL ZEN
+https://linear-125.frequency.stream/dist/localnow/125/hls/master/playlist_webvtt_m.m3u8
 
 
 #SPORT
@@ -127,7 +176,6 @@ https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
 
 
 #FOOD
