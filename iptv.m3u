@@ -1,5 +1,5 @@
-
-
+#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts 
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
 #http://208.86.19.13:81/730.stream/index.m3u8
 #http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
@@ -50,9 +50,9 @@ https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 #EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1,BollywoodHD
-http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
 #EXTINF:-1,BollywoodClassic
-http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 #EXTINF:-1,ZEE Classic
 http://208.86.19.13:81/730.stream/index.m3u8
 #EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
