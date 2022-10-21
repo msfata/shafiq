@@ -7,207 +7,137 @@
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 #bollywood classic https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/77da62b2-e694-4d4a-82d2-d435b22e3196/0.m3u8
+
+
+
 #EXTM3U
-#EXTINF:-1 ,BBC Persian
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
-#EXTINF:-1 ,VOA
-https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunklist.m3u8
-#EXTINF:-1 ,MULI
-http://51.210.227.133/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN",1TV
+
+#AFGHANISTAN TV CHANNELS 
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",1TV
 http://51.210.227.142/hls/stream.m3u8
 
-#EXTINF:-1 ,Ariana Afghanistan International TV
-http://iptv.arianaafgtv.com/ariana/playlist1/index.m3u8
-#EXTINF:-1 group-title="AFGHAN",AFGHANISTAN INTERNATIONAL
-https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 ,ATN News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 group-title="AFGHAN",MARIF
-http://51.210.199.51/hls/stream.m3u8
-
-#EXTINF:-1 group-title="AFGHAN",SOHAIL
-https://iptv.sohailtv.com/sohailtv/playlist2/index.m3u8
-#EXTINF:-1 group-title="AFGHAN",DUNYAI NOW
-http://51.210.199.45/hls/stream.m3u8
-
-
-#EXTINF:-1 group-title="AFGHAN",BAHAR
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
-#EXTINF:-1 group-title="AFGHAN",KAYHAN
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
-#EXTINF:-1 group-title="AFGHAN",PAMIR
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-#EXTINF:-1,ASIA MUSIC
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHAN",HASTI
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL MUSIC
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1828585374.m3u8
-#EXTINF:-1 group-title="AFGHAN",AFGHAN NOBEL TV
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD PRIME
+#HINDI STARTS HERE
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1,BollywoodHD
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
-#EXTINF:-1,BollywoodClassic
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
-#EXTINF:-1,ZEE Classic
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE Classic
 http://208.86.19.13:81/730.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI",B4U KADAK
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1,SONY SUB HD
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Zee 
+http://208.86.19.13:81/708.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Sony Sab
 http://208.86.19.13:81/702.stream/index.m3u8
-#EXTINF:-1 group-title="HINDI",BOLLYWOOD UAE
-https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1,DD National
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Colors HD
+http://208.86.19.13:81/904.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY SUB HD
+http://208.86.19.13:81/702.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOX SHOW
+https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",MANORANJAN
+https://idvd.multitvsolution.com/idvo/manoranjantv_540p.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EPIC
+https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="HINDI",Zee Aflam
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",Zee Aflam
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 
-#IRAN
-#EXTINF:-1 group-title="HINDI",9X
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 group-title="IRANI",ONYX
-http://51.254.225.26/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",PMC
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",AVA
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",OXR
-http://51.254.225.26/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",VOX
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",BRAVO
-http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",NAVAHANG
-http://51.210.227.130/hls/stream.m3u8
-#EXTINF:-1,VOX1
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",PARSILAND
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:-1 group-title="IRANI",PAYAME JAVAN
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w855415246.m3u8
-#EXTINF:-1 group-title="IRANI",PERSIAN FILM
-http://51.210.227.135/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",MERAJ TV
-http://51.210.199.32/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",DAMAC TV
-http://51.210.227.138/hls/stream.m3u8
-#EXTINF:-1 group-title="IRANI",FX
-http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",PLAY
+https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1442749503_b748000_slENG.m3u8
 
-#ENGLISH
-#EXTINF:-1 ,Comet
-http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1 ,Crackle
-http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Demand Africa
-https://demandafrica-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
-#EXTINF:-1 ,STIRR FilmRise Free Movies
-https://dai.google.com/linear/hls/event/Va1QEor0SWO_x_SQNyaF0w/master.m3u8
-#EXTINF:-1 ,Toonami Aftermath Movies
-http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
-#EXTINF:-1 ,Victor Valley Movies
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
-#EXTINF:-1 ,Action Hollywood Movies
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 ,My Cinema
-http://210.210.155.37/uq2663/h/h192/index.m3u8
-#EXTINF:-1 group-title="RUSSIAN",RT
-https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1 ,BBC News HD
-https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="ENGLISH",IN WILD
-https://inwild-samsungindia.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1,CNA International 
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,CPEtv
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
-#EXTINF:-1,DirecTV Sports 
-http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",AAJ
+https://streamone.simpaisa.com:8443/pitvlive1/aajent.smil/chunklist_w170799037_b1048000_slENG.m3u8
 
-#EXTINF:-1,Victor Valley Movies 
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN" LANGUAGE="PASHTO",KHAIBER
+https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/chunklist_w1715516742_b748000_slENG.m3u8
 
-#EXTINF:-1,Local Now Drama 
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
 
-#EXTINF:-1,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#SPORT
 
-#EXTINF:-1,24 Hour Free Movies 
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8
-
-#EXTINF:-1,1Music
-http://hz1.teleport.cc/HLS/HD.m3u8
-
-#EXTINF:-1 ,WWE SONY LIV
-https://streaming.sonyliv.com/Sports_WWE_RAW_Full_Episode_English_4th_04122018_900K.m3u8
-#EXTINF:-1 ,67.National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 ,Life TV
-https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
-#EXTINF:-1 ,360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 ,Alanya Posta
-http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
-
-#EXTINF:-1 ,ATV Alanya
-http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
-#EXTINF:-1 ,Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 ,CNA International
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 ,Deha TV
-https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
-#EXTINF:-1 ,Deniz Postası TV
-http://waw1.artiyerelmedya.net:1935/denizpostasitv/bant1/playlist.m3u8
-
-#EXTINF:-1 ,Power Turk
-https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
-#EXTINF:-1 ,Show TV
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 ,Star TV
-https://tv.ensonhaber.com/tv/tr/startv/index.m3u8
-#EXTINF:-1 ,AZAD TV
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 ,AZ TV1
-http://85.132.81.184:8080/atv/index.m3u8
-#EXTINF:-1 ,TGRT
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/chunklist_b600000.m3u8
-#EXTINF:-1 ,BURSA
-https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/chunklist_w389724297.m3u8
-
-#EXTINF:-1,Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,STIRR Whistle Sports 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",STIRR Whistle Sports 
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
 
-#EXTINF:-1,Sports TV Plus 
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-
-#EXTINF:-1,Sports Tonight 
-http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-
-#EXTINF:-1,EDGEsport 
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Bahrain Sports 1
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1,EUROSPORT 2 HD
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",EUROSPORT 2 HD
 http://212.102.60.80/Eurosport2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,MAQ TV CRICKET
-http://str24.l9574.com/517.stream/index.m3u8
+#MUSIC
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",1 Music
+http://hz1.teleport.cc/HLS/HD.m3u8
+
+#WILD
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",LOVE NATURE 
+https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",National Geographic Wild
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+
+
+#FOOD
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/fa267c83-ac84-4452-87a7-4e181ab5fd9c/0.m3u8
+
+
+
+
+
 
 
