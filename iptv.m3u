@@ -25,6 +25,9 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",MERAJ TV
 http://51.210.199.32/hls/stream.m3u8
 
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",FIZA
+https://fflivefaza.b-cdn.net/media_0.m3u8
+
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AREZO
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w289591692.m3u8
 
