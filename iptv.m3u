@@ -55,102 +55,6 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
 
-#IRANI
-
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",IFILM DARI
-https://live1.presstv.ir/live/ifilm2_360p/index.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PMC ROYALS 
-http://51.210.199.29/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",4U TV
-http://51.210.227.153/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",MANOTO
-https://edge-cdn1.manoto.click/live_500.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",AVA FAMILY 
-http://51.210.199.5/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",AVA SERIES
-http://51.210.199.4/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",FARAR AZ ZINDAN
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA HD
-http://51.210.227.147/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA 1
-http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA COMEDY
-http://51.210.199.27/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA PLUS
-http://51.210.199.21/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIANA FAMILY
-http://51.210.199.19/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",MAH TV
-http://51.210.199.33/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",VOX 1
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",ICC TV
-http://51.210.227.156/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",BRAVO FARSI
-http://51.210.199.16/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",JAVAN TV
-https://nl2.livekadeh.com/hls2/javanantv_high.m3u8
-
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="PERSIAN",PERSIAN FILM
-http://51.210.227.135/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH", 24/7
-https://hls.247box.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",OXR
-http://51.254.225.26/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",SL TV
-http://51.210.199.3/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",SL TV2
-http://51.210.199.2/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",TM TV
-http://51.210.227.151/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",ITN TV
-http://51.210.199.31/hls/stream.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",ICNET
-https://60ba7ef02e687.streamlock.net/ICNET2/ngrp:icnet_all/chunklist_w1892496691_b493000.m3u8
-
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",YOUR TIME
-https://hls.yourtime.live/hls/stream.m3u8
-
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",AMG
-https://nl.livekadeh.com/hls2/AMG_src.m3u8
-
-#EXTINF:-1 group-title="IRANI" LANGUAGE="ENGLISH",TAPISH
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
-
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="ENGLISH",Sony HD
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-
-
-
 #HINDI STARTS HERE
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U
@@ -159,17 +63,8 @@ http://208.86.19.13:81/831.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA
 http://208.86.19.13:81/722.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD
-http://208.86.19.13:81/701.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR CINEMA
-http://208.86.19.13:81/609.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
-http://208.86.19.13:81/828.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
-http://208.86.19.13:81/204.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI" ZEE BOLLYWOOD
+#http://208.86.19.13:81/701.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -180,24 +75,31 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE Classic
-http://208.86.19.13:81/730.stream/index.m3u8#
-
-#EXTINF:-1,Zee TV Asia Pacific
-http://93.152.174.144:4000/play/zee/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE
 http://208.86.19.13:81/830.stream/index.m3u8
 
+#EXTINF:-1,Zee TV Asia Pacific
+http://93.152.174.144:4000/play/zee/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI"ZEE Classic
+#http://208.86.19.13:81/730.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR CINEMA
+http://208.86.19.13:81/609.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
+http://208.86.19.13:81/828.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
+http://208.86.19.13:81/204.stream/index.m3u8
+
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR BHARAT HD
 http://208.86.19.13:81/721.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY ZINDAGI
-http://208.86.19.13:81/825.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Colors
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
@@ -205,17 +107,11 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Star plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY DIGITAL
-http://208.86.19.13:81/627.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
 http://208.86.19.13:81/643.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",9X JALWA
 http://208.86.19.13:81/522.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
-http://208.86.19.13:81/719.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
@@ -229,6 +125,12 @@ https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="ARABIC" LANGUAGE="ARABIC",SAMA DUBAI
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY DIGITAL
+http://208.86.19.13:81/627.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY ZINDAGI
+http://208.86.19.13:81/825.stream/index.m3u8
+
 #EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",PLAY
 https://streamone.simpaisa.com:8443/pitvlive1/playmax.smil/chunklist_w1442749503_b748000_slENG.m3u8
 
@@ -240,9 +142,6 @@ https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/chunklist_w1715516742_
 
 #EXTINF:-1 group-title="PAKISTAN" LANGUAGE="PASHTO",ATV
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",MOHANA TV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
 
 
 
@@ -288,11 +187,8 @@ http://190.83.119.67:8000/play/a0pp/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
-#EXTINF:-1,TVI
-https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
-
-#EXTINF:-1,ТНТ4
-https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+#EXTINF:-1 group-title="INDIA" LANGUAGE="ENGLISH",Sony HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 group-title="HINDI" LANGUAGE="URDU", PEACE
 http://208.86.19.13:81/624.stream/index.m3u8
