@@ -13,6 +13,8 @@
 
 #EXTM3U
 
+
+
 #AFGHANISTAN TV CHANNELS 
 
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHANISTAN INTERNATIONAL
@@ -144,13 +146,30 @@ https://nl.livekadeh.com/hls2/AMG_src.m3u8
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="ENGLISH",Sony HD
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+
+
+
 #HINDI STARTS HERE
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U
+http://208.86.19.13:81/831.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA
-http://red.ipfox.org:8080/osama2022/osama2023/49194?checkedby:iptvcat.com
+http://208.86.19.13:81/722.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD
 http://208.86.19.13:81/701.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR CINEMA
+http://208.86.19.13:81/609.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
+http://208.86.19.13:81/828.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
+http://208.86.19.13:81/204.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -162,25 +181,41 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE Classic
-http://208.86.19.13:81/730.stream/index.m3u8
+http://208.86.19.13:81/730.stream/index.m3u8#
+
+#EXTINF:-1,Zee TV Asia Pacific
+http://93.152.174.144:4000/play/zee/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE
+http://208.86.19.13:81/830.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR BHARAT HD
+http://208.86.19.13:81/721.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY ZINDAGI
+http://208.86.19.13:81/825.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Colors
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Star plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY DIGITAL
+http://208.86.19.13:81/627.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
+http://208.86.19.13:81/643.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",9X JALWA
+http://208.86.19.13:81/522.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
 http://208.86.19.13:81/719.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY SUB HD
-http://208.86.19.13:81/702.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOX SHOW
-https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",MANORANJAN
-https://idvd.multitvsolution.com/idvo/manoranjantv_540p.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EPIC
-https://epiconvh.s.llnwi.net/epic/master_1024.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
@@ -206,6 +241,9 @@ https://streamone.simpaisa.com:8443/pitvlive1/khyber.smil/chunklist_w1715516742_
 #EXTINF:-1 group-title="PAKISTAN" LANGUAGE="PASHTO",ATV
 https://streamone.simpaisa.com:8443/pitvlive1/atv.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="PAKISTAN" LANGUAGE="URDU",MOHANA TV
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
 
 
 
@@ -222,6 +260,9 @@ https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 
@@ -231,9 +272,28 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-sa
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Bite
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8
 
+#sport
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT
+http://208.86.19.13:81/824.stream/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT1
+http://208.86.19.13:81/517.stream/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",TBS
+http://208.86.19.13:81/201.stream/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",EXN
+http://190.83.119.67:8000/play/a0pp/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
+http://190.83.119.67:8000/play/a0pr/index.m3u8
 
+#EXTINF:-1,TVI
+https://video-auth7.iol.pt/live_edge/tvi_abr/edge_servers/tvi-480p/chunks.m3u8?
+
+#EXTINF:-1,ТНТ4
+https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
+
+#EXTINF:-1 group-title="HINDI" LANGUAGE="URDU", PEACE
+http://208.86.19.13:81/624.stream/index.m3u8
 
