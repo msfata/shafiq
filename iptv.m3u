@@ -107,6 +107,9 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Star plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
+#EXTINF:-1,Entar 10 Movie
+http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
 http://208.86.19.13:81/643.stream/index.m3u8
 
@@ -154,7 +157,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #WILD
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOVE NATURE 
-https://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
@@ -184,6 +187,12 @@ http://208.86.19.13:81/201.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",EXN
 http://190.83.119.67:8000/play/a0pp/index.m3u8
 
+#EXTINF:-1,NETMAX TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1,Movie Sehere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
@@ -192,4 +201,7 @@ http://190.83.119.67:8000/play/a0sk/index.m3u8
 
 #EXTINF:-1 group-title="HINDI" LANGUAGE="URDU", PEACE
 http://208.86.19.13:81/624.stream/index.m3u8
+
+#EXTINF:-1,Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
 
