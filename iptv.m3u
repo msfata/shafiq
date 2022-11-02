@@ -66,6 +66,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
@@ -152,4 +153,15 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
+#EXTINF:-1,ZEE ACTION
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
+
+#EXTINF:-1,ARRE
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
+#EXTINF:-1,ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1,Unknown_122
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1,LUXE TV
+http://210.210.155.35/x6bnqe/s/s65/index1.m3u8
 
