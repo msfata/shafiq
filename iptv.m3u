@@ -178,6 +178,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
  #EXTINF:-1 tvg-id="ToloTV.af" status="online",Tolo TV (720p)
  https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 
-#EXTINF:-1,Qazaqstan TV [Geo-blocked]
+#EXTINF:-1,Qazaqstan TV 
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+
+#EXTINF:-1,CNN
+http://ip2121.com:8081/live/cnn/playlist.m3u8
 
