@@ -162,6 +162,22 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1,ENGLISH
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1,LUXE TV
-http://210.210.155.35/x6bnqe/s/s65/index1.m3u8
+
+#EXTINF:-1,ASIA: CGTN DOCUMENTARY
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1,Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1,BHARAT
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddbharti/ddbharti.isml/ddbharti-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1,FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/902c6a69-dde6-4043-8fd5-5d44fe6070e8/0.m3u8
+
+ #EXTINF:-1 tvg-id="ToloTV.af" status="online",Tolo TV (720p)
+ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
+
+#EXTINF:-1,Qazaqstan TV [Geo-blocked]
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
