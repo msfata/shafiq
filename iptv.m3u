@@ -51,6 +51,18 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
+#EXTINF:-1,JAHANBIN 
+http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VOX1.ir" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="PERSIAN",VOX1 
+http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://www.lyngsat.com/logo/tv/yy/your-time-tv.png" group-title="Entertainment",YourTime TV 
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/j0GBgLg.png" group-title="Movies",Persian Film 
+http://51.210.227.135/hls/stream.m3u8
+
 
 #HINDI STARTS HERE
 
@@ -91,7 +103,13 @@ http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Star plus
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 
-#EXTINF:-1,Entar 10 Movie
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR HD
+http://208.86.19.13:81/721.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI", TIMES HD
+http://208.86.19.13:81/513.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Entar 10 Movie
 http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
