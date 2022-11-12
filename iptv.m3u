@@ -27,9 +27,6 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w289591692.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",WATANEMA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
 
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",MERAJ TV
-http://51.210.199.32/hls/stream.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 
@@ -51,18 +48,6 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
-#EXTINF:-1,JAHANBIN 
-http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VOX1.ir" tvg-logo="https://i.imgur.com/OFuIRFI.jpg" group-title="PERSIAN",VOX1 
-http://51.210.199.8/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-logo="https://www.lyngsat.com/logo/tv/yy/your-time-tv.png" group-title="Entertainment",YourTime TV 
-https://hls.yourtime.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="PersianFilm.ir" tvg-logo="https://i.imgur.com/j0GBgLg.png" group-title="Movies",Persian Film 
-http://51.210.227.135/hls/stream.m3u8
-
 
 #HINDI STARTS HERE
 
@@ -78,12 +63,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
+#EXTINF:-1,ZEE ACTION
+http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
 http://208.86.19.13:81/828.stream/index.m3u8
@@ -91,20 +78,8 @@ http://208.86.19.13:81/828.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE
 http://208.86.19.13:81/830.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Zee TV Asia Pacific
-http://93.152.174.144:4000/play/zee/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
 http://208.86.19.13:81/204.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Colors
-http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Star plus
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR HD
-http://208.86.19.13:81/721.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI", TIMES HD
 http://208.86.19.13:81/513.stream/index.m3u8
@@ -115,28 +90,11 @@ http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
 http://208.86.19.13:81/643.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",9X JALWA
-http://208.86.19.13:81/522.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-#EXTINF:-1 group-title="ARABIC" LANGUAGE="ARABIC",SAMA DUBAI
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ARY DIGITAL
-http://208.86.19.13:81/627.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ABP
-http://208.86.19.13:81/829.stream/index.m3u8
-
-#MUSIC
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",1 Music
-http://hz1.teleport.cc/HLS/HD.m3u8
 
 #WILD
 
@@ -171,14 +129,10 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
-#EXTINF:-1,ZEE ACTION
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
 
 #EXTINF:-1,ARRE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-#EXTINF:-1,ZEE AFLAM
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-<<<<<<< HEAD
+
 #EXTINF:-1,ENGLISH
 https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
@@ -191,21 +145,8 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1,BHARAT
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddbharti/ddbharti.isml/ddbharti-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1,FOOD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/902c6a69-dde6-4043-8fd5-5d44fe6070e8/0.m3u8
-
- #EXTINF:-1 tvg-id="ToloTV.af" status="online",Tolo TV (720p)
- https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-
 #EXTINF:-1,Qazaqstan TV 
 https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
 
-#EXTINF:-1,CNN
-http://ip2121.com:8081/live/cnn/playlist.m3u8
-=======
-#EXTINF:-1,Unknown_122
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-#EXTINF:-1,LUXE TV
-http://210.210.155.35/x6bnqe/s/s65/index1.m3u8
->>>>>>> 11f91c78a898c353418f905fc45d938a71821f83
+
 
