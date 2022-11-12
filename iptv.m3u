@@ -61,8 +61,32 @@ https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U
 http://208.86.19.13:81/831.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD 
+http://208.86.19.13:81/7011.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&TV HD
+http://208.86.19.13:81/7033.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&PICTURES HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD HD
+http://208.86.19.13:81/7177.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR CINEPLIX
+http://208.86.19.13:81/7355.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA INDIA
 http://208.86.19.13:81/722.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CLASSIC
+http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
@@ -77,10 +101,13 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE ACTION
-http://93.152.174.144:4000/play/zeeaction/index.m3u8
+http://208.86.19.13:81/7288.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DREAMZ
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SAMA
+http://208.86.19.13:81/6411.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",HUM SITARY
+http://208.86.19.13:81/692.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
 http://208.86.19.13:81/828.stream/index.m3u8
@@ -88,8 +115,14 @@ http://208.86.19.13:81/828.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE
 http://208.86.19.13:81/830.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE TV HD
+http://208.86.19.13:81/6066.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
 http://208.86.19.13:81/204.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI", TIMES HD
 http://208.86.19.13:81/513.stream/index.m3u8
@@ -103,8 +136,17 @@ http://208.86.19.13:81/643.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",UTV ACTION
+http://208.86.19.13:81/7233.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
+http://208.86.19.13:81/719.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",hindi music
+http://208.86.19.13:81/511.stream/index.m3u8
 
 #WILD
 
@@ -163,6 +205,40 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
 #EXTINF:-1,Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES
+http://208.86.19.13:81/201.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 1
+http://208.86.19.13:81/11.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 2
+http://208.86.19.13:81/201.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 3
+http://208.86.19.13:81/105.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",DISCOVERY
+http://208.86.19.13:81/31.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",STAR SPORT
+http://208.86.19.13:81/9022.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT
+http://208.86.19.13:81/7266.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 2
+http://208.86.19.13:81/7122.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 3
+http://208.86.19.13:81/7133.stream/index.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",TEN SPORT HD
+http://208.86.19.13:81/7111.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT HD
+http://208.86.19.13:81/6022.stream/index.m3u8
 
 
 
