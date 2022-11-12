@@ -11,8 +11,9 @@
 #https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
 #zee bollywood http://208.86.19.13:81/701.stream/index.m3u8
 #ZEE Classic http://208.86.19.13:81/730.stream/index.m3u8
-
-
+#BARBUD MUSIC https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
+#FAZA https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
+#TOLO https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 
 #EXTM3U
 
@@ -38,6 +39,12 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",TOLO
+http://216.66.42.47:7777/GemComedy_HD.m3u8
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",FAZA
+http://216.66.42.47:7777/GemAZ_HD.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
@@ -69,8 +76,11 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
-#EXTINF:-1,ZEE ACTION
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE ACTION
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
 http://208.86.19.13:81/828.stream/index.m3u8
@@ -129,6 +139,15 @@ https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
 http://190.83.119.67:8000/play/a0pr/index.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FAILED ARMY
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",IN TROUBLE
+https://introuble-samsungindia.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FUEL TV
+https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,ARRE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
@@ -142,11 +161,8 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1,Weyyak Action (1080p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
-#EXTINF:-1,BHARAT
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddbharti/ddbharti.isml/ddbharti-audio_208482_und=208000-video=877600.m3u8
-
-#EXTINF:-1,Qazaqstan TV 
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
+#EXTINF:-1,Kronehit HD
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 
