@@ -52,14 +52,14 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
 
+
+#IRAN
+#EXTINF:-1 group-title="IRAN" LANGUAGE="PERSIAN", GEM TV
+http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
+
+
+
 #HINDI STARTS HERE
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD SEL
-http://208.86.19.13:81/7099.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U
 http://208.86.19.13:81/831.stream/index.m3u8
@@ -67,11 +67,15 @@ http://208.86.19.13:81/831.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD 
 http://208.86.19.13:81/7011.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&EXPLORE HD
-http://208.86.19.13:81/7300.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&PICTURES HD
 http://208.86.19.13:81/7055.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
@@ -82,17 +86,14 @@ http://208.86.19.13:81/7355.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA INDIA
 http://208.86.19.13:81/722.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&EXPLORE HD
+http://208.86.19.13:81/7300.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CLASSIC
 http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
@@ -103,12 +104,6 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY SAB
-http://208.86.19.13:81/7022.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI", TIMES HD
-http://208.86.19.13:81/513.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",UTV ACTION
 http://208.86.19.13:81/7233.stream/index.m3u8
 
@@ -117,6 +112,9 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 
 #ENGLISH MOVIES
+
+#EXTINF:-1,Plex Tv
+http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Movie Sehere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
@@ -132,6 +130,9 @@ http://208.86.19.13:81/201.stream/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 2
 http://208.86.19.13:81/11.stream/index.m3u8
+
+#EXTINF:-1,MOVIE _ACTION
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 
 #english music
@@ -154,10 +155,15 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wonder
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 
+#EXTINF:-1,TVRI BUDAYA
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
 
 
 #sport
 
+#EXTINF:-1,Cinemax
+http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 1
 http://208.86.19.13:81/7266.stream/index.m3u8
@@ -170,6 +176,24 @@ http://208.86.19.13:81/7111.stream/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT HD
 http://208.86.19.13:81/6022.stream/index.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1,VIASAT SPORT
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1,TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Dubai Sport 1 FHD
+http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Dubai Sport 2
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Dubai Sport 3 FHD
+http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 
 
 
