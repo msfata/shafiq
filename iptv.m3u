@@ -14,7 +14,8 @@
 #BARBUD MUSIC https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
 #FAZA https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
 #TOLO https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-
+#SONY MAX HD http://208.86.19.13:81/7066.stream/index.m3u8
+#STAR GOLD SELECT http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTM3U
 
 #AFGHANISTAN TV CHANNELS 
@@ -40,11 +41,6 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
 
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",TOLO
-http://216.66.42.47:7777/GemComedy_HD.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",FAZA
-http://216.66.42.47:7777/GemAZ_HD.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
@@ -64,8 +60,8 @@ http://208.86.19.13:81/831.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD 
 http://208.86.19.13:81/7011.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&TV HD
-http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&EXPLORE HD
+http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&PICTURES HD
 http://208.86.19.13:81/7055.stream/index.m3u8
@@ -79,14 +75,11 @@ http://208.86.19.13:81/7355.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA INDIA
 http://208.86.19.13:81/722.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY MAX HD
-http://208.86.19.13:81/7066.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD SELECT
-http://208.86.19.13:81/7099.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CLASSIC
 http://208.86.19.13:81/7300.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&TV HD
+http://208.86.19.13:81/7033.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
@@ -103,38 +96,11 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SAMA
-http://208.86.19.13:81/6411.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",HUM SITARY
-http://208.86.19.13:81/692.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZING
-http://208.86.19.13:81/828.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE
-http://208.86.19.13:81/830.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE TV HD
-http://208.86.19.13:81/6066.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",AAP KA COLOR
-http://208.86.19.13:81/204.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR HD
-http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI", TIMES HD
 http://208.86.19.13:81/513.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",Entar 10 Movie
-http://karostream.tulix.tv/ENTER10MOVIES/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",EXPRESS 
-http://208.86.19.13:81/643.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",DD National
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",UTV ACTION
 http://208.86.19.13:81/7233.stream/index.m3u8
@@ -142,19 +108,38 @@ http://208.86.19.13:81/7233.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",E24
-http://208.86.19.13:81/719.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",hindi music
-http://208.86.19.13:81/511.stream/index.m3u8
+#ENGLISH MOVIES
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Movie Sehere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIE
+http://208.86.19.13:81/101.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",NICK TONS
+http://208.86.19.13:81/15.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 1
+http://208.86.19.13:81/201.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 2
+http://208.86.19.13:81/11.stream/index.m3u8
+
+
+#english music
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", ENGLISH MUSIC
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+
 
 #WILD
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FAILED ARMY
+http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOVE NATURE 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ARABIC",National Geographic Wild
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -163,76 +148,15 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
 
 
-#FOOD
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Bite
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01478-parademediagrou-bitenz-samsungnz/playlist.m3u8
 
 #sport
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT
-http://208.86.19.13:81/824.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT1
-http://208.86.19.13:81/517.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Movie Sehere
-https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",AMC
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FAILED ARMY
-http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",IN TROUBLE
-https://introuble-samsungindia.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FUEL TV
-https://fueltv-fueltv-12-in.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1,ARRE
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-
-#EXTINF:-1,ENGLISH
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
-
-#EXTINF:-1,ASIA: CGTN DOCUMENTARY
-https://livedoc.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1,Weyyak Action (1080p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
-
-#EXTINF:-1,Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES
-http://208.86.19.13:81/201.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 1
-http://208.86.19.13:81/11.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 2
-http://208.86.19.13:81/201.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 3
-http://208.86.19.13:81/105.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",DISCOVERY
-http://208.86.19.13:81/31.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",STAR SPORT
-http://208.86.19.13:81/9022.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 1
 http://208.86.19.13:81/7266.stream/index.m3u8
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 2
 http://208.86.19.13:81/7122.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 3
-http://208.86.19.13:81/7133.stream/index.m3u8
-
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",TEN SPORT HD
 http://208.86.19.13:81/7111.stream/index.m3u8
