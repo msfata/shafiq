@@ -108,6 +108,11 @@ http://208.86.19.13:81/7233.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR TV
+http://208.86.19.13:81/6055.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR AAPKA
+http://208.86.19.13:81/204.stream/index.m3u8
 
 #ENGLISH MOVIES
 
@@ -132,10 +137,18 @@ http://208.86.19.13:81/11.stream/index.m3u8
 #EXTINF:-1,MOVIE _ACTION
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",BBC MOVIES
+http://208.86.19.13:81/34.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",MOVIES
+http://208.86.19.13:81/33.stream/index.m3u8
+
 
 #english music
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", ENGLISH MUSIC
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+
 
 
 
@@ -159,6 +172,9 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 
 
 #sport
+
+#EXTINF:-1,PTV SPORT
+http://208.86.19.13:81/6100.stream/index.m3u8
 
 #EXTINF:-1,Cinemax
 http://4digital.ddns.net:11222/ts/0
