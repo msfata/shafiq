@@ -51,8 +51,17 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 #EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",TAPISH
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",MANOTO
+https://edge-cdn1.manoto.click/live_500.m3u8
 
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",YOUR TIME
+https://hls.yourtime.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",PARSI LONDON
+http://vps.parsiland.net/hls/ParsiLand.m3u8
 
 
 
@@ -114,7 +123,15 @@ http://208.86.19.13:81/6055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR AAPKA
 http://208.86.19.13:81/204.stream/index.m3u8
 
+
+
 #ENGLISH MOVIES
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BLUE ANT EXTREME
+http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
 
 #EXTINF:-1,Plex Tv
 http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8
@@ -148,8 +165,11 @@ http://208.86.19.13:81/33.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", ENGLISH MUSIC
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", kissKiss TV
+http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
 
-
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",CANALE RADIO 51
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
 
 
 #WILD
@@ -173,10 +193,16 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Str
 
 #sport
 
-#EXTINF:-1,PTV SPORT
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",J CHANNEL@pikotvhd
+http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",INDIAN SPORT
+http://208.86.19.13:81/9055.stream/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",PTV SPORT
 http://208.86.19.13:81/6100.stream/index.m3u8
 
-#EXTINF:-1,Cinemax
+#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Cinemax
 http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 1
