@@ -1,239 +1,111 @@
-#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
-#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts 
-#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
-#http://208.86.19.13:81/730.stream/index.m3u8
-#http://95.154.197.48/tsstreamer/BollywoodHDLDAI_SD.ts
-#http://88.150.241.11/tsstreamer/BollywoodClassicLDAI_SD.ts
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
-#bollywood classic https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/77da62b2-e694-4d4a-82d2-d435b22e3196/0.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/230a22d9-82cf-4066-b367-7fc2ded878f3/0.m3u8
-#https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/8cac4337-bd91-4a15-828c-7e028cc19152/0.m3u8
-#zee bollywood http://208.86.19.13:81/701.stream/index.m3u8
-#ZEE Classic http://208.86.19.13:81/730.stream/index.m3u8
-#BARBUD MUSIC https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolomusic.m3u8
-#FAZA https://raw.githubusercontent.com/LaneSh4d0w/IPTV_Exception/master/channels/af/fazatv.m3u8
-#TOLO https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
-#SONY MAX HD http://208.86.19.13:81/7066.stream/index.m3u8
-#STAR GOLD SELECT http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTM3U
-
-#AFGHANISTAN TV CHANNELS 
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHANISTAN INTERNATIONAL
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",ARIANA NEWS
+#EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w289591692.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",WATANEMA
+#EXTINF:-1 group-title="AFGHANISTAN",WATANEMA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",BAHAR
+#EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",KAYHAN
+#EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",PAMIR
+#EXTINF:-1 group-title="AFGHANISTAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",ASIA MUSIC
+#EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
-
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",HASTI
+#EXTINF:-1 group-title="AFGHANISTAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL MUSIC
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1828585374.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",AFGHAN NOBEL TV
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",TAPISH
-http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",MANOTO
+#EXTINF:-1 group-title="AFGHANISTAN",MANOTO
 https://edge-cdn1.manoto.click/live_500.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",YOUR TIME
-https://hls.yourtime.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="AFGHANISTAN" LANGUAGE="PERSIAN",PARSI LONDON
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-
-
-
-
-#HINDI STARTS HERE
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U
+#EXTINF:-1 group-title="INDIA",B4U
 http://208.86.19.13:81/831.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE BOLLYWOOD 
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
-
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodHD
+#EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&PICTURES HD
+#EXTINF:-1 group-title="INDIA",&PICTURES HD
 http://208.86.19.13:81/7055.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BollywoodClassic
+#EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",STAR GOLD HD
+#EXTINF:-1 group-title="INDIA",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR CINEPLIX
+#EXTINF:-1 group-title="INDIA",COLOR CINEPLIX
 http://208.86.19.13:81/7355.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CINEMA INDIA
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA INDIA
 http://208.86.19.13:81/722.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&EXPLORE HD
+#EXTINF:-1 group-title="INDIA",&EXPLORE HD
 http://208.86.19.13:81/7300.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE CLASSIC
+#EXTINF:-1 group-title="INDIA",ZEE CLASSIC
 http://208.86.19.13:81/7300.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",&TV HD
+#EXTINF:-1 group-title="INDIA",&TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BOLLYWOOD PRIME
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",B4U KADAK
+#EXTINF:-1 group-title="INDIA",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",ZEE ACTION
+#EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",UTV ACTION
+#EXTINF:-1 group-title="INDIA",UTV ACTION
 http://208.86.19.13:81/7233.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="ARABIC",BOLLYWOOD UAE
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR TV
+#EXTINF:-1 group-title="INDIA",COLOR TV
 http://208.86.19.13:81/6055.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",COLOR AAPKA
+#EXTINF:-1 group-title="INDIA",COLOR AAPKA
 http://208.86.19.13:81/204.stream/index.m3u8
-
-
-
-#ENGLISH MOVIES
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BLUE ANT EXTREME
+#EXTINF:-1 group-title="INDIA",BLUE ANT EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-
-#EXTINF:-1 group-title="INDIA" LANGUAGE="HINDI",BLUE ANT ENTERTAINMENT
+#EXTINF:-1 group-title="INDIA",BLUE ANT ENTERTAINMENT
 http://210.210.155.35/dr9445/h/h16/02.m3u8
-
-#EXTINF:-1,Plex Tv
-http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist_w1073138473.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Movie Sehere
+#EXTINF:-1 group-title="ENGLISH",Movie Sehere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIE
+#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIE
 http://208.86.19.13:81/101.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",NICK TONS
+#EXTINF:-1 group-title="ENGLISH",NICK TONS
 http://208.86.19.13:81/15.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 1
+#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIES 1
 http://208.86.19.13:81/201.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",ENGLISH MOVIES 2
+#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIES 2
 http://208.86.19.13:81/11.stream/index.m3u8
-
-#EXTINF:-1,MOVIE _ACTION
+#EXTINF:-1 ,MOVIE _ACTION
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",BBC MOVIES
+#EXTINF:-1 group-title="ENGLISH",BBC MOVIES
 http://208.86.19.13:81/34.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",MOVIES
-http://208.86.19.13:81/33.stream/index.m3u8
-
-
-#english music
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", ENGLISH MUSIC
+#EXTINF:-1 group-title="ENGLISH",ENGLISH MUSIC
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH", kissKiss TV
-http://wma05.fluidstream.net/KissKissTV/KissKissTV.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",CANALE RADIO 51
-http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
-
-
-#WILD
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",FAILED ARMY
+#EXTINF:-1 group-title="ENGLISH",FAILED ARMY
 http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",LOVE NATURE 
+#EXTINF:-1 group-title="ENGLISH",WILD 2
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wild EARTH
+#EXTINF:-1 group-title="ENGLISH",WILD 1
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Wonder
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
-
-#EXTINF:-1,TVRI BUDAYA
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-
-
-
-#sport
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",J CHANNEL@pikotvhd
+#EXTINF:-1 group-title="ENGLISH",SPORT 13
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",INDIAN SPORT
+#EXTINF:-1 group-title="ENGLISH",SPORT 12
 http://208.86.19.13:81/9055.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",PTV SPORT
+#EXTINF:-1 group-title="ENGLISH",SPORT 11
 http://208.86.19.13:81/6100.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",Cinemax
+#EXTINF:-1 group-title="ENGLISH",SPORT 10
 http://4digital.ddns.net:11222/ts/0
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 1
+#EXTINF:-1 group-title="ENGLISH",SPORT 9
 http://208.86.19.13:81/7266.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SONY SPORT 2
+#EXTINF:-1 group-title="ENGLISH",SPORT 8
 http://208.86.19.13:81/7122.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",TEN SPORT HD
+#EXTINF:-1 group-title="ENGLISH",SPORT 7
 http://208.86.19.13:81/7111.stream/index.m3u8
-
-#EXTINF:-1 group-title="ENGLISH" LANGUAGE="ENGLISH",SPORT HD
+#EXTINF:-1 group-title="ENGLISH",SPORT 6
 http://208.86.19.13:81/6022.stream/index.m3u8
-
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-
-#EXTINF:-1,VIASAT SPORT
+#EXTINF:-1 ,SPORT 5
 http://persik.tv/stream/3602/287583/10249.m3u8
-
-#EXTINF:-1,TVRI SPORT
+#EXTINF:-1 ,SPORT 4
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-
-#EXTINF:-1,Dubai Sport 1 FHD
+#EXTINF:-1 ,SPORT 3
 http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,Dubai Sport 2
+#EXTINF:-1 ,SPORT 2
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1,Dubai Sport 3 FHD
+#EXTINF:-1 ,SPORT 1
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-
-
-
