@@ -39,8 +39,6 @@ http://208.86.19.13:81/7355.stream/index.m3u8
 http://208.86.19.13:81/722.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",&EXPLORE HD
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CLASSIC
-http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",&TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
@@ -49,6 +47,21 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZING
+http://208.86.19.13:81/828.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR PLUD HD
+http://208.86.19.13:81/6077.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE TV HD
+http://208.86.19.13:81/6066.stream/index.m3u8
+
+
 #EXTINF:-1 group-title="INDIA",UTV ACTION
 http://208.86.19.13:81/7233.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
