@@ -3,6 +3,10 @@
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w289591692.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",MULI TV
+http://51.210.227.133/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHANITV
+http://51.210.227.131/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATANEMA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BARYA
@@ -15,6 +19,8 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",MUQAM TV
+http://51.210.227.139/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASTI
@@ -25,6 +31,11 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w992844130.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",MANOTO
 https://edge-cdn1.manoto.click/live_500.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",IRAN
+http://51.210.227.160/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",IRAN MUSIC
+http://51.210.227.163/hls/stream.m3u8
+
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",B4U
@@ -106,6 +117,8 @@ http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",WILD 1
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="ENGLISH",ICC
+http://51.210.227.156/hls/stream.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 13
 http://210.210.155.35/qwr9ew/s/s41/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 12
@@ -210,3 +223,55 @@ http://51.210.199.56/hls/stream.m3u8
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 ,TV  58
 http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 ,TV  128
+http://51.210.227.128/hls/stream.m3u8
+#EXTINF:-1 ,TV  130
+http://51.210.227.130/hls/stream.m3u8
+#EXTINF:-1 ,TV  131
+http://51.210.227.131/hls/stream.m3u8
+#EXTINF:-1 ,TV  133
+http://51.210.227.133/hls/stream.m3u8
+#EXTINF:-1 ,TV  134
+http://51.210.227.134/hls/stream.m3u8
+#EXTINF:-1 ,TV  135
+http://51.210.227.135/hls/stream.m3u8
+#EXTINF:-1 ,TV  136
+http://51.210.227.136/hls/stream.m3u8
+#EXTINF:-1 ,TV  138
+http://51.210.227.138/hls/stream.m3u8
+#EXTINF:-1 ,TV  139
+http://51.210.227.139/hls/stream.m3u8
+#EXTINF:-1 ,TV  140
+http://51.210.227.140/hls/stream.m3u8
+#EXTINF:-1 ,TV  141
+http://51.210.227.141/hls/stream.m3u8
+#EXTINF:-1 ,TV  144
+http://51.210.227.144/hls/stream.m3u8
+#EXTINF:-1 ,TV  145
+http://51.210.227.145/hls/stream.m3u8
+#EXTINF:-1 ,TV  146
+http://51.210.227.146/hls/stream.m3u8
+#EXTINF:-1 ,TV  147
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1 ,TV  149
+http://51.210.227.149/hls/stream.m3u8
+#EXTINF:-1 ,TV  151
+http://51.210.227.151/hls/stream.m3u8
+#EXTINF:-1 ,TV  152
+http://51.210.227.152/hls/stream.m3u8
+#EXTINF:-1 ,TV  153
+http://51.210.227.153/hls/stream.m3u8
+#EXTINF:-1 ,TV  154
+http://51.210.227.154/hls/stream.m3u8
+#EXTINF:-1 ,TV  155
+http://51.210.227.155/hls/stream.m3u8
+#EXTINF:-1 ,TV  156
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1 ,TV  157
+http://51.210.227.157/hls/stream.m3u8
+#EXTINF:-1 ,TV  160
+http://51.210.227.160/hls/stream.m3u8
+#EXTINF:-1 ,TV  161
+http://51.210.227.161/hls/stream.m3u8
+#EXTINF:-1 ,TV  163
+http://51.210.227.163/hls/stream.m3u8
