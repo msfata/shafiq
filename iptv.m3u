@@ -1,16 +1,7 @@
+#tolo https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolotv.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w289591692.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",MULI TV
-http://51.210.227.133/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",AFGHANITV
-http://51.210.227.131/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",WATANEMA
-https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",TOLO
-https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
@@ -23,29 +14,22 @@ http://51.210.227.161/hls/stream.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w445617022.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA
-http://red.ipfox.org:8080/osama2022/osama2023/49194
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA UK
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/12892
-#EXTINF:-1 group-title="INDIA",USTAVE GOLD
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/8050
-#EXTINF:-1 group-title="INDIA",BFLIX
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/5124
-#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
-http://208.86.19.13:81/7011.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-#EXTINF:-1 group-title="INDIA",&PICTURES HD
-http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",&PICTURES HD
+http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",COLOR CINEPLIX
+#EXTINF:-1 group-title="INDIA",COLOR CINEPLEX
 http://208.86.19.13:81/7355.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA INDIA
 http://208.86.19.13:81/722.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",&EXPLORE HD
+#EXTINF:-1 group-title="INDIA",ZEE CLASSIC
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",&TV HD
 http://208.86.19.13:81/7033.stream/index.m3u8
@@ -61,34 +45,23 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",UTV
 http://208.86.19.13:81/7233.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",UTV ACTION
-http://208.86.19.13:81/7233.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",COLOR TV
-http://208.86.19.13:81/6055.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",COLOR AAPKA
-http://208.86.19.13:81/204.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",CHINEES
-http://210.210.155.35/qwr9ew/s/s31/index.m3u8
-#EXTINF:-1 group-title="INDIA",ENGLISH MOVI3
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+http://red.ipfox.org:8080/osama2022/osama2023/49194
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA UK
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/12892
+#EXTINF:-1 group-title="INDIA",USTAVE GOLD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/8050
+#EXTINF:-1 group-title="INDIA",BFLIX
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/5124
+
+#EXTINF:-1 group-title="INDIA",A HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
-#EXTINF:-1 group-title="INDIA",ENGLISH MOVIE1
+#EXTINF:-1 group-title="INDIA",ENGLISH GREEK 
 https://s1.cystream.net/live/34100/chunks.m3u8
-#EXTINF:-1 group-title="INDIA",BLUE ANT EXTREME
+#EXTINF:-1 group-title="INDIA",ROCK EXTREME 
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="ENGLISH",Movie Sehere
-https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
-#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIE
-http://208.86.19.13:81/101.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",NICK TONS
-http://208.86.19.13:81/15.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIES 1
-http://208.86.19.13:81/201.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIES 2
-http://208.86.19.13:81/11.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SOFY
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,MOVIE _ACTION
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",BBC MOVIES
 http://208.86.19.13:81/34.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",ENGLISH MUSIC
@@ -99,157 +72,15 @@ http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",WILD 1
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 group-title="ENGLISH",ICC
-http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPORT 13
-http://210.210.155.35/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1 group-title="ENGLISH",SPORT 6
+http://208.86.19.13:81/6022.stream/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",SPORT 7
+http://208.86.19.13:81/7111.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 12
 http://208.86.19.13:81/9055.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 11
 http://208.86.19.13:81/6100.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPORT 9
-http://208.86.19.13:81/7266.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 8
 http://208.86.19.13:81/7122.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPORT 7
-http://208.86.19.13:81/7111.stream/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",SPORT 6
-http://208.86.19.13:81/6022.stream/index.m3u8
-#EXTINF:-1 ,SPORT 5
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 ,SPORT 4
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 ,SPORT 3
-http://dmitnthfr.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,SPORT 2
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,SPORT 1
-http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="ENGLISH",DW NEWS
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",INSHORT
-https://inshort-samsungindia.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,TV  2
-http://51.210.199.2/hls/stream.m3u8
-#EXTINF:-1 ,TV  3
-http://51.210.199.3/hls/stream.m3u8
-#EXTINF:-1 ,TV  4
-http://51.210.199.4/hls/stream.m3u8
-#EXTINF:-1 ,TV  5
-http://51.210.199.5/hls/stream.m3u8
-#EXTINF:-1 ,TV  6
-http://51.210.199.6/hls/stream.m3u8
-#EXTINF:-1 ,TV  7
-http://51.210.199.7/hls/stream.m3u8
-#EXTINF:-1 ,TV  8
-http://51.210.199.8/hls/stream.m3u8
-#EXTINF:-1 ,TV  11
-http://51.210.199.11/hls/stream.m3u8
-#EXTINF:-1 ,TV  12
-http://51.210.199.12/hls/stream.m3u8
-#EXTINF:-1 ,TV  14
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 ,TV  16
-http://51.210.199.16/hls/stream.m3u8
-#EXTINF:-1 ,TV  18
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 ,TV  19
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 ,TV  20
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 ,TV  21
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 ,TV  22
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 ,TV  23
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 ,TV  24
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 ,TV  25
-http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 ,TV  26
-http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 ,TV  27
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 ,TV  28
-http://51.210.199.28/hls/stream.m3u8
-#EXTINF:-1 ,TV  29
-http://51.210.199.29/hls/stream.m3u8
-#EXTINF:-1 ,TV  30
-http://51.210.199.30/hls/stream.m3u8
-#EXTINF:-1 ,TV  32
-http://51.210.199.32/hls/stream.m3u8
-#EXTINF:-1 ,TV  33
-http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1 ,TV  37
-http://51.210.199.37/hls/stream.m3u8
-#EXTINF:-1 ,TV  40
-http://51.210.199.40/hls/stream.m3u8
-#EXTINF:-1 ,TV  45
-http://51.210.199.45/hls/stream.m3u8
-#EXTINF:-1 ,TV  49
-http://51.210.199.49/hls/stream.m3u8
-#EXTINF:-1 ,TV  51
-http://51.210.199.51/hls/stream.m3u8
-#EXTINF:-1 ,TV  52
-http://51.210.199.52/hls/stream.m3u8
-#EXTINF:-1 ,TV  53
-http://51.210.199.53/hls/stream.m3u8
-#EXTINF:-1 ,TV  56
-http://51.210.199.56/hls/stream.m3u8
-#EXTINF:-1 ,TV  57
-http://51.210.199.57/hls/stream.m3u8
-#EXTINF:-1 ,TV  58
-http://51.210.199.58/hls/stream.m3u8
-#EXTINF:-1 ,TV  128
-http://51.210.227.128/hls/stream.m3u8
-#EXTINF:-1 ,TV  130
-http://51.210.227.130/hls/stream.m3u8
-#EXTINF:-1 ,TV  131
-http://51.210.227.131/hls/stream.m3u8
-#EXTINF:-1 ,TV  133
-http://51.210.227.133/hls/stream.m3u8
-#EXTINF:-1 ,TV  134
-http://51.210.227.134/hls/stream.m3u8
-#EXTINF:-1 ,TV  135
-http://51.210.227.135/hls/stream.m3u8
-#EXTINF:-1 ,TV  136
-http://51.210.227.136/hls/stream.m3u8
-#EXTINF:-1 ,TV  138
-http://51.210.227.138/hls/stream.m3u8
-#EXTINF:-1 ,TV  139
-http://51.210.227.139/hls/stream.m3u8
-#EXTINF:-1 ,TV  140
-http://51.210.227.140/hls/stream.m3u8
-#EXTINF:-1 ,TV  141
-http://51.210.227.141/hls/stream.m3u8
-#EXTINF:-1 ,TV  144
-http://51.210.227.144/hls/stream.m3u8
-#EXTINF:-1 ,TV  145
-http://51.210.227.145/hls/stream.m3u8
-#EXTINF:-1 ,TV  146
-http://51.210.227.146/hls/stream.m3u8
-#EXTINF:-1 ,TV  147
-http://51.210.227.147/hls/stream.m3u8
-#EXTINF:-1 ,TV  149
-http://51.210.227.149/hls/stream.m3u8
-#EXTINF:-1 ,TV  151
-http://51.210.227.151/hls/stream.m3u8
-#EXTINF:-1 ,TV  152
-http://51.210.227.152/hls/stream.m3u8
-#EXTINF:-1 ,TV  153
-http://51.210.227.153/hls/stream.m3u8
-#EXTINF:-1 ,TV  154
-http://51.210.227.154/hls/stream.m3u8
-#EXTINF:-1 ,TV  155
-http://51.210.227.155/hls/stream.m3u8
-#EXTINF:-1 ,TV  156
-http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 ,TV  157
-http://51.210.227.157/hls/stream.m3u8
-#EXTINF:-1 ,TV  160
-http://51.210.227.160/hls/stream.m3u8
-#EXTINF:-1 ,TV  161
-http://51.210.227.161/hls/stream.m3u8
-#EXTINF:-1 ,TV  163
-http://51.210.227.163/hls/stream.m3u8
+
