@@ -9,27 +9,28 @@ http://51.210.227.133/hls/stream.m3u8
 http://51.210.227.131/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",WATANEMA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/chunklist_w1211897916.m3u8
-
-
+#EXTINF:-1 group-title="AFGHANISTAN",TOLO
+https://github.com/taodicakhia/IPTV_Overworld/raw/master/channels/af/tolotv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
-
 #EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",HASTI
-https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w445617022.m3u8
-
-
-
-
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+http://red.ipfox.org:8080/osama2022/osama2023/49194
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA UK
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/12892
+#EXTINF:-1 group-title="INDIA",USTAVE GOLD
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/8050
+#EXTINF:-1 group-title="INDIA",BFLIX
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/5124
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
@@ -54,8 +55,6 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZING
-http://208.86.19.13:81/828.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
@@ -64,29 +63,18 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 http://208.86.19.13:81/7233.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",UTV ACTION
 http://208.86.19.13:81/7233.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",B4U
-http://208.86.19.13:81/831.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA",COLOR TV
 http://208.86.19.13:81/6055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",COLOR AAPKA
 http://208.86.19.13:81/204.stream/index.m3u8
-
 #EXTINF:-1 group-title="INDIA",CHINEES
 http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 #EXTINF:-1 group-title="INDIA",ENGLISH MOVI3
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
-#EXTINF:-1 group-title="INDIA",ENGLISH MOVIE3
-https://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
-#EXTINF:-1 group-title="INDIA",ENGLISH MOVIE
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/w0rhs8m7/2728/chunklist.m3u8
 #EXTINF:-1 group-title="INDIA",ENGLISH MOVIE1
 https://s1.cystream.net/live/34100/chunks.m3u8
 #EXTINF:-1 group-title="INDIA",BLUE ANT EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-#EXTINF:-1 group-title="INDIA",BLUE ANT ENTERTAINMENT
-http://210.210.155.35/dr9445/h/h16/02.m3u8
 #EXTINF:-1 group-title="ENGLISH",Movie Sehere
 https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
 #EXTINF:-1 group-title="ENGLISH",ENGLISH MOVIE
@@ -139,10 +127,6 @@ http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd/smil:dubaisportshd.smil/chunk
 http://dmitwlfr.cdn.mangomolo.com:80/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="ENGLISH",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",EURO NEWS
-https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="ENGLISH",BAHRAIN INTERNATIONAL
-https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH",INSHORT
 https://inshort-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,TV  2
