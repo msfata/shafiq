@@ -39,12 +39,24 @@ https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="INDIA",UTV
 http://208.86.19.13:81/7233.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",STAR GOLD
+https://list.iptvcat.com/my_list/s/9316edd6eb76d9ba66c058fe79ef98f3.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+https://list.iptvcat.com/my_list/s/6f664a1a04af205b5615c684ad85ffd7.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA HD
+https://list.iptvcat.com/my_list/s/3f7f1c147adbac9ee70224aa5db55c11.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CLASSIS
+https://list.iptvcat.com/my_list/s/45f2b7ee62c9668179db723092f08713.m3u8
+
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA
 http://red.ipfox.org:8080/osama2022/osama2023/49194
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA UK
@@ -62,6 +74,8 @@ https://s1.cystream.net/live/34100/chunks.m3u8
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF:-1 group-title="ENGLISH",SOFY
 https://sofy-ger-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ENGLISH",24 HOURS MOVIES
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 #EXTINF:-1 group-title="ENGLISH",BBC MOVIES
 http://208.86.19.13:81/34.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",ENGLISH MUSIC
@@ -83,4 +97,6 @@ http://208.86.19.13:81/9055.stream/index.m3u8
 http://208.86.19.13:81/6100.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",SPORT 8
 http://208.86.19.13:81/7122.stream/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",MUSIC
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
