@@ -14,6 +14,10 @@ http://51.210.227.161/hls/stream.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL TV
 https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w445617022.m3u8
+#EXTINF:-1,TV FAMILY 24
+http://51.210.199.40/hls/stream.m3u8
+#EXTINF:-1,TV IRAN
+http://51.210.199.30/hls/stream.m3u8
 
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
@@ -56,7 +60,8 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/12892
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/8050
 #EXTINF:-1 group-title="INDIA",BFLIX
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/5124
-
+#EXTINF:-1 group-title="INDIA",WARNER
+http://gameplay.p2sweb.me:80/live/3543653/35436567/204554.m3u8
 #EXTINF:-1 group-title="INDIA",A HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/cz2fpdj6/2728/chunklist.m3u8
 #EXTINF:-1 group-title="INDIA",ENGLISH GREEK 
@@ -77,6 +82,8 @@ http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="ENGLISH",WILD 1
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1,TV PLANET
+http://gameplay.p2sweb.me:80/live/3543653/35436567/204420.m3u8
 
 #EXTINF:-1 group-title="ENGLISH",SPORT 6
 http://208.86.19.13:81/6022.stream/index.m3u8
@@ -90,4 +97,25 @@ http://208.86.19.13:81/6100.stream/index.m3u8
 http://208.86.19.13:81/7122.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH",MUSIC
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+
+#EXTINF:-1,TV TELESIGN
+http://gameplay.p2sweb.me:80/live/3543653/35436567/204512.m3u8
+#EXTINF:-1,TV STAR
+http://gameplay.p2sweb.me:80/live/3543653/35436567/204425.m3u8
+#EXTINF:-1, 90 PLUS
+http://51.210.227.141/hls/stream.m3u8
+#EXTINF:-1,TV  AVANG
+http://51.210.227.149/hls/stream.m3u8
+#EXTINF:-1,TV IRAN MUSIC
+http://51.210.227.161/hls/stream.m3u8
+#EXTINF:-1,TV ANIMALS
+http://51.210.227.155/hls/stream.m3u8
+#EXTINF:-1,TV icc 
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1,TV PERSIANA
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1,TV  PERSIAN
+http://51.210.227.154/hls/stream.m3u8
+#EXTINF:-1,TV  KHATERA
+http://51.210.227.165/hls/stream.m3u8
 
