@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="AFGHANISTAN",n
+#EXTINF:-1 ,n
 http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",n
+#EXTINF:-1 ,n
 http://190.83.119.67:8000/play/a0ow/index.m3u8
 #EXTINF:-1 ,n
 http://190.83.119.67:8000/play/a0nu/index.m3u8
