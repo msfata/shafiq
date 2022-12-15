@@ -1,1 +1,30 @@
 
+#EXTM3U
+
+
+#EXTINF:-1 ,VENUS
+http://190.83.119.67:8000/play/a0rn/index.m3u8
+#EXTINF:-1 ,PLAY
+http://190.83.119.67:8000/play/a0ow/index.m3u8
+#EXTINF:-1,ROCCO TV
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/12189/index.m3u8
+#EXTINF:-1,SexArt
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6253/index.m3u8
+#EXTINF:-1,Fast Boyz
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6274/index.m3u8
+#EXTINF:-1,BANGBROS UHD 4K
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/12181/index.m3u8
+#EXTINF:-1,Little Asians HD
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6230/index.m3u8
+#EXTINF:-1,Reality Kings HD
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6247/index.m3u8
+#EXTINF:-1,We Live Together
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6266/index.m3u8
+#EXTINF:-1,YOSSO TV 
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/14176/index.m3u8
+#EXTINF:-1,SINematica
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/6255/index.m3u8
+#EXTINF:-1,Kino
+http://he11o.akadatel.com/iptv/V5AAK6MWN34TAR/11052/index.m3u8
+#EXTINF:-1,Adolescents of Chymera (2021)
+http://eminent.live:25461/movie/Kf5MXkcskw/phwOVG7le8/100946.mp4
