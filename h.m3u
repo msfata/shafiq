@@ -29,8 +29,6 @@ http://208.86.19.13:81/636.stream/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-#EXTINF:-1 ,STAR GOLD SELECT
-http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE CINEMA INDIA
