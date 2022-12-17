@@ -27,6 +27,20 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
+#EXTINF:-1 group-title="IRAN",GEM TRAVEL
+http://216.66.42.37:7777/GemTravel_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM FILM
+http://216.66.42.37:7777/GemFilm_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM SERIES
+http://216.66.42.37:7777/GemSeries_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM CLASSIC
+http://216.66.42.37:7777/GemClassic_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM PIXCEL
+http://216.66.42.37:7777/Maxx_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM FOOD
+http://216.66.42.37:7777/GemFood_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM JUNIOR
+http://216.66.42.37:7777/GemJunior_HD.m3u8
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
@@ -81,22 +95,6 @@ http://190.83.119.67:8000/play/a0sl/index.m3u8
 http://51.210.227.141/hls/stream.m3u8
 #EXTINF:-1 group-title="ENGLISH",HORROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="IRAN",GEM TRAVEL
-http://216.66.42.37:7777/GemTravel_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM FILM
-http://216.66.42.37:7777/GemFilm_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM SERIES
-http://216.66.42.37:7777/GemSeries_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM CLASSIC
-http://216.66.42.37:7777/GemClassic_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM PIXCEL
-http://216.66.42.37:7777/Maxx_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM FOOD
-http://216.66.42.37:7777/GemFood_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM JUNIOR
-http://216.66.42.37:7777/GemJunior_HD.m3u8
-#EXTINF:-1 group-title="IRAN",GEM KIDS
-http://216.66.42.37:7777/GemKids_HD.m3u8
 #EXTINF:-1 group-title="IRAN",IRANI OLD
 http://51.210.227.165/hls/stream.m3u8
 #EXTINF:-1 group-title="IRAN",4U
