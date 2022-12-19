@@ -47,20 +47,17 @@ http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
-#EXTINF: 0 group-title="INDIA",&PICTURES HD
-http://208.86.19.13:81/7055.stream/index.m3u8
-
 #EXTINF: 0 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA",SONY
+http://208.86.19.13:81/7022.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+
 #EXTINF: 0 group-title="INDIA",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
-
-#EXTINF: 0 group-title="INDIA",STAR GOLD SELECT
-http://208.86.19.13:81/7099.stream/index.m3u8
-
-#EXTINF: 0 group-title="INDIA",&TV HD
-http://208.86.19.13:81/7033.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -85,12 +82,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 
 #EXTINF:-1 group-title="INDIA",ZING
 http://208.86.19.13:81/634.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",SONY
-http://208.86.19.13:81/7022.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",DREAMZ
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",COLOR
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
