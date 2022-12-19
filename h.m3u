@@ -32,6 +32,9 @@ https://live.hastitv.com/hls/livetv.m3u8
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
 
+#EXTINF: 0 group-title="INDIA",SONY MAX
+http://208.86.19.13:81/7066.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",SONY MAX 2
 http://208.86.19.13:81/7300.stream/index.m3u8
 
@@ -47,14 +50,6 @@ http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
-#EXTINF: 0 group-title="INDIA",SONY MAX
-http://208.86.19.13:81/7066.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",SONY
-http://208.86.19.13:81/7022.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",DREAMZ
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 
 #EXTINF: 0 group-title="INDIA",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
@@ -64,6 +59,12 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",SONY
+http://208.86.19.13:81/7022.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
@@ -236,10 +237,6 @@ http://51.210.227.153/hls/stream.m3u8
 #EXTINF:-1 ,GO2TRAVEL
 http://51.210.227.155/hls/stream.m3u8
 
-#EXTINF:-1,CHINEES
-http://45.126.83.51/qwr9ew/s/s31/index.m3u8
-
-#EXTINF:-1 ,SONY SPORT
-http://208.86.19.13:81/7266.stream/index.m3u8
-
+#EXTINF:-1 ,MIRAJ
+http://51.210.199.32/hls/stream.m3u8
 
