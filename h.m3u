@@ -29,6 +29,9 @@ http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
 
+#EXTINF:-1,&pictures HD 
+http://180.178.188.152:8000/play/a017
+
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
 
@@ -50,6 +53,20 @@ http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
+#EXTINF:-1,ZEE CINEMA HD
+http://180.178.188.152:8000/play/a00z
+
+#EXTINF:-1,Star GOLD HD 
+http://180.178.188.152:8000/play/a012
+
+#EXTINF:-1,Star Gold Sel HD
+http://180.178.188.152:8000/play/a014
+
+#EXTINF:-1,&tv HD 
+http://180.178.188.152:8000/play/a01u
+
+#EXTINF:-1,Star Gold 2
+http://180.178.188.152:8000/play/a01q
 
 #EXTINF: 0 group-title="INDIA",STAR GOLD HD
 http://208.86.19.13:81/7177.stream/index.m3u8
@@ -239,4 +256,13 @@ http://51.210.227.155/hls/stream.m3u8
 
 #EXTINF:-1 ,MIRAJ
 http://51.210.199.32/hls/stream.m3u8
+
+#EXTINF:-1,&flix HD
+http://180.178.188.152:8000/play/a00p
+
+#EXTINF:-1,&PRIVE HD-Rs 19
+http://180.178.188.152:8000/play/a01d
+
+#EXTINF:-1,3007 Film & arts HD
+http://181.78.1.217:8146/play/a079
 
