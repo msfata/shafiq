@@ -223,6 +223,9 @@ http://51.210.199.58/hls/stream.m3u8
 #EXTINF:-1 ,IC NET
 http://51.210.199.7/hls/stream.m3u8
 
+#EXTINF:-1,Payvand TV 
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+
 #EXTINF:-1 ,VOX 1
 http://51.210.199.8/hls/stream.m3u8
 
@@ -240,6 +243,9 @@ http://51.210.227.147/hls/stream.m3u8
 
 #EXTINF:-1 ,AVANAG TV
 http://51.210.227.149/hls/stream.m3u8
+
+#EXTINF:-1,Shabakeh 7 
+http://rtmp.abnsat.com/hls/txministry.m3u8
 
 #EXTINF:-1 ,4U TV
 http://51.210.227.153/hls/stream.m3u8
@@ -259,3 +265,35 @@ http://180.178.188.152:8000/play/a01d
 #EXTINF:-1,3007 Film & arts HD
 http://181.78.1.217:8146/play/a079
 
+#EXTINF:-1,30A The Beach Show 
+https://30a-tv.com/beachy.m3u8
+
+#EXTINF:-1,Toonami Aftermath Movies 
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+
+#EXTINF:-1,NTD TV UK 
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+
+#EXTINF:-1,IMPACT! Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1,Impact Wrestling 
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1,América TeVé
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
+#EXTINF:-1,Victor Valley Movies 
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+
+#EXTINF:-1,Reelz Channel
+https://bcovlive-a.akamaihd.net/c733a9aa448a4a44a10c527c6f5bf7a4/us-east-1/5245389775001/playlist.m3u8
+
+#EXTINF:-1,Millennium TV USA 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+
+#EXTINF:-1,METV 
+https://mercedcouedu.secure.footprint.net/egress/bhandler/mercedcouedu/streamc/chunklist_b1192000.m3u8
+
+#EXTINF:-1,MCN6 Arts Channel
+https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8
