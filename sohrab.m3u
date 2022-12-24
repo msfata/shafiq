@@ -19,12 +19,31 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 ,&pictures HD
-http://180.178.188.152:8000/play/a017
-#EXTINF:-1 group-title="INDIA",B4U MOVIES
-http://208.86.19.13:81/636.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR PLUS HD
+http://208.86.19.13:81/6077.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",AND TV
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",AND PICTURE
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",CLASSIC CINEMA
+http://208.86.19.13:81/9044.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE TV HD
+http://208.86.19.13:81/9066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE TV 
+http://208.86.19.13:81/6066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
@@ -33,16 +52,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://180.178.188.152:8000/play/a00z
-#EXTINF:-1 ,Star GOLD HD
-http://180.178.188.152:8000/play/a012
-#EXTINF:-1 ,Star Gold Sel HD
-http://180.178.188.152:8000/play/a014
-#EXTINF:-1 ,&tv HD
-http://180.178.188.152:8000/play/a01u
-#EXTINF:-1 ,Star Gold 2
-http://180.178.188.152:8000/play/a01q
 #EXTINF:-1 group-title="INDIA",B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
@@ -67,30 +76,9 @@ http://208.86.19.13:81/634.stream/index.m3u8
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="INDIA",STAR PLUS
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1 ,TNT
-http://208.86.19.13:81/16.stream/index.m3u8
-#EXTINF:-1 ,DESNEY
-http://208.86.19.13:81/14.stream/index.m3u8
-#EXTINF:-1 ,USA
-http://208.86.19.13:81/11.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",POPSTAR
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
-#EXTINF:-1 group-title="ENGLISH",SONY ENGLISH
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",HISTORY ENGLISH
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",MOVIES
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1 group-title="ENGLISH",90PLUS
-http://51.210.227.141/hls/stream.m3u8
-#EXTINF:-1 group-title="ENGLISH",HORROR
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 ,SPORT
-http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1 ,ICC+
-http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 ,WARNER
-http://8.242.187.233:5800/play/a0c7/index.m3u8
+
+
+
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
 http://216.66.42.37:7777/GemTravel_HD.m3u8
 #EXTINF:-1 group-title="IRAN",GEM FILM
@@ -157,12 +145,8 @@ http://51.210.227.153/hls/stream.m3u8
 http://51.210.227.155/hls/stream.m3u8
 #EXTINF:-1 ,MIRAJ
 http://51.210.199.32/hls/stream.m3u8
-#EXTINF:-1 ,&flix HD
-http://180.178.188.152:8000/play/a00p
-#EXTINF:-1 ,&PRIVE HD-Rs 19
-http://180.178.188.152:8000/play/a01d
-#EXTINF:-1 ,3007 Film & arts HD
-http://181.78.1.217:8146/play/a079
+
+
 #EXTINF:-1 ,30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ,Toonami Aftermath Movies
@@ -173,3 +157,31 @@ https://ntd02.akamaized.net/NTD-UK/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,Impact Wrestling
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,USA
+http://208.86.19.13:81/11.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",TBS
+http://208.86.19.13:81/201.stream/index.m3u8
+#EXTINF:-1 ,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 ,DESNEY
+http://208.86.19.13:81/14.stream/index.m3u8
+#EXTINF:-1 ,USA
+http://208.86.19.13:81/11.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",POPSTAR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
+#EXTINF:-1 group-title="ENGLISH",SONY ENGLISH
+http://190.83.119.67:8000/play/a0sk/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",HISTORY ENGLISH
+http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",MOVIES
+http://190.83.119.67:8000/play/a0sl/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",90PLUS
+http://51.210.227.141/hls/stream.m3u8
+#EXTINF:-1 group-title="ENGLISH",HORROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1 ,ICC+
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1 ,WARNER
+http://8.242.187.233:5800/play/a0c7/index.m3u8
