@@ -19,8 +19,20 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
-
-
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+https://z5ak-live.zee5.com/out/v1/14c290cdde854265b74f78b102f6ecd8/hdntl=exp=1672095039~acl=%2f*~data=hdntl~hmac=e70d046183903c178f2fef3540df0cf64a461783fca080f9f47058f0485f1b9a/index_22.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+https://z5ak-live.zee5.com/out/v1/1d59d08fec89495584d2b7e4059492a4/hdntl=exp=1672094955~acl=%2f*~data=hdntl~hmac=7f606c483d0ea8a33c719b14b03b6d6dabeadfa017f8f26320f5e828b89e98fc/index_20.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE CLASSIC
+https://z5ak-live.zee5.com/out/v1/74df8b02f8ab47909df9a9f3189a1012/hdntl=exp=1672095072~acl=%2f*~data=hdntl~hmac=7665a4ca6b4e4fa57af1a0a8a2f89d52bcce30c34e4681b6333a337a6345a340/index_22.m3u8
+#EXTINF:-1 group-title="INDIA",&PICTURES
+https://z5ak-live.zee5.com/out/v1/ae9617b9d66d4564831443eb2cc15caf/hdntl=exp=1672095154~acl=%2f*~data=hdntl~hmac=c56e1cf97cd021975bdc9589452f9fb1111c581c96bc3a8cd5bff208d3c39276/index_13.m3u8
+#EXTINF:-1 group-title="INDIA",&PICTURES
+https://z5ak-live.zee5.com/out/v1/71a0b0bf0807495c82f6d462e1e1a39c/hdntl=exp=1672095205~acl=%2f*~data=hdntl~hmac=8c54e78d377cfb9ff49ddca9fea09c4898554aa9a2501e4f04ea8cafa27e1f5d/index_5.m3u8
+#EXTINF:-1 group-title="INDIA",&EXPLORE
+https://z5ams2.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/hdntl=exp=1672095236~acl=%2f*~data=hdntl~hmac=dad5b26c25a622a9dea44f5b649629edb8aee4ded344f1db3d405179b30b2892/index_35.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE INDIA
+https://z5ak-live.zee5.com/out/v1/fc7d7aad81684d4ba3f97e9d24f661bb/hdntl=exp=1672095387~acl=%2f*~data=hdntl~hmac=9c733ab6f860e2ef7ccd89c6d0ab06be8c4ba70ff5f8225308d9ed899cb3a4ad/index_3.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
@@ -45,6 +57,8 @@ http://208.86.19.13:81/7022.stream/index.m3u8
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM 1
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
 #EXTINF:-1 group-title="INDIA",UTV MOVIES
