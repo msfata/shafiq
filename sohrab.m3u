@@ -21,18 +21,6 @@ http://51.210.227.161/hls/stream.m3u8
 https://live.hastitv.com/hls/livetv.m3u8
 
 
-
-
-
-#EXTINF: 1 group-title="INDIA",AND TV
-http://208.86.19.13:81/7033.stream/index.m3u8?
-#EXTINF: 1 group-title="INDIA",AND PICTURE
-http://208.86.19.13:81/7055.stream/index.m3u8?%
-#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
-http://208.86.19.13:81/7099.stream/index.m3u8%?
-
-
-
 #EXTINF:-1 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
