@@ -185,3 +185,12 @@ http://208.86.19.13:81/711.stream/index.m3u8
 http://51.210.227.156/hls/stream.m3u8
 #EXTINF:-1 ,WARNER
 http://8.242.187.233:5800/play/a0c7/index.m3u8
+
+#EXTINF:-1,NEW CHANNEL
+http://201.190.40.44:58002/play/a01k/index.m3u8
+
+#EXTINF:-1,STAR MOVIE
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1,CCM
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115636
