@@ -20,18 +20,32 @@ http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
 
-#EXTINF:-1 group-title="INDIA",COLOR HD
-http://208.86.19.13:81/6055.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",STAR PLUS HD
-http://208.86.19.13:81/6077.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",SONY SAB
-http://208.86.19.13:81/7022.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",AND TV
+
+
+
+
+#EXTINF: 1 group-title="INDIA",AND TV
 http://208.86.19.13:81/7033.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",AND PICTURE
+#EXTINF: 1 group-title="INDIA",AND PICTURE
 http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
 http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF: 1 group-title="INDIA",AND TV
+http://208.86.19.13:81\7033.stream\index.m3u8
+#EXTINF: 1 group-title="INDIA",AND PICTURE
+http://208.86.19.13:81\7055.stream\index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u/
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8/
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8\
+
+
+
 #EXTINF:-1 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
@@ -76,7 +90,10 @@ http://208.86.19.13:81/634.stream/index.m3u8
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="INDIA",STAR PLUS
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-
+#EXTINF:-1 group-title="INDIA",COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
 
 
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
