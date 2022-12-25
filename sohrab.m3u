@@ -25,12 +25,6 @@ https://live.hastitv.com/hls/livetv.m3u8
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",CLASSIC CINEMA
-http://208.86.19.13:81/9044.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE TV HD
-http://208.86.19.13:81/9066.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE TV 
-http://208.86.19.13:81/6066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
@@ -184,5 +178,38 @@ http://201.190.40.44:58002/play/a01k/index.m3u8
 #EXTINF:-1,STAR MOVIE
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1,CCM
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115636
+#EXTINF:-1,ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1,ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1,TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1,TVN TV
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1,MAGNA
+http://210.210.155.37/dr9445/h/h24/index.m3u8
+
+#EXTINF:-1,HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#EXTINF:-1,HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1,MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1,MY CENIMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1,FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1,FIGHT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
