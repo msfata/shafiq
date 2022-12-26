@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,MULI
+http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 ,AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",VOA
@@ -7,6 +9,8 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunkli
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1,MARIF
+http://51.210.199.51/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
@@ -19,20 +23,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA
-https://z5ak-live.zee5.com/out/v1/14c290cdde854265b74f78b102f6ecd8/hdntl=exp=1672095039~acl=%2f*~data=hdntl~hmac=e70d046183903c178f2fef3540df0cf64a461783fca080f9f47058f0485f1b9a/index_22.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CINEMA
-https://z5ak-live.zee5.com/out/v1/1d59d08fec89495584d2b7e4059492a4/hdntl=exp=1672094955~acl=%2f*~data=hdntl~hmac=7f606c483d0ea8a33c719b14b03b6d6dabeadfa017f8f26320f5e828b89e98fc/index_20.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE CLASSIC
-https://z5ak-live.zee5.com/out/v1/74df8b02f8ab47909df9a9f3189a1012/hdntl=exp=1672095072~acl=%2f*~data=hdntl~hmac=7665a4ca6b4e4fa57af1a0a8a2f89d52bcce30c34e4681b6333a337a6345a340/index_22.m3u8
-#EXTINF:-1 group-title="INDIA",&PICTURES
-https://z5ak-live.zee5.com/out/v1/ae9617b9d66d4564831443eb2cc15caf/hdntl=exp=1672095154~acl=%2f*~data=hdntl~hmac=c56e1cf97cd021975bdc9589452f9fb1111c581c96bc3a8cd5bff208d3c39276/index_13.m3u8
-#EXTINF:-1 group-title="INDIA",&PICTURES
-https://z5ak-live.zee5.com/out/v1/71a0b0bf0807495c82f6d462e1e1a39c/hdntl=exp=1672095205~acl=%2f*~data=hdntl~hmac=8c54e78d377cfb9ff49ddca9fea09c4898554aa9a2501e4f04ea8cafa27e1f5d/index_5.m3u8
-#EXTINF:-1 group-title="INDIA",&EXPLORE
-https://z5ams2.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/hdntl=exp=1672095236~acl=%2f*~data=hdntl~hmac=dad5b26c25a622a9dea44f5b649629edb8aee4ded344f1db3d405179b30b2892/index_35.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE INDIA
-https://z5ak-live.zee5.com/out/v1/fc7d7aad81684d4ba3f97e9d24f661bb/hdntl=exp=1672095387~acl=%2f*~data=hdntl~hmac=9c733ab6f860e2ef7ccd89c6d0ab06be8c4ba70ff5f8225308d9ed899cb3a4ad/index_3.m3u8
+
+
 #EXTINF:-1 group-title="INDIA",SONY MAX
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
@@ -224,6 +216,27 @@ http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1,FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1,My Cinema Europe 
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1,Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+
+#EXTINF:-1,NETV Toronto 
+https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
+
+#EXTINF:-1,Redbox 1: Spotlight 
+https://spotlight-redbox.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Victor Valley Movies 
+https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
+
+#EXTINF:-1,FX
+http://51.210.199.52/hls/stream.m3u8
+
+#EXTINF:-1,SHAHED
+http://51.210.227.156/hls/stream.m3u8
 
 #EXTINF:-1,FIGHT
 http://210.210.155.37/dr9445/h/h05/index.m3u8
