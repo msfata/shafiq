@@ -71,11 +71,11 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
-http://208.86.19.13:81/7099.stream/index.m3u8?%
-#EXTINF:-1 group-title="INDIA",&PICTURE HD
-http://208.86.19.13:81/7055.stream/index.m3u8?%
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2
+#EXTINF: 0 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-2 group-title="INDIA",&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF: 1 group-title="INDIA",&TV
 http://208.86.19.13:81/7033.stream/index.m3u8
 
 
