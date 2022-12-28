@@ -35,7 +35,7 @@ http://208.86.19.13:81/7011.stream/index.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-#EXTINF:-1 group-title="INDIA",SONY MAX
+#EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
@@ -71,6 +71,14 @@ http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 http://208.86.19.13:81/6055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY SAB
 http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",&TV
+http://208.86.19.13:81/7033.stream/index.m3u8
+
+
 
 
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
@@ -139,6 +147,12 @@ http://51.210.227.153/hls/stream.m3u8
 http://51.210.227.155/hls/stream.m3u8
 #EXTINF:-1 ,MIRAJ
 http://51.210.199.32/hls/stream.m3u8
+#EXTINF:-1,ICC PLUS
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1,FX
+http://51.210.199.52/hls/stream.m3u8
+
+
 
 
 #EXTINF:-1 ,30A The Beach Show
@@ -225,35 +239,23 @@ http://210.210.155.37/uq2663/h/h18/index.m3u8
 #EXTINF:-1,Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 
-#EXTINF:-1,NETV Toronto 
-https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
-
-#EXTINF:-1,Redbox 1: Spotlight 
-https://spotlight-redbox.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Victor Valley Movies 
-https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
-
-#EXTINF:-1,FX
-http://51.210.199.52/hls/stream.m3u8
-
-#EXTINF:-1,SHAHED
-http://51.210.227.156/hls/stream.m3u8
-
 #EXTINF:-1,FIGHT
 http://210.210.155.37/dr9445/h/h05/index.m3u8
 
-#EXTINF:-1,and cinema
-http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1,FIGHT 1
+http://208.86.19.13:81/7377.stream/index.m3u8
 
-#EXTINF:-1,and tv
-http://208.86.19.13:81/7033.stream/index.m3u8
-#EXTINF:-1,TOLO
-https://fflivetolotv.b-cdn.net/media_2.m3u8
-#EXTINF:-1,BARBUD
-https://fflivetolomusic.b-cdn.net/media_2.m3u8
-#EXTINF:-1,FAZA 
-https://fflivefaza.b-cdn.net/media_2.m3u8
+#EXTINF:-1,TEN SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
 
 #EXTINF:-1,CRICKET LAST IP CHANNEL
 http://208.86.19.13:81/60222.stream/index.m3u8
+
+#EXTINF:-1,C
+http://208.86.19.13:81/22.stream/index.m3u8
+
+#EXTINF:-1,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+
+#EXTINF:-1,DISNEY
+http://208.86.19.13:81/14.stream/index.m3u8

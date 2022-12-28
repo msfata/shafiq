@@ -1,268 +1,261 @@
-
-
-
 #EXTM3U
-#EXTINF:-1 group-title="AFGHANISTAN",n
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 group-title="AFGHANISTAN",n
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nu/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nw/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nx/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nz/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oa/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ob/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oc/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0od/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0of/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0og/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oh/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oi/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oj/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ok/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0on/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0op/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oy/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oz/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pa/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pc/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pd/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pe/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pf/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pg/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pl/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pn/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0po/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pp/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pq/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pu/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pw/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pz/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qa/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qd/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qe/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qg/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qi/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qj/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qk/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qo/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qp/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qq/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qr/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qs/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qt/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qx/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qy/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rd/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rf/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rm/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rp/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rr/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rs/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0ru/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rx/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sc/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sg/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sh/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 ,s
+#EXTINF:-1,MULI
+http://51.210.227.133/hls/stream.m3u8
+#EXTINF:-1 ,AFGHANISTAN INTERNATIONAL
+https://hls.afintl.com/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunklist.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",BBC
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:-1,MARIF
+http://51.210.199.51/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",BAHAR
+https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",PAMIR
+http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHAN NOBEL MUSIC
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
+http://51.210.227.161/hls/stream.m3u8
+#EXTINF:-1 group-title="AFGHANISTAN",HASI
+https://live.hastitv.com/hls/livetv.m3u8
+
+
+#EXTINF:-1 group-title="INDIA",COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",B4U MOVIES
+http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodHD
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+#EXTINF:-1 group-title="INDIA",BollywoodClassic
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX HD
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:-1 group-title="INDIA",B4U KADAK
+https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE ACTION
+http://208.86.19.13:81/7288.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",DREAMZ
+http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE AFLAM 1
+https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
+#EXTINF:-1 group-title="INDIA",UTV MOVIES
+http://208.86.19.13:81/7233.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",GOLDMINES
+http://208.86.19.13:81/7211.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",HINDI MOVIES
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="INDIA",ZING
+http://208.86.19.13:81/634.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",COLOR
+http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="INDIA",STAR PLUS
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 group-title="INDIA",COLOR HD
+http://208.86.19.13:81/6055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY SAB
+http://208.86.19.13:81/7022.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",&PICTURE HD
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",&TV
+http://208.86.19.13:81/7033.stream/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="IRAN",GEM TRAVEL
+http://216.66.42.37:7777/GemTravel_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM FILM
+http://216.66.42.37:7777/GemFilm_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM SERIES
+http://216.66.42.37:7777/GemSeries_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM CLASSIC
+http://216.66.42.37:7777/GemClassic_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM PIXCEL
+http://216.66.42.37:7777/Maxx_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM FOOD
+http://216.66.42.37:7777/GemFood_HD.m3u8
+#EXTINF:-1 group-title="IRAN",GEM JUNIOR
+http://216.66.42.37:7777/GemJunior_HD.m3u8
+#EXTINF:-1 group-title="IRAN",IRANI OLD
+http://51.210.227.165/hls/stream.m3u8
+#EXTINF:-1 group-title="IRAN",4U
+http://51.210.227.153/hls/stream.m3u8
+#EXTINF:-1 ,KORIA PERSIANA
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 ,BRAVO FARSI
+http://51.210.199.16/hls/stream.m3u8
+#EXTINF:-1 ,SL2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 ,PERSIANA
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 ,IRANIAN PERSIANA
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 ,PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 ,PMC ROYAL
+http://51.210.199.29/hls/stream.m3u8
+#EXTINF:-1 ,SL TV
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 ,MAAH TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 ,AVA SERIES
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 ,FAMILY 24
+http://51.210.199.40/hls/stream.m3u8
+#EXTINF:-1 ,FX
+http://51.210.199.52/hls/stream.m3u8
+#EXTINF:-1 ,SONATI PERSIANA
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 ,IC NET
+http://51.210.199.7/hls/stream.m3u8
+#EXTINF:-1 ,Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 ,VOX 1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 ,PERSIAN FILM
+http://51.210.227.135/hls/stream.m3u8
+#EXTINF:-1 ,ROYAL
+http://51.210.227.138/hls/stream.m3u8
+#EXTINF:-1 ,TV  147
+http://51.210.227.147/hls/stream.m3u8
+#EXTINF:-1 ,AVANAG TV
+http://51.210.227.149/hls/stream.m3u8
+#EXTINF:-1 ,Shabakeh 7
+http://rtmp.abnsat.com/hls/txministry.m3u8
+#EXTINF:-1 ,4U TV
+http://51.210.227.153/hls/stream.m3u8
+#EXTINF:-1 ,GO2TRAVEL
+http://51.210.227.155/hls/stream.m3u8
+#EXTINF:-1 ,MIRAJ
+http://51.210.199.32/hls/stream.m3u8
+#EXTINF:-1,ICC PLUS
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1,FX
+http://51.210.199.52/hls/stream.m3u8
+
+
+
+
+#EXTINF:-1 ,30A The Beach Show
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 ,Toonami Aftermath Movies
+http://api.toonamiaftermath.com:3000/movies/playlist.m3u8
+#EXTINF:-1 ,NTD TV UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 ,IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 ,Impact Wrestling
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 ,USA
+http://208.86.19.13:81/11.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",TBS
+http://208.86.19.13:81/201.stream/index.m3u8
+#EXTINF:-1 ,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 ,DESNEY
+http://208.86.19.13:81/14.stream/index.m3u8
+#EXTINF:-1 ,USA
+http://208.86.19.13:81/11.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",POPSTAR
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/b74f4a92-2e93-4acc-9775-b538973c6704/0.m3u8
+#EXTINF:-1 group-title="ENGLISH",SONY ENGLISH
 http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 ,s
+#EXTINF:-1 group-title="ENGLISH",HISTORY ENGLISH
+http://190.83.119.67:8000/play/a0px/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",MOVIES
 http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0td/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0ti/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tp/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tt/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tu/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tv/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tw/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tx/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ua/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ub/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uc/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ud/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ue/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uf/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ug/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uh/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ui/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uq/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ur/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0us/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ut/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uv/index.m3u8
-#EXTINF:-1 ,v
-http://190.83.119.67:8000/play/a0ve/index.m3u8
-#EXTINF:-1 ,v
-http://190.83.119.67:8000/play/a0vh/index.m3u8
+#EXTINF:-1 group-title="ENGLISH",90PLUS
+http://51.210.227.141/hls/stream.m3u8
+#EXTINF:-1 group-title="ENGLISH",HORROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1 ,ICC+
+http://51.210.227.156/hls/stream.m3u8
+#EXTINF:-1 ,WARNER
+http://8.242.187.233:5800/play/a0c7/index.m3u8
+
+#EXTINF:-1,NEW CHANNEL
+http://201.190.40.44:58002/play/a01k/index.m3u8
+
+#EXTINF:-1,STAR MOVIE
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1,ROCK ACTION
+http://210.210.155.37/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1,ROCK ENTERTAINMENT
+http://210.210.155.37/dr9445/h/h16/index.m3u8
+
+#EXTINF:-1,TVN MOVIES
+http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1,TVN TV
+http://210.210.155.37/dr9445/h/h20/index.m3u8
+
+#EXTINF:-1,MAGNA
+http://210.210.155.37/dr9445/h/h24/index.m3u8
+
+#EXTINF:-1,HITS
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+
+#EXTINF:-1,HITS MOVIES
+http://210.210.155.37/dr9445/h/h38/index.m3u8
+
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.37/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1,MY CINEMA
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+
+#EXTINF:-1,MY CENIMA ASIA
+http://210.210.155.37/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1,FAMILY CHANNEL
+http://210.210.155.37/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1,My Cinema Europe 
+http://210.210.155.37/uq2663/h/h18/index.m3u8
+
+#EXTINF:-1,Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
+
+#EXTINF:-1,FIGHT
+http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1,FIGHT 1
+http://208.86.19.13:81/7377.stream/index.m3u8
+
+#EXTINF:-1,TEN SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
+
+#EXTINF:-1,CRICKET LAST IP CHANNEL
+http://208.86.19.13:81/60222.stream/index.m3u8
+
+#EXTINF:-1,C
+http://208.86.19.13:81/22.stream/index.m3u8
+
+#EXTINF:-1,TNT
+http://208.86.19.13:81/16.stream/index.m3u8
+
+#EXTINF:-1,DISNEY
+http://208.86.19.13:81/14.stream/index.m3u8
