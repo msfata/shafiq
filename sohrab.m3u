@@ -25,18 +25,20 @@ http://51.210.227.161/hls/stream.m3u8
 https://live.hastitv.com/hls/livetv.m3u8
 
 
-#EXTINF:-1 group-title="INDIA",SONY MAX
-http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",SONY MAX2
-http://208.86.19.13:81/7300.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
+http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
-http://208.86.19.13:81/7011.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX
+http://208.86.19.13:81/7066.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",SONY MAX2
+http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD PRIME
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 #EXTINF:-1 group-title="INDIA",B4U KADAK
@@ -240,3 +242,18 @@ http://51.210.227.156/hls/stream.m3u8
 
 #EXTINF:-1,FIGHT
 http://210.210.155.37/dr9445/h/h05/index.m3u8
+
+#EXTINF:-1,and cinema
+http://208.86.19.13:81/7055.stream/index.m3u8
+
+#EXTINF:-1,and tv
+http://208.86.19.13:81/7033.stream/index.m3u8
+#EXTINF:-1,TOLO
+https://fflivetolotv.b-cdn.net/media_2.m3u8
+#EXTINF:-1,BARBUD
+https://fflivetolomusic.b-cdn.net/media_2.m3u8
+#EXTINF:-1,FAZA 
+https://fflivefaza.b-cdn.net/media_2.m3u8
+
+#EXTINF:-1,CRICKET LAST IP CHANNEL
+http://208.86.19.13:81/60222.stream/index.m3u8
