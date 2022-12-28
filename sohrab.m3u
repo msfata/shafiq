@@ -250,12 +250,6 @@ http://208.86.19.13:81/711.stream/index.m3u8
 
 #EXTINF:-1,CRICKET LAST IP CHANNEL
 http://208.86.19.13:81/60222.stream/index.m3u8
-#EXTINF:-1,CRICKET2
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1,CRICKET2
-http://190.83.119.67:8000/play/a0nu/index.m3u8
-#EXTINF:-1,CRICKET2
-http://190.83.119.67:8000/play/a0nv/index.m3u8
 
 #EXTINF:-1,C
 http://208.86.19.13:81/22.stream/index.m3u8
