@@ -131,3 +131,124 @@ http://190.60.37.69:8015/play/a00j/index.m3u8
 #EXTINF:-1,FX
 http://190.60.37.69:8015/play/a09a/index.m3u8
 
+#EXTINF:-1 ,0
+http://190.83.119.67:8000/play/a0o0/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0o1/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0o3/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0o7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0o8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0o9/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0p1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0p2/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0p3/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0p5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0p6/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0p8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0p9/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0q1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0q2/index.m3u8
+#EXTINF:-1 ,4
+http://190.83.119.67:8000/play/a0q4/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0q5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0q6/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0q7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0q8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0q9/index.m3u8
+#EXTINF:-1 ,0
+http://190.83.119.67:8000/play/a0r0/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0r1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0r2/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0r3/index.m3u8
+#EXTINF:-1 ,4
+http://190.83.119.67:8000/play/a0r4/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0r5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0r6/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0r7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0r8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0r9/index.m3u8
+#EXTINF:-1 ,0
+http://190.83.119.67:8000/play/a0s0/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0s1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0s2/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0s3/index.m3u8
+#EXTINF:-1 ,4
+http://190.83.119.67:8000/play/a0s4/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0s5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0s6/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0s7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0s9/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0t3/index.m3u8
+#EXTINF:-1 ,4
+http://190.83.119.67:8000/play/a0t4/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0t5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0t6/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0t7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0t8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0t9/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0u1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0u2/index.m3u8
+#EXTINF:-1 ,3
+http://190.83.119.67:8000/play/a0u3/index.m3u8
+#EXTINF:-1 ,4
+http://190.83.119.67:8000/play/a0u4/index.m3u8
+#EXTINF:-1 ,5
+http://190.83.119.67:8000/play/a0u5/index.m3u8
+#EXTINF:-1 ,6
+http://190.83.119.67:8000/play/a0u6/index.m3u8
+#EXTINF:-1 ,7
+http://190.83.119.67:8000/play/a0u7/index.m3u8
+#EXTINF:-1 ,8
+http://190.83.119.67:8000/play/a0u8/index.m3u8
+#EXTINF:-1 ,9
+http://190.83.119.67:8000/play/a0u9/index.m3u8
+#EXTINF:-1 ,0
+http://190.83.119.67:8000/play/a0v0/index.m3u8
+#EXTINF:-1 ,1
+http://190.83.119.67:8000/play/a0v1/index.m3u8
+#EXTINF:-1 ,2
+http://190.83.119.67:8000/play/a0v2/index.m3u8
+
