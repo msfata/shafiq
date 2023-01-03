@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,AFGHANISTAN INTERNATIONAL
+#EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
@@ -17,11 +17,14 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 #EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
 
+#EXTINF:-1 group-title="IRAN", AFN
+http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+
 #EXTINF:-1 group-title="AFGHANISTAN",HASITY
 https://live.hastitv.com/hls/livetv.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL TV
-https://59d39900ebfb8.streamlock.net/8572/8572/chunklist_w1047377562.m3u8
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 
 #EXTINF:-1 group-title="INDIA",COLOR CINPLEX
 http://208.86.19.13:81/73555.stream/index.m3u8
@@ -188,5 +191,17 @@ http://190.83.119.67:8000/play/a0q6/index.m3u8
 
 #EXTINF:-1,STUDIO UNIVERSAL
 http://190.83.119.67:8000/play/a0q2/index.m3u8
+
+#EXTINF:-1,Khusboo TV
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1,Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
 
 

@@ -79,8 +79,8 @@ http://208.86.19.13:81/7055.stream/index.m3u8
 http://208.86.19.13:81/7033.stream/index.m3u8
 
 
-
-
+#EXTINF:-1 group-title="IRAN",MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
 http://216.66.42.37:7777/GemTravel_HD.m3u8
 #EXTINF:-1 group-title="IRAN",GEM FILM
