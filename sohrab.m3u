@@ -1,6 +1,17 @@
+#http://82.212.74.3:8000/live/7512.m3u8arabic
+#russiahttp://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#http://80.91.177.102:1935/live/live1/playlist.m3u8
+#http://217.174.225.146/hls/ch004_720/index.m3u8
+#http://51.210.227.134/hls/stream.m3u8iran
+#http://51.210.199.14/hls/stream.m3u8
+#http://46.99.146.236/0.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
+
+#EXTINF:-1,PAYAM AFGHAN
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
@@ -59,8 +70,6 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
-#EXTINF:-1 group-title="INDIA",DREAMZ
-http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
