@@ -77,6 +77,9 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="ROMANIA",RO: Bollywood Tv HD
+https://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39214.m3u8
+
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
 
@@ -210,7 +213,32 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1,MOVIES
 http://208.86.19.13:81/11.stream/index.m3u8
 
-#EXTM3U
+#EXTINF:-1,RUSSIAN HINDI
+http://myott.top/stream/DEKA6YA5JRN/104.m3u8
+
+#EXTINF:-1,MOVIES RUSSIAN
+http://myott.top/stream/DEKA6YA5JRN/107.m3u8
+
+#EXTINF:-1,RUSSIAN AFG
+http://myott.top/stream/DEKA6YA5JRN/128.m3u8
+
+#EXTINF:-1,RUSSIAN
+http://myott.top/stream/DEKA6YA5JRN/152.m3u8
+
+#EXTINF:-1,RUS
+http://myott.top/stream/DEKA6YA5JRN/171.m3u8
+
+#EXTINF:-1,cinema
+http://myott.top/stream/DEKA6YA5JRN/351.m3u8
+
+#EXTINF:-1,roc
+http://myott.top/stream/DEKA6YA5JRN/359.m3u8
+
+#EXTINF:-1,3bit
+http://myott.top/stream/DEKA6YA5JRN/417.m3u8
+#EXTINF:-1,BOLLYWOOD HD RUSSIA
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="USA | HBO (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO (East)
 http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147297.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="USA | HBO (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO (West)
@@ -3163,6 +3191,8 @@ http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39210.m3u8
 http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39211.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="ROMANIA",RO: Bollywood Tv HD
 http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="ROMANIA",RO: Bollywood Tv HD
+https://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39214.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: BOOMERANG" tvg-logo="" group-title="ROMANIA",RO: BOOMERANG
 http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39215.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RO: Cartoon Network HD" tvg-logo="" group-title="ROMANIA",RO: Cartoon Network HD
