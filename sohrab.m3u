@@ -1,10 +1,4 @@
-#http://82.212.74.3:8000/live/7512.m3u8arabic
-#russiahttp://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#http://80.91.177.102:1935/live/live1/playlist.m3u8
-#http://217.174.225.146/hls/ch004_720/index.m3u8
-#http://51.210.227.134/hls/stream.m3u8iran
-#http://51.210.199.14/hls/stream.m3u8
-#http://46.99.146.236/0.m3u8
+
 
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
@@ -28,8 +22,8 @@ http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chun
 #EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
 
-#EXTINF:-1 group-title="IRAN", AFN
-http://bozztv.com/1gbw5/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 group-title="IRAN", FX
+http://51.210.199.52/hls/stream.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",HASITY
 https://live.hastitv.com/hls/livetv.m3u8
@@ -212,5 +206,34 @@ https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+#EXTINF:-1,MOVIES
+http://208.86.19.13:81/11.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Family (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Family (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147305.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO LATINO (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO LATINO (East)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147306.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO LATINO (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO LATINO (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147307.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.us" tvg-name="USA | HBO Signature (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Signature (East)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147308.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Signature (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Signature (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147309.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone (East)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Zone (East)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | HBO Zone (West)" tvg-logo="" group-title="USA | PREMIUM",USA | HBO Zone (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147311.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | CineMAX (East)" tvg-logo="" group-title="USA | PREMIUM",USA | CineMAX (East)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147313.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | CineMAX (West)" tvg-logo="" group-title="USA | PREMIUM",USA | CineMAX (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147314.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX (East)" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX (East)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147315.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA | EPIX (West)" tvg-logo="" group-title="USA | PREMIUM",USA | EPIX (West)
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147316.m3u8
+
+#EXTINF:-1,MOVIES 1
+http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147303.m3u8
 
 
