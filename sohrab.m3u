@@ -23,6 +23,13 @@ http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL TV
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 
+
+#EXTINF:-1,7099 STAR GOLD
+http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF:-1,7055 &PICTURES
+http://208.86.19.13:81/7055.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",COLOR CINPLEX
 http://208.86.19.13:81/73555.stream/index.m3u8
 
@@ -37,11 +44,9 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
+
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
-
-#EXTINF:-1 group-title="INDIA",ZING
-http://208.86.19.13:81/634.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
@@ -51,6 +56,9 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
+
+#EXTINF:-1 group-title="INDIA",ZING
+http://208.86.19.13:81/634.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",PRIME
 https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/b68d1da4-7ec1-47a1-9a48-a6f411cd82ae:BRU/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
@@ -67,11 +75,7 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
-#EXTINF:-1,7099 STAR GOLD
-http://208.86.19.13:81/7099.stream/index.m3u8
 
-#EXTINF:-1,7055 &PICTURES
-http://208.86.19.13:81/7055.stream/index.m3u8
 
 #EXTINF:-1,7033 &TV
 http://208.86.19.13:81/7033.stream/index.m3u8
