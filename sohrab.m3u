@@ -67,6 +67,15 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
+#EXTINF:-1,7099 STAR GOLD
+http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF:-1,7055 &PICTURES
+http://208.86.19.13:81/7055.stream/index.m3u8
+
+#EXTINF:-1,7033 &TV
+http://208.86.19.13:81/7033.stream/index.m3u8
+
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
 
