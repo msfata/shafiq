@@ -64,6 +64,17 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA",PICTURE
+https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/ba936f00-9bbe-4456-ae16-fb00686c7e43/4.m3u8
+
+#EXTINF:-1 group-title="INDIA",PICTURE HD
+https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/90ad7750-737b-416e-9f3e-b6826cd96021/5.m3u8
+
+#EXTINF:-1 group-title="INDIA",XPLORE
+https://z5ams2.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/hdntl=exp=1673448189~acl=%2f*~data=hdntl~hmac=cab724df5d6e919b95da76d3ed50feeb6cd0f21279760a4d35e3b7f1755fe2cf/index_33.m3u8
+
+#EXTINF:-1 group-title="INDIA",ZEE CINEMA
+https://zee5livemedia.zee5.com/v1/manifest/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/be2c7d90-83f3-40ca-bc5c-4f4d6c6f41cf/3.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM 
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
@@ -77,7 +88,14 @@ http://208.86.19.13:81/7211.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="ROMANIA",RO: Bollywood Tv HD
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="HINDI",HINDI: Bollywood Tv HD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb553e1f796c648d98d43d65d0ef41a8dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdbe306f2c180680585ee2be5da5edf5584cdc39f3b84a49882645b1865fc8d549ef9ddd5899119b20a0159c93f38ed51685829901c16d9b5cf6d3e21ce3e25eb18b3383d4937d3c9831034f1052e2ac9e8c3f56e462762c347b56dd1f9936db9b2a91654ddb4af81dc058220adb681983274a7292ff3b6a91c399a054f87fafcdafee273cad63b48ee6d3777397ccd9192dc640d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dca9b3a6d9b2f45d0666ab50b63f23796d21bfca9dfea1128f58f97309841dbf55b82b852d32e563f25bcfd2b5340360df3e674023d7c8308a4e4c3ef730617ffb5aadac54033133607586fdabbb7ffb21b6327a95c731f2cf864b1653b68/190/1920x1080_5058864/index.m3u8
+
+
+#EXTINF:-1 group-title="INDIA",ISHARA
+https://epiconvh.s.llnwi.net/ishaara/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="RO: Bollywood Tv HD" tvg-logo="" group-title="ROMANIA",HINDI: Bollywood Tv HD
 https://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39214.m3u8
 
 #EXTINF:-1 ,ICC+
