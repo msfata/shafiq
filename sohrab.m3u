@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="AFGHANISTAN",AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
+
 #EXTINF:-1 ,PAYAM AFGHAN
 http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL MUSIC
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1518950362.m3u8
 
@@ -11,27 +13,39 @@ https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist_w1146058564.m3u8
+
 #EXTINF:-1 group-title="AFGHANISTAN",PAMIR
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+
 #EXTINF:-1 group-title="AFGHANISTAN",ASIA MUSIC
 http://51.210.227.161/hls/stream.m3u8
 
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL TV
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+
 #EXTINF:-1 group-title="INDIA",COLOR CINPLEX
 http://208.86.19.13:81/73555.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
+
+#EXTINF:-1 group-title="HINDI",SHEMAROO BOLLYWOOD
+https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb553e1f796c648d98d43d65d0ef41a8dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdbe306f2c180680585ee2be5da5edf5584cdc39f3b84a49882645b1865fc8d549ef9ddd5899119b20a0159c93f38ed51685829901c16d9b5cf6d3e21ce3e25eb18b3383d4937d3c9831034f1052e2ac9e8c3f56e462762c347b56dd1f9936db9b2a91654ddb4af81dc058220adb681983274a7292ff3b6a91c399a054f87fafcdafee273cad63b48ee6d3777397ccd9192dc640d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dca9b3a6d9b2f45d0666ab50b63f23796d21bfca9dfea1128f58f97309841dbf55b82b852d32e563f25bcfd2b5340360df3e674023d7c8308a4e4c3ef730617ffb5aadac54033133607586fdabbb7ffb21b6327a95c731f2cf864b1653b68/190/1920x1080_5058864/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+
 #EXTINF:-1 group-title="INDIA",ZING
 http://208.86.19.13:81/634.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
 
@@ -43,693 +57,93 @@ https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/b68d1da
 
 #EXTINF:-1,B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
+
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 group-title="INDIA",GOLDMINES
-http://208.86.19.13:81/7211.stream/index.m3u8
+
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="HINDI",HINDI: Bollywood Tv HD
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb553e1f796c648d98d43d65d0ef41a8dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdbe306f2c180680585ee2be5da5edf5584cdc39f3b84a49882645b1865fc8d549ef9ddd5899119b20a0159c93f38ed51685829901c16d9b5cf6d3e21ce3e25eb18b3383d4937d3c9831034f1052e2ac9e8c3f56e462762c347b56dd1f9936db9b2a91654ddb4af81dc058220adb681983274a7292ff3b6a91c399a054f87fafcdafee273cad63b48ee6d3777397ccd9192dc640d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dca9b3a6d9b2f45d0666ab50b63f23796d21bfca9dfea1128f58f97309841dbf55b82b852d32e563f25bcfd2b5340360df3e674023d7c8308a4e4c3ef730617ffb5aadac54033133607586fdabbb7ffb21b6327a95c731f2cf864b1653b68/190/1920x1080_5058864/index.m3u8
-#EXTINF:-1 group-title="HINDI",ZEE BOLLYWOOD
-https://z5ak-live.zee5.com/out/v1/3b9c31d4946d4f24ba0754790078f7bf/hdntl=exp=1673452543~acl=%2f*~data=hdntl~hmac=00000536092c407f2524fd56b64ebf298a80f486f629803649f4b76e24849b75/index_5.m3u8
+
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
+
 #EXTINF:-1 group-title="IRAN",GEM SERIES
 http://216.66.42.37:7777/GemSeries_HD.m3u8
+
 #EXTINF:-1 group-title="IRAN",IRANI OLD
 http://51.210.227.165/hls/stream.m3u8
+
 #EXTINF:-1 ,MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
+
 #EXTINF:-1 ,ROCK ACTION
 http://210.210.155.37/dr9445/h/h15/index.m3u8
+
 #EXTINF:-1 ,ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-#EXTINF:-1 ,C MOVOIES
-http://208.86.19.13:81/22.stream/index.m3u8
-#EXTINF:-1 ,FAMILY CHANNEL
-http://210.210.155.37/uq2663/h/h194/index.m3u8
+
 #EXTINF:-1 ,TNT
 http://208.86.19.13:81/16.stream/index.m3u8
+
 #EXTINF:-1 ,USA
 http://208.86.19.13:81/11.stream/index.m3u8
+
 #EXTINF:-1 group-title="ENGLISH",90PLUS
 http://51.210.227.141/hls/stream.m3u8
+
 #EXTINF:-1 ,HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
+
 #EXTINF:-1 ,HITS MOVIES
 http://210.210.155.37/dr9445/h/h38/index.m3u8
-#EXTINF:-1 ,TEN SPORT
-http://208.86.19.13:81/711.stream/index.m3u8
-#EXTINF:-1 ,CRICKET LAST IP CHANNEL
-http://208.86.19.13:81/60222.stream/index.m3u8
-#EXTINF:-1 ,IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 ,DISNEY
-http://208.86.19.13:81/14.stream/index.m3u8
-#EXTINF:-1 ,C CHANNEL
-http://190.60.37.69:8015/play/a00g/index.m3u8
-#EXTINF:-1 ,MTV
-http://190.60.37.69:8015/play/a00j/index.m3u8
-#EXTINF:-1 ,FX
-http://190.60.37.69:8015/play/a09a/index.m3u8
-#EXTINF:-1 ,ID
-http://190.83.119.67:8000/play/a0u7/index.m3u8
-#EXTINF:-1 ,STAR
-http://190.83.119.67:8000/play/a0u4/index.m3u8
-#EXTINF:-1 ,DISNEY PLUS
-http://190.83.119.67:8000/play/a0u3/index.m3u8
-#EXTINF:-1 ,A&E
-http://190.83.119.67:8000/play/a0s8/index.m3u8
-#EXTINF:-1 ,E
-http://190.83.119.67:8000/play/a0s7/index.m3u8
-#EXTINF:-1 ,WB
-http://190.83.119.67:8000/play/a0s6/index.m3u8
-#EXTINF:-1 ,NOVA
-http://190.83.119.67:8000/play/a0s2/index.m3u8
-#EXTINF:-1 ,9HD
-http://190.83.119.67:8000/play/a0s0/index.m3u8
-#EXTINF:-1 ,EURO CHANNEL
-http://190.83.119.67:8000/play/a0r6/index.m3u8
-#EXTINF:-1 ,ITALY 1
-http://190.83.119.67:8000/play/a0r5/index.m3u8
-#EXTINF:-1 ,11
-http://190.83.119.67:8000/play/a0r0/index.m3u8
-#EXTINF:-1 ,Khusboo TV
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1 ,Clarity 4K
-https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ,IN Wild
-https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 ,Wild EARTH
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,MOVIES
-http://208.86.19.13:81/11.stream/index.m3u8
-#EXTINF:-1 ,RUSSIAN HINDI
-http://myott.top/stream/DEKA6YA5JRN/104.m3u8
+
 #EXTINF:-1 ,MOVIES RUSSIAN
 http://myott.top/stream/DEKA6YA5JRN/107.m3u8
+
 #EXTINF:-1 ,RUSSIAN AFG
 http://myott.top/stream/DEKA6YA5JRN/128.m3u8
+
 #EXTINF:-1 ,RUSSIAN
 http://myott.top/stream/DEKA6YA5JRN/152.m3u8
+
 #EXTINF:-1 ,RUS
 http://myott.top/stream/DEKA6YA5JRN/171.m3u8
+
 #EXTINF:-1 ,cinema
 http://myott.top/stream/DEKA6YA5JRN/351.m3u8
+
 #EXTINF:-1 ,roc
 http://myott.top/stream/DEKA6YA5JRN/359.m3u8
+
 #EXTINF:-1 ,3bit
 http://myott.top/stream/DEKA6YA5JRN/417.m3u8
-#EXTINF:-1 ,BOLLYWOOD HD RUSSIA
-https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO LATINO (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147306.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO LATINO (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147307.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO Signature (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147308.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO Signature (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147309.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO Zone (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147310.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | HBO Zone (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147311.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | CineMAX (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147313.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | CineMAX (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147314.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | EPIX (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147315.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | EPIX (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147316.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Epix 2
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147317.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | EPIX Drive-In
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147318.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | EPIX Hits
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147319.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147320.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147321.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime 2 (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147322.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime 2 (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147323.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Extreme (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147324.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Extreme (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147325.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Family Zone (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147326.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Family Zone (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147327.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Next (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147328.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Next (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147329.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Showcase (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147330.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Showcase (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147331.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Women (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147332.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Showtime Women (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147333.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | SHOxBET (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147334.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | SHOxBET (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147335.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147336.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147337.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Cinema (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147338.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Cinema (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147339.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Comedy (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147340.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Comedy (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147341.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Edge (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147342.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Edge (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147343.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Encore (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147344.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA | Starz Encore (West)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147345.m3u8
-#EXTINF:-1 group-title="USA | PREMIUM",USA |Starz Encore Action (East)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/147346.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Atlanta
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145786.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Baltimore
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145787.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Boston
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145788.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Charlotte
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145789.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Chicago
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145790.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Cleveland
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145791.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Connecticut
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145792.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Dallas
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145793.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Denver
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145794.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Detroit
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145795.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Durham
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145796.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Fresno
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145797.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Hartford
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145798.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Houston
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145799.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Indianapolis
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145800.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Kansas City
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145801.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Los Angeles
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145802.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Miami
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145803.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Milwaukee
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145804.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Nashville
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145805.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC New York
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145806.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Orlando
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145807.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Philadelphia
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145808.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Phoenix
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145809.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Pittsburgh
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145810.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Portland
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145811.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Sacramento
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145812.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Saint Paul
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145813.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Salt lake city
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145814.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC San Antonio
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145815.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC San Diego
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145816.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC San Francisco
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145817.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Seattle
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145818.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC St Louis
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145819.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Tampa Bay
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145820.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC Washington
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145821.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC EL PASO
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145822.m3u8
-#EXTINF:-1 group-title="USA | ABC",ABC: Buffalo WKBW
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145823.m3u8
-#EXTINF:-1 group-title="USA | ABC",USA | ABC SPRINGFIELD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145824.m3u8
-#EXTINF:-1 group-title="USA | CBS",USA |  CBS Bakersfield
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145825.m3u8
-#EXTINF:-1 group-title="USA | FOX",FOX NEW ORLEANS LA WVUE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/34829.m3u8
-#EXTINF:-1 group-title="USA | FOX",FOX PHILADELPHIA PA WTXF
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/34832.m3u8
-#EXTINF:-1 group-title="USA | FOX",FOX SAN FRANCISCO CA KTVU
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/34839.m3u8
-#EXTINF:-1 group-title="USA | FOX",FOX SEATTLE WA KCPQ
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/34840.m3u8
-#EXTINF:-1 group-title="USA | FOX",FOX ST LOUIS MO KTVI
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/34841.m3u8
-#EXTINF:-1 group-title="USA | FOX",US: FOX CLEVELAND HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39585.m3u8
-#EXTINF:-1 group-title="USA | FOX",US: FOX Ocala
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39592.m3u8
-#EXTINF:-1 group-title="USA | FOX",US: FOX Tampa
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/39594.m3u8
-#EXTINF:-1 group-title="USA | FOX",OH | Columbus | FOX WTTE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/135538.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Albany GA
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145866.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Atlanta
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145867.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Bakersfield
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145868.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Baltimore
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145869.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Boston
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145870.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Buffalo
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145871.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Charlotte
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145872.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Chicago
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145873.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Cincinnati
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145874.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Cleveland
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145875.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Miami
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145886.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Milwaukee
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145887.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Minneapolis
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145888.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Nashville
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145889.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC New Orleans
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145890.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC New York
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145891.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Orlando
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145892.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Philadelphia
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145893.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Phoenix
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145894.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Pittsburgh
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145895.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Raleigh
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145896.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Sacramento
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145897.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Salt Lake City
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145898.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC San Diego
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145899.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC San Francisco
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145900.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Seattle
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145901.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Washington
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145903.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Joplin
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145904.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC Tampa Bay
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145905.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC  AMARILLO
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145907.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC EL PASO
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145908.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA | NBC 10 COLUMBIA | WIS
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145909.m3u8
-#EXTINF:-1 group-title="USA | NBC",NBC | Cincinnati WLWT 5
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145910.m3u8
-#EXTINF:-1 group-title="USA | NBC",USA NBC15 WPMI ALABAMA
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145911.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | A&E
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145912.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | AMC HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145914.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | AMC+
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145915.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | AMERICAN HEROS CHANNEL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145916.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | ANIMAL PLANET
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145917.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | NATGEO WILD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145984.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | OVATION
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145985.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | OWN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145986.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | OXYGEN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145987.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | PARAMOUNT NETWORK
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145988.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | PEOPLE TV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145989.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | QVC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145991.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | QVC 2
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145992.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | REELZ
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145993.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | RETRO PLEX
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145994.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | REVOLT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145995.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | SMITHSONIAN CHANNEL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145996.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | SUNDANCE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145997.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | SYFY
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145998.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TASTEMADE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145999.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TBS EAST
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146000.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TCM
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146001.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TLC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146002.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TNT EAST
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146003.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TRAVEL CHANNEL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146004.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TRUTV EAST
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146005.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TV LAND
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146006.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | TV ONE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146007.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | USA NETWORK
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146008.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | VH1
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146009.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | VICELAND
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146010.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | WE TV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146011.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | WEATHER CHANNEL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146012.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | DISNEY CHANNEL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146675.m3u8
-#EXTINF:-1 group-title="USA | BASIC",USA | DISNEY JR
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146676.m3u8
-#EXTINF:-1 group-title="24/7",24/7 3rd Rock from the Sun
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145586.m3u8
-#EXTINF:-1 group-title="24/7",24/7 90 Day Fiancé
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145587.m3u8
-#EXTINF:-1 group-title="24/7",24/7 A Different World
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145588.m3u8
-#EXTINF:-1 group-title="24/7",24/7 All Rise
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145590.m3u8
-#EXTINF:-1 group-title="24/7",24/7 American Dad!
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145591.m3u8
-#EXTINF:-1 group-title="24/7",24/7 American Pie
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145593.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Avenger Movies
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145594.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Back to the Future Trilogy
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145595.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Bad Blood
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145596.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Band of Brothers
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145597.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Batman Collection
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145598.m3u8
-#EXTINF:-1 group-title="24/7",24/7 BET+
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145599.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Beverly Hills Cop
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145600.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Bewitched
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145601.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Big Mouth
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145602.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Bigger
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145603.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Bill & Ted
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145604.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Blue Mountain State
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145605.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Bob's Burgers
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145606.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Breaking Bad
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145607.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Buffy the Vampire Slayer
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145608.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Californication
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145609.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Last Man Standing
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145678.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Law & Order: Special Victims Unit
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145679.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Looney Toons
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145681.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Lord of the Rings (Extended Edition)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145682.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Married... with Children
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145683.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Martin
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145684.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Marvel's The Punisher
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145685.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Maverick Black Cinema
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145686.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Mickey and the Roadster Racers
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145687.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Mickey Mouse Clubhouse
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145688.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Mission: Impossible
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145689.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Moesha
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145690.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Money Heist
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145691.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Mr. Robot
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145692.m3u8
-#EXTINF:-1 group-title="24/7",24/7 My Name Is Earl
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145693.m3u8
-#EXTINF:-1 group-title="24/7",24/7 My Strange Addiction
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145694.m3u8
-#EXTINF:-1 group-title="24/7",24/7 My Wife and Kids
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145695.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Naruto
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145696.m3u8
-#EXTINF:-1 group-title="24/7",24/7 National Lampoons
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145697.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Nick Cannon Presents  Wild N Out
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145698.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Nightmare on Elm Street
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145699.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Tom & Jerry
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145777.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Trolls Movies
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145778.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Unsolved Mysteries with Robert Stack
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145779.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Why Women Kill
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145780.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Yellowstone
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145783.m3u8
-#EXTINF:-1 group-title="24/7",24/7 Young Wallander
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/145784.m3u8
-#EXTINF:-1 group-title="24/7",Paramount+ Picks
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146707.m3u8
-#EXTINF:-1 group-title="24/7",Showtime Selects
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146708.m3u8
-#EXTINF:-1 group-title="24/7",TV Land Drama
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146709.m3u8
-#EXTINF:-1 group-title="24/7",Stories by AMC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146710.m3u8
-#EXTINF:-1 group-title="24/7",90210
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146711.m3u8
-#EXTINF:-1 group-title="24/7",Baywatch
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146713.m3u8
-#EXTINF:-1 group-title="24/7",Star Trek
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146717.m3u8
-#EXTINF:-1 group-title="24/7",British Drama
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146719.m3u8
-#EXTINF:-1 group-title="24/7",Best of Dr. Phil
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146720.m3u8
-#EXTINF:-1 group-title="24/7",Nosey
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146723.m3u8
-#EXTINF:-1 group-title="24/7",Judge Nosey
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146724.m3u8
-#EXTINF:-1 group-title="24/7",Tiny House Nation
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146824.m3u8
-#EXTINF:-1 group-title="24/7",Cats 24/7
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146828.m3u8
-#EXTINF:-1 group-title="24/7",Dogs 24/7
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146829.m3u8
-#EXTINF:-1 group-title="24/7",The Pet Collective
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146830.m3u8
-#EXTINF:-1 group-title="24/7",Faith TV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146831.m3u8
-#EXTINF:-1 group-title="24/7",TBN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146832.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: AMC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35892.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: ANIMAL PLANET
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35893.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: AXN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35894.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: BOOMERANG
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35898.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: CANAL DE LAS ESTRELLAS
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35900.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",EL: CARTOON NETWORK
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35901.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] AXN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36546.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] AXN HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36547.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] AXN WHITE HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36548.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] COSMO HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36550.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] FOX HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36551.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] FOX LIFE HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36552.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] HOLLYWOOD HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36553.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] COMEDY CENTRAL HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36554.m3u8
-#EXTINF:-1 group-title="LATINO/SPANISH",[ES] M. ACCION HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36555.m3u8
-#EXTINF:-1 group-title="USA | ESPN",US: ESPN DEPORTES FHD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35079.m3u8
-#EXTINF:-1 group-title="USA | ESPN",US: ESPN 3
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/50683.m3u8
-#EXTINF:-1 group-title="USA | ESPN",USA: ACC NETWORK
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/35156.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | Music Choice Max - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146685.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | Musica Urbana - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146686.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | Pop & Country - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146687.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | Pop Hits - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146688.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | R&B Soul - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146691.m3u8
-#EXTINF:-1 group-title="MUSIC",MC Video | Rap - DIRECT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146692.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] 13TH  STREET HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36762.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] HEIMATKANAL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36763.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] ROMANCE TV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36764.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] Sky Nostalgie
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36765.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] ATV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36766.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] ARD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36767.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] D MAX
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36768.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] TLC HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36769.m3u8
-#EXTINF:-1 group-title="GERMANY",[DE] Disney Cinemagic
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/36770.m3u8
-#EXTINF:-1 group-title="CANADA",CA | CP24 (back up)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146045.m3u8
-#EXTINF:-1 group-title="CANADA",CA | CPAC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146046.m3u8
-#EXTINF:-1 group-title="CANADA",CA | CRAVE 1
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146047.m3u8
-#EXTINF:-1 group-title="CANADA",CA | CRAVE 2
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/146048.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: NBC | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/52869.m3u8
-#EXTINF:-1 group-title="FUBO LINE",SC | Charleston | FOX WTAT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/52967.m3u8
-#EXTINF:-1 group-title="FUBO LINE",VA | Virginia Beach | FOX WVBT
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/52982.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | Alexandria | NBC KALB
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53057.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | Baton Rouge | NBC WVLA
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53058.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | Lafayette | NBC KLAF
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53059.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | Lake Charles | NBC KPLC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53060.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | New Orleans | NBC WDSU
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53061.m3u8
-#EXTINF:-1 group-title="FUBO LINE",LA | Shreveport | NBC KSL
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53062.m3u8
-#EXTINF:-1 group-title="FUBO LINE",MN | Minneapolis | NBC KARE
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53075.m3u8
-#EXTINF:-1 group-title="FUBO LINE",MO | Columbia | NBC KOMU
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53076.m3u8
-#EXTINF:-1 group-title="FUBO LINE",MO | Springfield | NBC KYTV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53077.m3u8
-#EXTINF:-1 group-title="FUBO LINE",MO | St. Joseph | NBC KNPG
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53078.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Fort Worth | NBC KXAS
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53152.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Houston | NBC KPRC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53153.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Jacksonville | NBC KETK
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53154.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Laredo | NBC KGNS
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53155.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Lubbock | NBC KCBD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53156.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | Odessa | NBC KWES
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53157.m3u8
-#EXTINF:-1 group-title="FUBO LINE",TX | San Angelo | NBC KSAN
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53158.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WA | Washington | NBC WRC
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53168.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WI | La Crosse | NBC WEAU
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53170.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WI | Madison | NBC WMTV
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53171.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WI | Milwaukee | NBC WTMJ
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53172.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WI | Superior | NBC KBJR
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53173.m3u8
-#EXTINF:-1 group-title="FUBO LINE",WI | Wausau | NBC WJFW
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53174.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: beIN Sports 1 | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53184.m3u8
-#EXTINF:-1 group-title="FUBO LINE",bein Sports USA | HD
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53185.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: Bein Sports 2 | (ES)
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53186.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: BeIN Sports 4 | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53188.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: BeIN Sports 6 | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53190.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: BeIN Sports 7 | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53191.m3u8
-#EXTINF:-1 group-title="FUBO LINE",US: BeIN Sports 8 | HD*
-http://31.14.41.118:8080/live/Matt26746595/WmU5aBL80E/53192.m3u8
+
+#EXTINF:-1 ,TEN SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
+
+#EXTINF:-1 ,CRICKET LAST IP CHANNEL
+http://208.86.19.13:81/60222.stream/index.m3u8
+
+#EXTINF:-1 ,WRISTLING
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 ,A&E MOVIES
+http://190.83.119.67:8000/play/a0s8/index.m3u8
+
+#EXTINF:-1 ,MOVIES GOLDEN GLOBE
+http://208.86.19.13:81/11.stream/index.m3u8
+
+#EXTINF:-1 ,Clarity 4K WILD
+https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 ,IN Wild
+https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
+
+#EXTINF:-1 ,Wild EARTH
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+
+
