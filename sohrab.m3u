@@ -150,11 +150,25 @@ http://190.83.119.67:8000/play/a0s8/index.m3u8
 http://208.86.19.13:81/11.stream/index.m3u8
 
 #EXTINF:-1 ,MIAMI MIXICO
-https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-#EXTINF:-1 ,MIAMI LATINO
-https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-#EXTINF:-1 ,MIAMI LIVE
-https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+http://190.83.119.67:8000/play/a0ut/index.m3u8
+
+#EXTINF:-1,AXN
+http://190.83.119.67:8000/play/a0us/index.m3u8
+
+#EXTINF:-1,CINEMAX
+http://190.83.119.67:8000/play/a0ug/index.m3u8
+
+#EXTINF:-1,LATINO
+http://190.83.119.67:8000/play/a0uf/index.m3u8
+
+#EXTINF:-1,MIP
+http://190.83.119.67:8000/play/a0ue/index.m3u8
+
+#EXTINF:-1,TCM
+http://190.83.119.67:8000/play/a0ri/index.m3u8
+
+#EXTINF:-1,MOVIE
+http://190.83.119.67:8000/play/a0qi/index.m3u8
 
 #EXTINF:-1 ,Clarity 4K WILD
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
