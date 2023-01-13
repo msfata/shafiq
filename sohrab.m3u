@@ -36,6 +36,9 @@ http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://208.86.19.13:81/636.stream/index.m3u8
 
+#EXTINF:-1 group-title="INDIA",B4U MOVIES 1
+http://42.200.67.163:8090/play/a0nb
+
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
 
@@ -66,6 +69,12 @@ https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/b68d1da
 #EXTINF:-1,B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 
+#EXTINF:-1,SAHARA
+http://42.200.67.163:8090/play/a0qi
+
+#EXTINF:-1,DMAKA MOVIES
+http://42.200.67.163:8090/play/a0pv
+
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 
@@ -74,6 +83,7 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
+
 
 
 
