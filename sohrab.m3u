@@ -23,6 +23,8 @@ http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",NOBEL TV
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 
+#EXTINF:-1 group-title="AFGHANISTAN",HASTI
+https://live.hastitv.com/hls/livetv.m3u8
 
 #EXTINF:-1,7099 STAR GOLD
 http://208.86.19.13:81/7099.stream/index.m3u8
@@ -188,6 +190,45 @@ https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+
+
+#EXTINF:-1,AD SPORT
+http://208.86.19.13:81/60222.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 1
+http://208.86.19.13:81/9022.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 2
+http://208.86.19.13:81/7377.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 3
+http://208.86.19.13:81/7322.stream/index.m3u8
+
+#EXTINF:-1,SONY SPORT 1
+http://208.86.19.13:81/7266.stream/index.m3u8
+
+#EXTINF:-1,SONY SPORT 3
+http://208.86.19.13:81/7133.stream/index.m3u8
+
+#EXTINF:-1,ASTRO CRICKET
+http://208.86.19.13:81/7077.stream/index.m3u8
+
+#EXTINF:-1,TEN SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
+
+#EXTINF:-1,Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
+
+
+#EXTINF:-1,BEIN 1
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
+ 
+#EXTINF:-1,BEIN 2
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
+
+#EXTINF:-1,BEIN 3
+http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
+
 
 
 #EXTINF:-1 ,n
