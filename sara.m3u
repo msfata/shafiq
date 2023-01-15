@@ -82,6 +82,7 @@ http://208.86.19.13:81/7033.stream/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
 http://216.66.42.37:7777/GemTravel_HD.m3u8
 #EXTINF:-1 group-title="IRAN",GEM FILM
@@ -260,3 +261,27 @@ http://208.86.19.13:81/16.stream/index.m3u8
 
 #EXTINF:-1,DISNEY
 http://208.86.19.13:81/14.stream/index.m3u8
+
+#EXTINF:-1,AD SPORT
+http://208.86.19.13:81/60222.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 1
+http://208.86.19.13:81/9022.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 2
+http://208.86.19.13:81/7377.stream/index.m3u8
+
+#EXTINF:-1,STAR SPORT 3
+http://208.86.19.13:81/7322.stream/index.m3u8
+
+#EXTINF:-1,SONY SPORT 1
+http://208.86.19.13:81/7266.stream/index.m3u8
+
+#EXTINF:-1,SONY SPORT 3
+http://208.86.19.13:81/7133.stream/index.m3u8
+
+#EXTINF:-1,ASTRO CRICKET
+http://208.86.19.13:81/7077.stream/index.m3u8
+
+#EXTINF:-1,TEN SPORT
+http://208.86.19.13:81/711.stream/index.m3u8
