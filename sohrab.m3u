@@ -44,9 +44,6 @@ http://42.200.67.163:8090/play/a0nb
 #EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
 http://208.86.19.13:81/7011.stream/index.m3u8
 
-#EXTINF:-1 group-title="HINDI",SHEMAROO BOLLYWOOD
-https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/cb553e1f796c648d98d43d65d0ef41a8dc243dfc087a8d6933fb4b926bc10f41e2e5af97b20cac7822fb0fdf61146d5a4d009247d8780ad7967cac48240d5734c6cdd52e8be24b4daddd0c2d34b07c0e49857671ad594f32d5e0110dc51ab07a0e1ca1494d5e2082b00cb27752cd9e0a957f378bbdbe306f2c180680585ee2be5da5edf5584cdc39f3b84a49882645b1865fc8d549ef9ddd5899119b20a0159c93f38ed51685829901c16d9b5cf6d3e21ce3e25eb18b3383d4937d3c9831034f1052e2ac9e8c3f56e462762c347b56dd1f9936db9b2a91654ddb4af81dc058220adb681983274a7292ff3b6a91c399a054f87fafcdafee273cad63b48ee6d3777397ccd9192dc640d73822349cfc8441ca9355de812a8bb0660a2b80bf71dbcce2cdbfebcd7d952b9c93afd825141a2a4423964dae9f5ade2bf671bc8146720b0317fbda1defaeed731c2e0f8a8955d1533cbcd8808c964e18c2721457ed2f880b5d229c7a3c32b56dca9b3a6d9b2f45d0666ab50b63f23796d21bfca9dfea1128f58f97309841dbf55b82b852d32e563f25bcfd2b5340360df3e674023d7c8308a4e4c3ef730617ffb5aadac54033133607586fdabbb7ffb21b6327a95c731f2cf864b1653b68/190/1920x1080_5058864/index.m3u8
-
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 
@@ -64,9 +61,6 @@ http://208.86.19.13:81/7288.stream/index.m3u8
 
 #EXTINF:-1 group-title="INDIA",ZING
 http://208.86.19.13:81/634.stream/index.m3u8
-
-#EXTINF:-1 group-title="INDIA",PRIME
-https://dai.google.com/linear/hls/pa/event/yvQpXDAeRMGU25KTu--V6Q/stream/b68d1da4-7ec1-47a1-9a48-a6f411cd82ae:BRU/variant/7c78a2dcaf133f167b8b7081db1d898b/bandwidth/1513600.m3u8
 
 #EXTINF:-1,B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
@@ -86,8 +80,11 @@ https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462
 #EXTINF:-1 group-title="INDIA",HINDI MOVIES
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dhamaal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dhamaal 
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="KadakHits.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 
 #EXTINF:-1,7033 &TV
 http://208.86.19.13:81/7033.stream/index.m3u8
@@ -229,268 +226,22 @@ http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
 #EXTINF:-1,BEIN 3
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
 
+#EXTINF:-1 tvg-id="NetmaxTV.gr" tvg-country="GR" tvg-language="Greek" tvg-logo="https://i.imgur.com/Wad6CD4.png" group-title="",Netmax TV
+http://live.netmaxtv.com:8080/live/live/playlist.m3u8
+
+#EXTINF:-1,Groovy TV 
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+
+#EXTINF:-1,The Archive 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
+
+#EXTINF:-1,Nosey 
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
+
+#EXTINF:-1,STIRR Space:1999 
+https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 
 
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0ns/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nt/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nu/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nv/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nw/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nx/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0ny/index.m3u8
-#EXTINF:-1 ,n
-http://190.83.119.67:8000/play/a0nz/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oa/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ob/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oc/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0od/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0of/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0og/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oh/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oi/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oj/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ok/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ol/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0on/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oo/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0op/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0or/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0os/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ot/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ou/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ov/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0ow/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oy/index.m3u8
-#EXTINF:-1 ,o
-http://190.83.119.67:8000/play/a0oz/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pa/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pb/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pc/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pd/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pe/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pf/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pg/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0ph/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pi/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pj/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pk/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pl/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pm/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pn/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0po/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pp/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pq/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pr/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0ps/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pt/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pu/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pv/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pw/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0px/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0py/index.m3u8
-#EXTINF:-1 ,p
-http://190.83.119.67:8000/play/a0pz/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qa/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qb/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qc/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qd/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qe/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qf/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qg/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qi/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qj/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qk/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qo/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qp/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qq/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qr/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qs/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qt/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qu/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qw/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qx/index.m3u8
-#EXTINF:-1 ,q
-http://190.83.119.67:8000/play/a0qy/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rb/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rc/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rd/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rf/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rg/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rh/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rm/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rn/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rp/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rq/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rr/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rs/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0ru/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rx/index.m3u8
-#EXTINF:-1 ,r
-http://190.83.119.67:8000/play/a0rz/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sa/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sb/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sc/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sd/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0se/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sf/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sg/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sh/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0si/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sk/index.m3u8
-#EXTINF:-1 ,s
-http://190.83.119.67:8000/play/a0sl/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0ta/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tb/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tc/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0td/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tf/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0ti/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tk/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tt/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tu/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tv/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tw/index.m3u8
-#EXTINF:-1 ,t
-http://190.83.119.67:8000/play/a0tx/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ua/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ub/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uc/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ud/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ue/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uf/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ug/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uh/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ui/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uq/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ur/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0us/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0ut/index.m3u8
-#EXTINF:-1 ,u
-http://190.83.119.67:8000/play/a0uv/index.m3u8
-#EXTINF:-1 ,v
-http://190.83.119.67:8000/play/a0ve/index.m3u8
 
 
 
