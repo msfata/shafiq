@@ -89,6 +89,12 @@ https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1,7033 &TV
 http://208.86.19.13:81/7033.stream/index.m3u8
 
+#EXTINF:-1,6055 COLOR
+http://208.86.19.13:81/6055.stream/index.m3u8
+
+#EXTINF:-1,513 URDU TV
+http://208.86.19.13:81/513.stream/index.m3u8
+
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
 
