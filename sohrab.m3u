@@ -140,6 +140,9 @@ http://180.178.188.152:8000/play/a00s
 #EXTINF:-1,513 URDU TV
 http://208.86.19.13:81/513.stream/index.m3u8
 
+#EXTINF:-1,TRILER ACTIVE
+http://180.178.188.152:8000/play/a09t
+
 #EXTINF:-1,Family
 http://180.178.188.152:8000/play/a07b
 
@@ -148,6 +151,15 @@ http://180.178.188.152:8000/play/a07d
 
 #EXTINF:-1,BADAR MUNIER
 http://180.178.188.152:8000/play/a09z
+
+#EXTINF:-1,BADAR MUNIER ONE
+http://180.178.188.152:8000/play/a07g
+
+#EXTINF:-1,HUM
+http://180.178.188.152:8000/play/a08j
+
+#EXTINF:-1,SITARY
+http://180.178.188.152:8000/play/a08k
 
 #EXTINF:-1,COLOR INFINITY
 http://180.178.188.152:8000/play/a01b
@@ -279,6 +291,9 @@ http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1,Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
 
+#EXTINF:-1,EURO SPORT HD
+http://180.178.188.152:8000/play/a00r
+
 
 #EXTINF:-1,BEIN 1
 http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
@@ -315,6 +330,9 @@ http://200.110.169.237:8202/play/a03q
 
 #EXTINF:-1, SONY PIX
 http://180.178.188.152:8000/play/a09u
+
+#EXTINF:-1,WILD
+http://180.178.188.152:8000/play/a00i
 
 
 

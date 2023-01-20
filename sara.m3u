@@ -81,6 +81,39 @@ http://208.86.19.13:81/7033.stream/index.m3u8
 #EXTINF:-1,6411 SAMA
 http://208.86.19.13:81/6411.stream/index.m3u8
 
+#EXTINF:-1,UTV ACTION
+http://180.178.188.152:8000/play/a01p
+
+#EXTINF:-1,ZEE ANMOL
+http://180.178.188.152:8000/play/a00s
+
+#EXTINF:-1,513 URDU TV
+http://208.86.19.13:81/513.stream/index.m3u8
+
+#EXTINF:-1,TRILER ACTIVE
+http://180.178.188.152:8000/play/a09t
+
+#EXTINF:-1,Family
+http://180.178.188.152:8000/play/a07b
+
+#EXTINF:-1,EROJ
+http://180.178.188.152:8000/play/a07d
+
+#EXTINF:-1,BADAR MUNIER
+http://180.178.188.152:8000/play/a09z
+
+#EXTINF:-1,BADAR MUNIER ONE
+http://180.178.188.152:8000/play/a07g
+
+#EXTINF:-1,HUM
+http://180.178.188.152:8000/play/a08j
+
+#EXTINF:-1,SITARY
+http://180.178.188.152:8000/play/a08k
+
+#EXTINF:-1,COLOR INFINITY
+http://180.178.188.152:8000/play/a01b
+
 
 
 
