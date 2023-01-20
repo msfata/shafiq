@@ -26,8 +26,17 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 #EXTINF:-1 group-title="AFGHANISTAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
 
+#EXTINF:-1,ZEE CINEMA HD
+http://180.178.188.152:8000/play/a00z
+
 #EXTINF:-1,7099 STAR GOLD
 http://208.86.19.13:81/7099.stream/index.m3u8
+
+#EXTINF:-1,Star GOLD HD 
+http://180.178.188.152:8000/play/a012
+
+#EXTINF:-1,Star Gold 2
+http://180.178.188.152:8000/play/a01q
 
 #EXTINF:-1,7055 &PICTURES
 http://208.86.19.13:81/7055.stream/index.m3u8
@@ -50,11 +59,20 @@ http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 
+#EXTINF:-1,ZEE BOLLYWO
+http://180.178.188.152:8000/play/a01r
+
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 
 #EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
+
+#EXTINF:-1,SONY HD
+http://186.121.249.26:8000/play/a01i
+
+#EXTINF:-1,SONY MAX 2 
+http://180.178.188.152:8000/play/a01s
 
 #EXTINF:-1,Sony
 http://200.110.169.237:8202/play/a021
@@ -100,6 +118,24 @@ http://180.178.188.152:8000/play/a01u
 
 #EXTINF:-1,6055 COLOR
 http://208.86.19.13:81/6055.stream/index.m3u8
+
+#EXTINF:-1,Star Gold Sel
+http://180.178.188.152:8000/play/a014
+
+#EXTINF:-1,&flix HD
+http://180.178.188.152:8000/play/a00p
+
+#EXTINF:-1,&PRIVE HD
+http://180.178.188.152:8000/play/a01d
+
+#EXTINF:-1,Sony
+http://200.110.169.237:8202/play/a021
+
+#EXTINF:-1,UTV ACTION
+http://180.178.188.152:8000/play/a01p
+
+#EXTINF:-1,ZEE ANMOL
+http://180.178.188.152:8000/play/a00s
 
 #EXTINF:-1,513 URDU TV
 http://208.86.19.13:81/513.stream/index.m3u8
@@ -258,48 +294,6 @@ https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 
 #EXTINF:-1,INTERMEDIA
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-
-#EXTINF:-1,Sony
-http://200.110.169.237:8202/play/a021
-
-#EXTINF:-1,UTV ACTION-
-http://180.178.188.152:8000/play/a01p
-
-#EXTINF:-1,ZEE ANMOL-Rs 10p
-http://180.178.188.152:8000/play/a00s
-
-#EXTINF:-1,ZEE BOLLYWO
-http://180.178.188.152:8000/play/a01r
-
-#EXTINF:-1,ZEE CINEMA HD
-http://180.178.188.152:8000/play/a00z
-
-#EXTINF:-1,SONY HD
-http://186.121.249.26:8000/play/a01i
-
-#EXTINF:-1,SONY MAX 2 
-http://180.178.188.152:8000/play/a01s
-
-#EXTINF:-1,Star GOLD HD 
-http://180.178.188.152:8000/play/a012
-
-#EXTINF:-1,Star Gold 2
-http://180.178.188.152:8000/play/a01q
-
-#EXTINF:-1,Star Gold Sel
-http://180.178.188.152:8000/play/a014
-
-#EXTINF:-1,&flix HD
-http://180.178.188.152:8000/play/a00p
-
-#EXTINF:-1,&pictures HD 
-http://180.178.188.152:8000/play/a017
-
-#EXTINF:-1,&PRIVE HD
-http://180.178.188.152:8000/play/a01d
-
-#EXTINF:-1,&tv HD 
-http://180.178.188.152:8000/play/a01u
 
 #EXTINF:-1,Pasiones HD
 http://186.121.249.26:8000/play/a02d
