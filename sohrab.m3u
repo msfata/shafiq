@@ -140,6 +140,18 @@ http://180.178.188.152:8000/play/a00s
 #EXTINF:-1,513 URDU TV
 http://208.86.19.13:81/513.stream/index.m3u8
 
+#EXTINF:-1,Family
+http://180.178.188.152:8000/play/a07b
+
+#EXTINF:-1,EROJ
+http://180.178.188.152:8000/play/a07d
+
+#EXTINF:-1,BADAR MUNIER
+http://180.178.188.152:8000/play/a09z
+
+#EXTINF:-1,COLOR INFINITY
+http://180.178.188.152:8000/play/a01b
+
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
 
@@ -300,6 +312,9 @@ http://186.121.249.26:8000/play/a02d
 
 #EXTINF:-1,RCN Novelas
 http://200.110.169.237:8202/play/a03q
+
+#EXTINF:-1, SONY PIX
+http://180.178.188.152:8000/play/a09u
 
 
 
