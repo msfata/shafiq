@@ -354,8 +354,6 @@ http://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3
 #EXTINF:-1,Insight Tv
 https://insighttv-samsungau.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Rock Entertainment
-http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1,Nosey
 https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
@@ -363,8 +361,6 @@ https://nosey-intl-1-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1,Fox Soul
 https://fox-foxsoul-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,Rock Extreme
-http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1,Inwild
 https://inwild-samsungau.amagi.tv/playlist.m3u8
