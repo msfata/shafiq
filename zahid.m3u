@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,MULI
+#EXTINF:-1 ,MULI
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 ,AFGHANISTAN INTERNATIONAL
 https://hls.afintl.com/hls/stream.m3u8
@@ -9,8 +9,6 @@ https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/VOA-TVMC07_0480/chunkli
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
 #EXTINF:-1 group-title="AFGHANISTAN",ARIANA NEWS
 https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
-#EXTINF:-1,MARIF
-http://51.210.199.51/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",BAHAR
 https://59d39900ebfb8.streamlock.net/bahartv/bahartv/chunklist_w2056151197.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",KAYHAN
@@ -23,14 +21,8 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 http://51.210.227.161/hls/stream.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASI
 https://live.hastitv.com/hls/livetv.m3u8
-
-
 #EXTINF:-1 group-title="INDIA",COLOR CINPLEX
 http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",B4U MOVIES
-http://208.86.19.13:81/636.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",ZEE BOLLYWOOD
-http://208.86.19.13:81/7011.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
@@ -67,8 +59,6 @@ http://208.86.19.13:81/634.stream/index.m3u8
 http://103.72.179.30:1935/GECHindi/COLORS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="INDIA",STAR PLUS
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1 group-title="INDIA",COLOR HD
-http://208.86.19.13:81/6055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY SAB
 http://208.86.19.13:81/7022.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",STAR GOLD SELECT
@@ -77,8 +67,6 @@ http://208.86.19.13:81/7099.stream/index.m3u8
 http://208.86.19.13:81/7055.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",&TV
 http://208.86.19.13:81/7033.stream/index.m3u8
-
-
 #EXTINF:-1 group-title="IRAN",MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 group-title="IRAN",GEM TRAVEL
@@ -147,14 +135,10 @@ http://51.210.227.153/hls/stream.m3u8
 http://51.210.227.155/hls/stream.m3u8
 #EXTINF:-1 ,MIRAJ
 http://51.210.199.32/hls/stream.m3u8
-#EXTINF:-1,ICC PLUS
+#EXTINF:-1 ,ICC PLUS
 http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1,FX
+#EXTINF:-1 ,FX
 http://51.210.199.52/hls/stream.m3u8
-
-
-
-
 #EXTINF:-1 ,30A The Beach Show
 https://30a-tv.com/beachy.m3u8
 #EXTINF:-1 ,Toonami Aftermath Movies
@@ -191,109 +175,49 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 ,WARNER
-http://8.242.187.233:5800/play/a0c7/index.m3u8
-
-#EXTINF:-1,NEW CHANNEL
-http://201.190.40.44:58002/play/a01k/index.m3u8
-
-#EXTINF:-1,STAR MOVIE
+#EXTINF:-1 ,STAR MOVIE
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-
-#EXTINF:-1,ROCK ACTION
+#EXTINF:-1 ,ROCK ACTION
 http://210.210.155.37/dr9445/h/h15/index.m3u8
-
-#EXTINF:-1,ROCK ENTERTAINMENT
+#EXTINF:-1 ,ROCK ENTERTAINMENT
 http://210.210.155.37/dr9445/h/h16/index.m3u8
-
-#EXTINF:-1,TVN MOVIES
+#EXTINF:-1 ,TVN MOVIES
 http://210.210.155.37/dr9445/h/h21/index.m3u8
-
-#EXTINF:-1,TVN TV
+#EXTINF:-1 ,TVN TV
 http://210.210.155.37/dr9445/h/h20/index.m3u8
-
-#EXTINF:-1,MAGNA
+#EXTINF:-1 ,MAGNA
 http://210.210.155.37/dr9445/h/h24/index.m3u8
-
-#EXTINF:-1,HITS
+#EXTINF:-1 ,HITS
 http://210.210.155.37/dr9445/h/h37/index.m3u8
-
-#EXTINF:-1,HITS MOVIES
+#EXTINF:-1 ,HITS MOVIES
 http://210.210.155.37/dr9445/h/h38/index.m3u8
-
-#EXTINF:-1,CINEMA WORLD
+#EXTINF:-1 ,CINEMA WORLD
 http://210.210.155.37/dr9445/h/h04/index.m3u8
-
-#EXTINF:-1,MY CINEMA
+#EXTINF:-1 ,MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
-
-#EXTINF:-1,MY CENIMA ASIA
+#EXTINF:-1 ,MY CENIMA ASIA
 http://210.210.155.37/uq2663/h/h193/index.m3u8
-
-#EXTINF:-1,FAMILY CHANNEL
+#EXTINF:-1 ,FAMILY CHANNEL
 http://210.210.155.37/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1,My Cinema Europe 
+#EXTINF:-1 ,My Cinema Europe
 http://210.210.155.37/uq2663/h/h18/index.m3u8
-
-#EXTINF:-1,Movie box
+#EXTINF:-1 ,Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-
-#EXTINF:-1,FIGHT
+#EXTINF:-1 ,FIGHT
 http://210.210.155.37/dr9445/h/h05/index.m3u8
-
-#EXTINF:-1,FIGHT 1
-http://208.86.19.13:81/7377.stream/index.m3u8
-
-#EXTINF:-1,TEN SPORT
+#EXTINF:-1 ,TEN SPORT
 http://208.86.19.13:81/711.stream/index.m3u8
-
-#EXTINF:-1,CRICKET LAST IP CHANNEL
-http://208.86.19.13:81/60222.stream/index.m3u8
-
-#EXTINF:-1,C
+#EXTINF:-1 ,C
 http://208.86.19.13:81/22.stream/index.m3u8
-
-#EXTINF:-1,TNT
+#EXTINF:-1 ,TNT
 http://208.86.19.13:81/16.stream/index.m3u8
-
-#EXTINF:-1,DISNEY
+#EXTINF:-1 ,DISNEY
 http://208.86.19.13:81/14.stream/index.m3u8
-
-
-#EXTINF:-1,AD SPORT
-http://208.86.19.13:81/60222.stream/index.m3u8
-
-#EXTINF:-1,STAR SPORT 1
-http://208.86.19.13:81/9022.stream/index.m3u8
-
-#EXTINF:-1,STAR SPORT 2
-http://208.86.19.13:81/7377.stream/index.m3u8
-
-#EXTINF:-1,STAR SPORT 3
-http://208.86.19.13:81/7322.stream/index.m3u8
-
-#EXTINF:-1,SONY SPORT 1
+#EXTINF:-1 ,SONY SPORT 1
 http://208.86.19.13:81/7266.stream/index.m3u8
-
-#EXTINF:-1,SONY SPORT 3
-http://208.86.19.13:81/7133.stream/index.m3u8
-
-#EXTINF:-1,ASTRO CRICKET
+#EXTINF:-1 ,ASTRO CRICKET
 http://208.86.19.13:81/7077.stream/index.m3u8
-
-#EXTINF:-1,TEN SPORT
+#EXTINF:-1 ,TEN SPORT
 http://208.86.19.13:81/711.stream/index.m3u8
-
-#EXTINF:-1,Bahrain Sports 1
+#EXTINF:-1 ,Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-
-
-#EXTINF:-1,BEIN 1
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115807
- 
-#EXTINF:-1,BEIN 2
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115809
-
-#EXTINF:-1,BEIN 3
-http://clientsportals.com:2095/mfEsyKem/tJWQ4g8d/115601
