@@ -31,7 +31,7 @@ http://208.86.19.13:81/7055.stream/index.m3u8
 http://180.178.188.152:8000/play/a017
 #EXTINF:-1 group-title="INDIA",COLOR CINPLEX
 http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",B4U MOVIES 
+#EXTINF:-1 group-title="INDIA",B4U MOVIES
 http://42.200.67.163:8090/play/a0nb
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
@@ -41,8 +41,6 @@ http://180.178.188.152:8000/play/a01r
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,SONY HD
-http://186.121.249.26:8000/play/a01i
 #EXTINF:-1 ,SONY MAX 2
 http://180.178.188.152:8000/play/a01s
 #EXTINF:-1 ,Sony
@@ -77,28 +75,14 @@ http://200.110.169.237:8202/play/a021
 http://180.178.188.152:8000/play/a01p
 #EXTINF:-1 ,ZEE ANMOL
 http://180.178.188.152:8000/play/a00s
-#EXTINF:-1 ,513 URDU TV
-http://208.86.19.13:81/513.stream/index.m3u8
 #EXTINF:-1 ,TRILER ACTIVE
 http://180.178.188.152:8000/play/a09t
-#EXTINF:-1 ,Family
-http://180.178.188.152:8000/play/a07b
-#EXTINF:-1 ,EROJ
-http://180.178.188.152:8000/play/a07d
-#EXTINF:-1 ,BADAR MUNIER ONE
-http://180.178.188.152:8000/play/a07g
-#EXTINF:-1 ,HUM
-http://180.178.188.152:8000/play/a08j
 #EXTINF:-1 ,SITARY
 http://180.178.188.152:8000/play/a08k
 #EXTINF:-1 ,COLOR INFINITY
 http://180.178.188.152:8000/play/a01b
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
-#EXTINF:-1 group-title="IRAN",GEM SERIES
-http://216.66.42.37:7777/GemSeries_HD.m3u8
-#EXTINF:-1 group-title="IRAN",IRANI OLD
-http://51.210.227.165/hls/stream.m3u8
 #EXTINF:-1 ,MY CINEMA
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 #EXTINF:-1 ,ROCK ACTION
@@ -135,36 +119,16 @@ http://myott.top/stream/DEKA6YA5JRN/417.m3u8
 http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1 ,WRISTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 ,A&E MOVIES
-http://190.83.119.67:8000/play/a0s8/index.m3u8
 #EXTINF:-1 ,MOVIES GOLDEN GLOBE
 http://208.86.19.13:81/11.stream/index.m3u8
-#EXTINF:-1 ,MIAMI MIXICO
-http://190.83.119.67:8000/play/a0ut/index.m3u8
-#EXTINF:-1 ,AXN
-http://190.83.119.67:8000/play/a0us/index.m3u8
-#EXTINF:-1 ,CINEMAX
-http://190.83.119.67:8000/play/a0ug/index.m3u8
-#EXTINF:-1 ,LATINO
-http://190.83.119.67:8000/play/a0uf/index.m3u8
-#EXTINF:-1 ,MIP
-http://190.83.119.67:8000/play/a0ue/index.m3u8
-#EXTINF:-1 ,TCM
-http://190.83.119.67:8000/play/a0ri/index.m3u8
-#EXTINF:-1 ,MOVIE
-http://190.83.119.67:8000/play/a0qi/index.m3u8
 #EXTINF:-1 ,Clarity 4K WILD
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,IN Wild
 https://inwild-samsung-uk.amagi.tv/playlist720-p.m3u8
 #EXTINF:-1 ,Wild EARTH
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 ,STAR SPORT 3
-http://208.86.19.13:81/7322.stream/index.m3u8
 #EXTINF:-1 ,SONY SPORT 1
 http://208.86.19.13:81/7266.stream/index.m3u8
-#EXTINF:-1 ,ASTRO CRICKET
-http://208.86.19.13:81/7077.stream/index.m3u8
 #EXTINF:-1 ,TEN SPORT
 http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1 ,Bahrain Sports 1
@@ -183,8 +147,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 ,INTERMEDIA
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 ,Pasiones HD
-http://186.121.249.26:8000/play/a02d
 #EXTINF:-1 ,RCN Novelas
 http://200.110.169.237:8202/play/a03q
 #EXTINF:-1 ,SONY PIX
@@ -213,7 +175,3 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8
 https://d1vp12yk4i8ou5.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Tastemade International
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,MANOTO
-https://edge-uk1.manoto.click/live_500.m3u8
-#EXTINF:-1 ,NEWS
-https://live.playstop.me/1816184091/chunklist_b806000.m3u8
