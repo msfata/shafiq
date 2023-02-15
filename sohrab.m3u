@@ -17,70 +17,31 @@ http://51.210.227.161/hls/stream.m3u8
 https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN",HASTI
 https://live.hastitv.com/hls/livetv.m3u8
-#EXTINF:-1 ,ZEE CINEMA HD
-http://180.178.188.152:8000/play/a00z
-#EXTINF:-1 ,7099 STAR GOLD
-http://208.86.19.13:81/7099.stream/index.m3u8
-#EXTINF:-1 ,Star GOLD HD
-http://180.178.188.152:8000/play/a012
-#EXTINF:-1 ,Star Gold 2
-http://180.178.188.152:8000/play/a01q
-#EXTINF:-1 ,7055 &PICTURES
-http://208.86.19.13:81/7055.stream/index.m3u8
-#EXTINF:-1 ,&pictures HD
-http://180.178.188.152:8000/play/a017
-#EXTINF:-1 group-title="INDIA",COLOR CINPLEX
-http://208.86.19.13:81/73555.stream/index.m3u8
-#EXTINF:-1 group-title="INDIA",B4U MOVIES
-http://42.200.67.163:8090/play/a0nb
+
 #EXTINF:-1 group-title="INDIA",BollywoodHD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/4b8e0fb1-8b97-4410-90ff-346e052badff/2.m3u8
-#EXTINF:-1 ,ZEE BOLLYWO
-http://180.178.188.152:8000/play/a01r
 #EXTINF:-1 group-title="INDIA",BollywoodClassic
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/511e7e4e-f905-4a1c-80e3-4cec03691eec/0.m3u8
+#EXTINF:-1 ,7099 STAR GOLD
+http://208.86.19.13:81/7099.stream/index.m3u8
+#EXTINF:-1 ,7055 &PICTURES
+http://208.86.19.13:81/7055.stream/index.m3u8
+#EXTINF:-1 group-title="INDIA",COLOR CINPLEX
+http://208.86.19.13:81/73555.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",SONY MAX HD
 http://208.86.19.13:81/7066.stream/index.m3u8
-#EXTINF:-1 ,SONY MAX 2
-http://180.178.188.152:8000/play/a01s
-#EXTINF:-1 ,Sony
-http://200.110.169.237:8202/play/a021
 #EXTINF:-1 group-title="INDIA",SONY MAX2
 http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="INDIA",ZEE ACTION
 http://208.86.19.13:81/7288.stream/index.m3u8
 #EXTINF:-1 ,B4U KADAK
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
-#EXTINF:-1 ,SAHARA
-http://42.200.67.163:8090/play/a0qi
-#EXTINF:-1 ,DMAKA MOVIES
-http://42.200.67.163:8090/play/a0pv
 #EXTINF:-1 group-title="INDIA",ZEE AFLAM
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="INDIA",BOLLYWOOD UAE
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_1.m3u8
-#EXTINF:-1 ,7033 &TV
+#EXTINF:-1 , &TV
 http://208.86.19.13:81/7033.stream/index.m3u8
-#EXTINF:-1 ,&tv HD
-http://180.178.188.152:8000/play/a01u
-#EXTINF:-1 ,Star Gold Sel
-http://180.178.188.152:8000/play/a014
-#EXTINF:-1 ,&flix HD
-http://180.178.188.152:8000/play/a00p
-#EXTINF:-1 ,&PRIVE HD
-http://180.178.188.152:8000/play/a01d
-#EXTINF:-1 ,Sony
-http://200.110.169.237:8202/play/a021
-#EXTINF:-1 ,UTV ACTION
-http://180.178.188.152:8000/play/a01p
-#EXTINF:-1 ,ZEE ANMOL
-http://180.178.188.152:8000/play/a00s
-#EXTINF:-1 ,TRILER ACTIVE
-http://180.178.188.152:8000/play/a09t
-#EXTINF:-1 ,SITARY
-http://180.178.188.152:8000/play/a08k
-#EXTINF:-1 ,COLOR INFINITY
-http://180.178.188.152:8000/play/a01b
 #EXTINF:-1 ,ICC+
 http://51.210.227.156/hls/stream.m3u8
 #EXTINF:-1 ,MY CINEMA
@@ -133,8 +94,6 @@ http://208.86.19.13:81/7266.stream/index.m3u8
 http://208.86.19.13:81/711.stream/index.m3u8
 #EXTINF:-1 ,Bahrain Sports 1
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-#EXTINF:-1 ,EURO SPORT HD
-http://180.178.188.152:8000/play/a00r
 #EXTINF:-1 ,Netmax TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
 #EXTINF:-1 ,Groovy TV
@@ -147,10 +106,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 ,INTERMEDIA
 http://46.4.14.12:9999/intermedia1/playlist.m3u8
-#EXTINF:-1 ,RCN Novelas
-http://200.110.169.237:8202/play/a03q
-#EXTINF:-1 ,SONY PIX
-http://180.178.188.152:8000/play/a09u
 #EXTINF:-1 ,Cinelife
 https://magselect-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Redbox spotlight
